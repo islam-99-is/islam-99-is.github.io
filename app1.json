@@ -27,13 +27,13 @@
             "active" : "true",
             "name" : "Guide Tips",
             "ico" : "",
-            "bg" : "#FB923C"
+            "bg" : "#121111"
         },
         {
             "active" : "true",
             "name" : "puzzle",
             "ico" : "https://img.icons8.com/ios/130/ffffff/puzzle.png",
-            "bg" : "#FBBF24"
+            "bg" : "#757473"
         },
         {
             "active" : "true",
@@ -125,130 +125,68 @@
     
     "data" : [
         {
-            "name" : "Toca Life: World - NEW FEATURE in Home Designer! Design Walls and Floors",
-            "img1" : "https://i.pinimg.com/564x/a8/6a/5c/a86a5ce4d13fb835dfe5ad07c8100aa2.jpg",
-            "img2" : "https://i.gifer.com/BCyK.gif",
-            "part1" : "Toca Life World APK guide: how to download on Android, iOS, and PC",
-            "part2" : "How do you download the Toca Life World APK? That is a brilliant question https://www.appcreator24.com and we have devoted this guide to explain it. But first, what Toca Life World? Toca Life World is an educational game where you take control of everything. You get to dress, position, and interact with the surrounding environment, and come up with whatever story comes to mind. Think of Toca Life World as a blank canvas, ready for you to paint on."
+            "name" : "7 Beginner Tips For The Mortuary Assistant",
+            "img1" : "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2022/08/The-Mortuary-Assistant-Beginner-Tips.jpg?q=50&fit=contain&w=960&h=500&dpr=1.5",
+            "img2" : "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2022/08/The-Mortuary-Assistant---Demon.jpg?q=50&fit=crop&dpr=1.5",
+            "part1" : "For players just starting The Mortuary Assistant, here are some tips on identifying and destroying possessed bodies.",
+            "part2" : "The Mortuary Assistant is a horror game with a unique story to tell. Simply put, the player is an apprentice at River Fields Mortuary, learning about how to embalm corpses. However, the twist is that some of these corpses are possessed, and it's up to the player to stay alive and sane.Due to the nature of some horror games, and this one in particular, there are some things that players should know before starting out in The Mortuary Assistant. Knowing these things will make the gameplay run more smoothly, and the learning curve much easier to deal with"
         },
         {
-            "name" : "Toca Life World APK guide",
-            "img1" : "https://i.pinimg.com/564x/34/1b/36/341b3694c814463a27fcd75f5027f47f.jpg",
-            "img2" : "https://i.gifer.com/MjQT.gif",
-            "part1" : "When you search on Google for an APK, there are an overwhelming amount of options all offering different things. The site we trust is APKPure.",
-            "part2" : "HOW CAN I PLAY TOCA LIFE WORLD ON PC? Playing mobile games on your computer has never been easier thanks to emulators. If you don’t know, an emulator is a program that simulates another device. In this situation, you need to download an Android emulator for your computer."
+            "name" : "Investigate Body Parts",
+            "img1" : "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2022/08/The-Mortuary-Assistant---Morgue.jpg?q=50&fit=crop&dpr=1.5",
+            "img2" : "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2022/08/The-Mortuary-Assistant---Morgue.jpg?q=50&fit=crop&dpr=1.5",
+            "part1" : "One of the most important parts of The Mortuary Assistant is attempting to investigate the bodies inside the morgue, in order to figure out what's going on. Players will soon realize that the best way to do so is to investigate all sorts of body parts.",
+            "part2" : "There are all sorts of areas for a player to check out in The Mortuary Assistant. Usually, a player should start by checking the arms and legs before moving on to the shoulders, and eventually the head. A player can even turn the limbs around in order to get a better look at them."
         },
         {
-            "name" : "Toca Life: World Adds a Dentist's Office for Kids to Explore | SuperParent",
+            "name" : "Look for Markings on Parts",
+            "img1" : "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2022/08/The-Mortuary-Assistant---Anatomy.jpg?q=50&fit=crop&dpr=1.5",
+            "img2" : "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2022/08/The-Mortuary-Assistant---Anatomy.jpg?q=50&fit=crop&dpr=1.5",
+            "part1" : "When investigating the body in the morgue, players should be looking for any sort of markings that could alert a player as to what exactly they are dealing with. There are multiple types of markings that a player could identify on a body, such as rashes, contusions, abrasions, or other sorts of blemishes..",
+            "part2" : "These markings in specific positions can tell the player what they have to deal with. For example, a rash on an arm can mean something different from a blemish on a leg."
+        },
+        {
+            "name" : "Be Careful With Embalming Fluid",
+            "img1" : "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2022/08/The-Mortuary-Assistant---Computer.jpg?q=50&fit=crop&dpr=1.5",
+            "img2" : "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2022/08/The-Mortuary-Assistant---Computer.jpg?q=50&fit=crop&dpr=1.5",
+            "part1" : "One of the main parts of the gameplay in The Mortuary Assistant is the embalming process. A player will have mix up their embalming fluid in the pump for it to be usable on the body.",
+            "part2" : "However, players will have to be careful with their embalming fluid. This is due to the fact that it must be mixed together, and there are different mixtures that they will need to make throughout the process. When first starting out, it can be difficult for a player to remember which needs which components; this is especially true if they have other pressing matters at the moment."
+        },
+        {
+            "name" : "Use the Night Shift Database",
+            "img1" : "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2022/08/The-Mortuary-Assistant---Shadows.jpg?q=50&fit=crop&dpr=1.5",
+            "img2" : "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2022/08/The-Mortuary-Assistant---Shadows.jpg?q=50&fit=crop&dpr=1.5",
+            "part1" : "Luckily, a player does not have to memorize each and every piece of information that they gather about demons. In fact, there is even a place for a player to learn more about new demons they have not encountered yet. This is the Night Shift database.",
+            "part2" : "On the Night Shift database, players can learn all sorts of things about different demons, along with refreshing their knowledge on previous encounters. This knowledge can be essential in determining which bodies are possessed."
+        },
+        {
+            "name" : "Use the Night Shift Database",
             "img1" : "https://i.pinimg.com/originals/fe/30/d6/fe30d63c50c0bedd52f213d2beb4bb23.jpg",
             "img2" : "https://i.gifer.com/embedded/download/Fhqw.gif",
             "part1" : "What are the best iPhone games? Whether you’re an Apple diehard or you’ve just bought your first device.",
             "part2" : "To help you find something that specifically appeals to you, we’ve included a few different genres, so no matter your tastes, we’ve got you covered here. From Genshin Impact to Candy Crush, you’re sure to find something you enjoy."
         },
         {
-            "name" : "Explore the World of Toca Boca - GeekDad",
-            "img1" : "https://i.pinimg.com/564x/d8/0c/f3/d80cf3099aac52b695072918fe2d612a.jpg",
-            "img2" : "https://c.tenor.com/-n-tAjzjGl8AAAAC/toca-life-stories-nari.gif",
-            "part1" : "A newcomer on the mobile scene, Genshin Impact proved naysayers wrong that a true, console-quality title is totally possible on mobile. It’s absolutely stunning, with a bunch of characters to collect, a wide world to explore, and plenty of fun to be had.",
-            "part2" : "Check out our Genshin Impact tier list, Genshin Impact map, Genshin Impact codes list, and Genshin Impact next banner guide to help you get started."
+            "name" : "It's Normal For Bodies To Be Possessed",
+            "img1" : "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2022/08/The-Mortuary-Assistant---Ghost.jpg?q=50&fit=crop&dpr=1.5",
+            "img2" : "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2022/08/The-Mortuary-Assistant---Ghost.jpg?q=50&fit=crop&dpr=1.5",
+            "part1" : "Do not panic if it turns out one of the corpses are possessed. That is the norm in The Mortuary Assistant, and it is something that a player will have to deal with during gameplay.",
+            "part2" : "As a player goes through the game, they will learn that one of their many tasks in The Mortuary Assistant is to deal with are possessed bodies. There will be subtle tells, such as expressions changing or new markings on the body, but a player with a trained eye can spot them almost instantly. After all, only by identifying a possessed body can a demon be defeated."
         },
         {
-            "name" : "Toca Life World APK guide",
-            "img1" : "https://i.pinimg.com/474x/ce/89/3c/ce893c542e3462afcc0323d8e4213009.jpg",
-            "img2" : "https://i.gifer.com/MjQT.gif",
-            "part1" : "When you search on Google for an APK, there are an overwhelming amount of options all offering different things. The site we trust is APKPure.",
-            "part2" : "HOW CAN I PLAY TOCA LIFE WORLD ON PC? Playing mobile games on your computer has never been easier thanks to emulators. If you don’t know, an emulator is a program that simulates another device. In this situation, you need to download an Android emulator for your computer."
+            "name" : "Attach a Mark Before Burning a Body",
+            "img1" : "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2022/08/The-Mortuary-Assistant---Demon.jpg?q=50&fit=crop&dpr=1.5",
+            "img2" : "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2022/08/The-Mortuary-Assistant---Demon.jpg?q=50&fit=crop&dpr=1.5",
+            "part1" : "The best way to deal with a possessed body is to burn it. This is simply a fact of The Mortuary Assistant, and it will be something that a player should learn how to deal with quickly, before too much time in the game has passed.",
+            "part2" : "Before a player burns the possessed body though, they need to attach a mark to it. This mark will seal the demon in the body before being burned. A player who burns a body without a mark will end up being possessed themselves — presumably, if not sealed, the demon can escape the body and find a new host. This pretty much acts as a game over, and causes players to start again."
         },
         {
-            "name" : "Toca Life: World Adds a Dentist's Office for Kids to Explore | SuperParent",
-            "img1" : "https://i.pinimg.com/originals/fe/30/d6/fe30d63c50c0bedd52f213d2beb4bb23.jpg",
-            "img2" : "https://i.gifer.com/embedded/download/Fhqw.gif",
-            "part1" : "What are the best iPhone games? Whether you’re an Apple diehard or you’ve just bought your first device.",
-            "part2" : "To help you find something that specifically appeals to you, we’ve included a few different genres, so no matter your tastes, we’ve got you covered here. From Genshin Impact to Candy Crush, you’re sure to find something you enjoy."
-        },
-        {
-            "name" : "Explore the World of Toca Boca - GeekDad",
-            "img1" : "https://i.pinimg.com/474x/b1/fe/4d/b1fe4da8d4707e3ec75f2267dac3d5b1.jpg",
-            "img2" : "https://c.tenor.com/-n-tAjzjGl8AAAAC/toca-life-stories-nari.gif",
-            "part1" : "A newcomer on the mobile scene, Genshin Impact proved naysayers wrong that a true, console-quality title is totally possible on mobile. It’s absolutely stunning, with a bunch of characters to collect, a wide world to explore, and plenty of fun to be had.",
-            "part2" : "Check out our Genshin Impact tier list, Genshin Impact map, Genshin Impact codes list, and Genshin Impact next banner guide to help you get started."
-        },
-        {
-            "name" : "Toca Life World APK guide",
-            "img1" : "https://i.pinimg.com/474x/92/14/81/921481e5b84e6061fcf1f93896d384f0.jpg",
-            "img2" : "https://i.gifer.com/MjQT.gif",
-            "part1" : "When you search on Google for an APK, there are an overwhelming amount of options all offering different things. The site we trust is APKPure.",
-            "part2" : "HOW CAN I PLAY TOCA LIFE WORLD ON PC? Playing mobile games on your computer has never been easier thanks to emulators. If you don’t know, an emulator is a program that simulates another device. In this situation, you need to download an Android emulator for your computer."
-        },
-        {
-            "name" : "Toca Life: World Adds a Dentist's Office for Kids to Explore | SuperParent",
-            "img1" : "https://i.pinimg.com/originals/fe/30/d6/fe30d63c50c0bedd52f213d2beb4bb23.jpg",
-            "img2" : "https://i.gifer.com/embedded/download/Fhqw.gif",
-            "part1" : "What are the best iPhone games? Whether you’re an Apple diehard or you’ve just bought your first device.",
-            "part2" : "To help you find something that specifically appeals to you, we’ve included a few different genres, so no matter your tastes, we’ve got you covered here. From Genshin Impact to Candy Crush, you’re sure to find something you enjoy."
-        },
-        {
-            "name" : "Explore the World of Toca Boca - GeekDad",
-            "img1" : "https://i.pinimg.com/474x/35/1d/1b/351d1b0ea4bea4ed3c17b5a049017bed.jpg",
-            "img2" : "https://c.tenor.com/-n-tAjzjGl8AAAAC/toca-life-stories-nari.gif",
-            "part1" : "A newcomer on the mobile scene, Genshin Impact proved naysayers wrong that a true, console-quality title is totally possible on mobile. It’s absolutely stunning, with a bunch of characters to collect, a wide world to explore, and plenty of fun to be had.",
-            "part2" : "Check out our Genshin Impact tier list, Genshin Impact map, Genshin Impact codes list, and Genshin Impact next banner guide to help you get started."
-        },
-        {
-            "name" : "Toca Life World APK guide",
-            "img1" : "https://i.pinimg.com/474x/e5/08/95/e50895e28d58eaba5acfadcff3ed5394.jpg",
-            "img2" : "https://i.gifer.com/MjQT.gif",
-            "part1" : "When you search on Google for an APK, there are an overwhelming amount of options all offering different things. The site we trust is APKPure.",
-            "part2" : "HOW CAN I PLAY TOCA LIFE WORLD ON PC? Playing mobile games on your computer has never been easier thanks to emulators. If you don’t know, an emulator is a program that simulates another device. In this situation, you need to download an Android emulator for your computer."
-        },
-        {
-            "name" : "Toca Life: World Adds a Dentist's Office for Kids to Explore | SuperParent",
-            "img1" : "https://i.pinimg.com/474x/75/5a/86/755a86c6e582d048f422b67ae24029db.jpg",
-            "img2" : "https://i.gifer.com/embedded/download/Fhqw.gif",
-            "part1" : "What are the best iPhone games? Whether you’re an Apple diehard or you’ve just bought your first device.",
-            "part2" : "To help you find something that specifically appeals to you, we’ve included a few different genres, so no matter your tastes, we’ve got you covered here. From Genshin Impact to Candy Crush, you’re sure to find something you enjoy."
-        },
-        {
-            "name" : "Explore the World of Toca Boca - GeekDad",
-            "img1" : "https://i.pinimg.com/474x/51/0a/4e/510a4e610e913adf336bef966fe4e384.jpg",
-            "img2" : "https://c.tenor.com/-n-tAjzjGl8AAAAC/toca-life-stories-nari.gif",
-            "part1" : "A newcomer on the mobile scene, Genshin Impact proved naysayers wrong that a true, console-quality title is totally possible on mobile. It’s absolutely stunning, with a bunch of characters to collect, a wide world to explore, and plenty of fun to be had.",
-            "part2" : "Check out our Genshin Impact tier list, Genshin Impact map, Genshin Impact codes list, and Genshin Impact next banner guide to help you get started."
-        },
-        {
-            "name" : "Toca Life World APK guide",
-            "img1" : "https://i.pinimg.com/474x/e3/f2/9e/e3f29ec71a4eaf1ad3544640bf339069.jpg",
-            "img2" : "https://i.gifer.com/MjQT.gif",
-            "part1" : "When you search on Google for an APK, there are an overwhelming amount of options all offering different things. The site we trust is APKPure.",
-            "part2" : "HOW CAN I PLAY TOCA LIFE WORLD ON PC? Playing mobile games on your computer has never been easier thanks to emulators. If you don’t know, an emulator is a program that simulates another device. In this situation, you need to download an Android emulator for your computer."
-        },
-        {
-            "name" : "Toca Life: World Adds a Dentist's Office for Kids to Explore | SuperParent",
-            "img1" : "https://i.pinimg.com/474x/1f/9f/31/1f9f319b6d9c584d369576a1055f28a7.jpg",
-            "img2" : "https://i.gifer.com/embedded/download/Fhqw.gif",
-            "part1" : "What are the best iPhone games? Whether you’re an Apple diehard or you’ve just bought your first device.",
-            "part2" : "To help you find something that specifically appeals to you, we’ve included a few different genres, so no matter your tastes, we’ve got you covered here. From Genshin Impact to Candy Crush, you’re sure to find something you enjoy."
-        },
-        {
-            "name" : "Explore the World of Toca Boca - GeekDad",
-            "img1" : "https://i.pinimg.com/564x/58/06/21/5806211d1e3f63432167d81c32f3a56b.jpg",
-            "img2" : "https://c.tenor.com/-n-tAjzjGl8AAAAC/toca-life-stories-nari.gif",
-            "part1" : "A newcomer on the mobile scene, Genshin Impact proved naysayers wrong that a true, console-quality title is totally possible on mobile. It’s absolutely stunning, with a bunch of characters to collect, a wide world to explore, and plenty of fun to be had.",
-            "part2" : "Check out our Genshin Impact tier list, Genshin Impact map, Genshin Impact codes list, and Genshin Impact next banner guide to help you get started."
-        },
-        {
-            "name" : "Toca Life World APK guide",
-            "img1" : "https://i.pinimg.com/474x/4b/2f/f9/4b2ff9267658009c127e8cfb82f8f199.jpg",
-            "img2" : "https://i.gifer.com/MjQT.gif",
-            "part1" : "When you search on Google for an APK, there are an overwhelming amount of options all offering different things. The site we trust is APKPure.",
-            "part2" : "HOW CAN I PLAY TOCA LIFE WORLD ON PC? Playing mobile games on your computer has never been easier thanks to emulators. If you don’t know, an emulator is a program that simulates another device. In this situation, you need to download an Android emulator for your computer."
-        },
-        {
-            "name" : "Toca Life: World Adds a Dentist's Office for Kids to Explore | SuperParent",
-            "img1" : "https://i.pinimg.com/474x/65/5a/f6/655af642e7f06bc3400bde4895b1d1c8.jpg",
-            "img2" : "https://i.gifer.com/embedded/download/Fhqw.gif",
-            "part1" : "What are the best iPhone games? Whether you’re an Apple diehard or you’ve just bought your first device.",
-            "part2" : "To help you find something that specifically appeals to you, we’ve included a few different genres, so no matter your tastes, we’ve got you covered here. From Genshin Impact to Candy Crush, you’re sure to find something you enjoy."
+            "name" : "Find the Right Body",
+            "img1" : "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2022/08/The-Mortuary-Assistant---Demon.jpg?q=50&fit=crop&dpr=1.5",
+            "img2" : "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2022/08/The-Mortuary-Assistant---Demon.jpg?q=50&fit=crop&dpr=1.5",
+            "part1" : "Most importantly, a player needs to ensure that they burn the right body, and not accidentally burn a non-possessed corpse. As long as the player does everything right, they will be able to safely get rid of the demon.",
+            "part2" : "However, it does not matter if they do everything right and place all the right marks on the body. If they burn the wrong body, they will get possessed. The player needs to ensure they know which body is the possessed one, to ensure their work is not wasted and they do not end up being possessed by a demon."
+       
         }
       ]
 }
