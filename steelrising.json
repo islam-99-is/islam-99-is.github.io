@@ -27,13 +27,13 @@
             "active" : "true",
             "name" : "Guide Tips",
             "ico" : "",
-            "bg" : "#FB923C"
+            "bg" : "#fb8f3c"
         },
         {
             "active" : "true",
             "name" : "puzzle",
             "ico" : "https://img.icons8.com/ios/130/ffffff/puzzle.png",
-            "bg" : "#FBBF24"
+            "bg" : "#92ab13"
         },
         {
             "active" : "true",
@@ -125,130 +125,75 @@
     
     "data" : [
         {
-            "name" : "Toca Life: World - NEW FEATURE in Home Designer! Design Walls and Floors",
-            "img1" : "https://i.pinimg.com/564x/a8/6a/5c/a86a5ce4d13fb835dfe5ad07c8100aa2.jpg",
-            "img2" : "https://i.gifer.com/BCyK.gif",
-            "part1" : "Toca Life World APK guide: how to download on Android, iOS, and PC",
-            "part2" : "How do you download the Toca Life World APK? That is a brilliant question and we have devoted this guide to explain it. But first, what Toca Life World? Toca Life World is an educational game where you take control of everything. You get to dress, position, and interact with the surrounding environment, and come up with whatever story comes to mind. Think of Toca Life World as a blank canvas, ready for you to paint on."
+            "name" : "Steelrising tips to help",
+            "img1" : "https://www.gematsu.com/wp-content/uploads/2021/12/Game-Page-Box-Art_Steelrising-Inits-320x480.jpg",
+            "img2" : "https://asset.vg247.com/steelrising-fans.jpg/BROK/resize/1920x1920>/format/jpg/quality/80/steelrising-fans.jpg",
+            "part1" : "Before you start pirouetting and clickety-clacking your way through 18th Century France, our Steelrising tips are required reading.",
+            "part2" : "It’s time for another sort-of Souls-like to sink your teeth into this year, because what else are you going to do? Spiders is back with another game, though this time it leans more action than RPG. We’re talking, of course, about Steelr,Steelrising is a meaty game you’ll be spending a lot of time with - if you dig its vibes. Among those is an 18th century France setting, just as the French Revolution was beginning to rage. Except, in this alternate version of history, Marie Antoinette is not an entirely terrible person, and King Louis the 16th’s famed love of clockmaking turned into a passion for creating automatons.You play as Aegis, one such steampunk robot, who works for the Queen to fight the King’s tyranny."
         },
         {
-            "name" : "Toca Life World APK guide",
-            "img1" : "https://i.pinimg.com/564x/34/1b/36/341b3694c814463a27fcd75f5027f47f.jpg",
-            "img2" : "https://i.gifer.com/MjQT.gif",
-            "part1" : "When you search on Google for an APK, there are an overwhelming amount of options all offering different things. The site we trust is APKPure.",
-            "part2" : "HOW CAN I PLAY TOCA LIFE WORLD ON PC? Playing mobile games on your computer has never been easier thanks to emulators. If you don’t know, an emulator is a program that simulates another device. In this situation, you need to download an Android emulator for your computer."
+            "name" : "Upgrade your stamina early",
+            "img1" : "https://trailers-jeux-videos.com/wp-content/uploads/2022/04/3965661-steelrising.jpg",
+            "img2" : "https://trailers-jeux-videos.com/wp-content/uploads/2022/04/3965661-steelrising.jpg",
+            "part1" : "Steelrising is not a very difficult game, particularly if you turn on the Assist Mode. Though you may not be dying often here, you’ll notice that you’re running out of stamina a lot quicker than you may feel like you should.",
+            "part2" : "A good solution to that problem is spending your earned Anima Essence currency to upgrade Vigor, which boosts your stamina pool, known as Endurance. This is particularly crucial early on, as it might take you a while to master the cooling mechanic and quickly regain your stamina. The same attribute responsible for your stamina also raises your critical hit multiplier."
         },
         {
-            "name" : "Toca Life: World Adds a Dentist's Office for Kids to Explore | SuperParent",
-            "img1" : "https://i.pinimg.com/originals/fe/30/d6/fe30d63c50c0bedd52f213d2beb4bb23.jpg",
-            "img2" : "https://i.gifer.com/embedded/download/Fhqw.gif",
+            "name" : "Don’t Rapid Cool yourself prematurely",
+            "img1" : "https://images7.alphacoders.com/125/1254233.jpg",
+            "img2" : "https://images7.alphacoders.com/125/1254233.jpg",
+            "part1" : "When you deplete the entirely of your stamina bar in Steelrising, you’re given a small window to quickly recharge it – effectively letting off the heat Aegis accumulates. This Nioh-style system lets you stay on the offensive, if you manage to be good at it.",
+            "part2" : "If you’re too eager, however, you’re going to hit the button and nothing will happen, leaving you out of stamina, and unable to dodge or attack. Triggering the cooling the correct way requires a bit of finesse and patience. It’s always better to hit it later than you should (and gain some Frost Build-up as a result) than do it early and keep delaying the recharge Watch for the stamina bar and only trigger the cooling once it stops flashing red. This takes a second or so to happen once all your stamina has been depleted, so once again, don’t rush to immediately fix overheating by spamming the button and making things worse."
+        },
+        {
+            "name" : "It pays to explore and return to older areas often",
+            "img1" : "https://images8.alphacoders.com/115/1151554.jpg",
+            "img2" : "https://images8.alphacoders.com/115/1151554.jpg",
+            "part1" : "There’s an element of Metroidvania in Steelrising. You can easily see this in the first level where you start the game, as you’ll come across a number of areas you’re unable to access because you lack the necessary tool.",
+            "part2" : "There are three traversal upgrades you can acquire over the course of the game, and each lets you into previously-inaccessible corners of every map. But even beyond that, you should make an effort to venture off the beaten path and explore every nook and cranny in Steelrising For one, this lets you understand the layout, and helps you make a mental note of areas you should return to down the line once you’ve acquired the necessary upgrade. More than that, though, the game showers you with upgrade materials, Anima Essence (Souls), armour and weapons simply for exploring – just watch out for enemy traps!"
+        },
+        {
+            "name" : "You can buy upgrade materials",
+            "img1" : "https://asset.vg247.com/Steelrising_Cite_01_explo.png/BROK/resize/1920x1920>/format/jpg/quality/80/Steelrising_Cite_01_explo.png",
+            "img2" : "https://asset.vg247.com/Steelrising_Cite_01_explo.png/BROK/resize/1920x1920>/format/jpg/quality/80/Steelrising_Cite_01_explo.png",
+            "part1" : "If you feel like you’ve been doing enough exploring but still seem to be missing certain upgrade materials, check the Boutique at any Vestal or Carriage. The inventory changes often, so make it a habit of browsing what’s on sale under the Materials section.",
+            "part2" : "Steelrising makes it clear what type, and how many, of each upgrade material you need for a specific job, whether it be weapon upgrades, healing item upgrades and so on. If you’re missing something, check the Boutique – you might be able to afford it and get the material then and there.As always with Souls-likes, it’s best to spend a few minutes farming currency for a guaranteed upgrade rather than continue hunting for the missing material in the levels."
+        },
+        {
+            "name" : "You can’t block by default, but you just need the right weapon",
+            "img1" : "https://images4.alphacoders.com/115/1151557.jpg",
+            "img2" : "https://images4.alphacoders.com/115/1151557.jpg",
             "part1" : "What are the best iPhone games? Whether you’re an Apple diehard or you’ve just bought your first device.",
-            "part2" : "To help you find something that specifically appeals to you, we’ve included a few different genres, so no matter your tastes, we’ve got you covered here. From Genshin Impact to Candy Crush, you’re sure to find something you enjoy."
+            "part2" : "To do this, you’ll need to activate their Shield special skill, meaning blocking in this case will be mapped to the left trigger on your controller, as that is the button for triggering weapons’ unique skills. This may be hard to wrap your head around if you’re used to the left bumper being the block button, but keep in mind that Steelrising is a game that wants you to move around, not turtle.f you need to try it out before you decide, two of the starting classes – Bodyguard, and Dancer - have weapons with a Shield skill equipped by default, so you might want to start with that and see how you feel about it.In general, weapon skills are a key part of combat in Steelrising, so don’t sleep on their capabilities. Take a moment to read the description of each weapon you acquire to see whether their skills can help you. It’s quite common to find weapons whose skills are useless, but their main attributes are worth the trade-off, or vice versa."
         },
         {
-            "name" : "Explore the World of Toca Boca - GeekDad",
-            "img1" : "https://i.pinimg.com/564x/d8/0c/f3/d80cf3099aac52b695072918fe2d612a.jpg",
-            "img2" : "https://c.tenor.com/-n-tAjzjGl8AAAAC/toca-life-stories-nari.gif",
-            "part1" : "A newcomer on the mobile scene, Genshin Impact proved naysayers wrong that a true, console-quality title is totally possible on mobile. It’s absolutely stunning, with a bunch of characters to collect, a wide world to explore, and plenty of fun to be had.",
-            "part2" : "Check out our Genshin Impact tier list, Genshin Impact map, Genshin Impact codes list, and Genshin Impact next banner guide to help you get started."
+            "name" : "Stock up on Oridnary Oil Vial flasks",
+            "img1" : "https://images5.alphacoders.com/125/1254234.jpg",
+            "img2" : "https://images5.alphacoders.com/125/1254234.jpg",
+            "part1" : "Another thing Steelrising copies from Bloodborne is the idea of finite healing items. The game actually uses a mix of both finite and renewable healing items. At all times, you have a limited number of Oil Burettes (Estus) on you, which refresh when you rest at a Vestal or Carriage.",
+            "part2" : "You can upgrade the number of those you can carry – up to a limit, and you can boost how much HP they heal you. But the real game changer is the Ordinary Oil Vial, which is sort of like Blood Vials from Bloodborne. By that we mean you can farm them, buy them, and carry a tonne of them.Unlike the standard healing items, however, the Oil Vials heal you over time and not instantly. Still, they’re incredibly useful when you run out of the renewable Burettes during a run. By stocking up on those (and they’re quite cheap at the Boutique, too), you can effectively never die – provided you back off for a few seconds to let your character heal up.The number of them you can carry could actually be something that gets adjusted in later patches, as right now, they can make things a little too easy."
         },
         {
-            "name" : "Toca Life World APK guide",
-            "img1" : "https://i.pinimg.com/474x/ce/89/3c/ce893c542e3462afcc0323d8e4213009.jpg",
-            "img2" : "https://i.gifer.com/MjQT.gif",
-            "part1" : "When you search on Google for an APK, there are an overwhelming amount of options all offering different things. The site we trust is APKPure.",
-            "part2" : "HOW CAN I PLAY TOCA LIFE WORLD ON PC? Playing mobile games on your computer has never been easier thanks to emulators. If you don’t know, an emulator is a program that simulates another device. In this situation, you need to download an Android emulator for your computer."
+            "name" : "Always be freezing enemies/bosses",
+            "img1" : "https://images5.alphacoders.com/125/1254234.jpg",
+            "img2" : "https://images5.alphacoders.com/125/1254234.jpg",
+            "part1" : "Alchemical (Elemental) Damage is very strong in Steelrising. Both you and your enemies have access to it, and you should definitely make it part of your regular repertoire. There are three kinds of Alchemical Damage, but the best one by far is Frost. When it procs, the enemy becomes frozen in place for a few seconds, letting you wail on them uninterrupted.",
+            "part2" : "Whenever an elemental damage is being applied, you’ll see a circle denoting the type next to an enemy’s health bar. The same can also be seen next yours if you’re receiving it. The more of that element the enemy receives in damage, the faster it’s going to accumulate.Frost is far and away the most effective in combat, so you should be using it against most enemies. Pretty much anything that applies the element is great. This can be a weapon such as the Charleville 1789 Shield Musket, or grenades.The only time you shouldn’t be going for Frost is..."
         },
         {
-            "name" : "Toca Life: World Adds a Dentist's Office for Kids to Explore | SuperParent",
-            "img1" : "https://i.pinimg.com/originals/fe/30/d6/fe30d63c50c0bedd52f213d2beb4bb23.jpg",
-            "img2" : "https://i.gifer.com/embedded/download/Fhqw.gif",
-            "part1" : "What are the best iPhone games? Whether you’re an Apple diehard or you’ve just bought your first device.",
-            "part2" : "To help you find something that specifically appeals to you, we’ve included a few different genres, so no matter your tastes, we’ve got you covered here. From Genshin Impact to Candy Crush, you’re sure to find something you enjoy."
+            "name" : "Never apply the same elemental damage a boss/enemy is using",
+            "img1" : "https://images5.alphacoders.com/125/1254234.jpg",
+            "img2" : "https://images5.alphacoders.com/125/1254234.jpg",
+            "part1" : "This one is really more of a general game tip, but it helps to be reminded of it. In Steelrising, many enemies – including bosses – cause elemental damage with their attacks, sometimes more than one.",
+            "part2" : "While we recommend Frost Damage against most enemies, it will not work against those that already apply that type of damage to you. Or, it’s going to work, but will take you an obscene amount of time to get it to trigger.In other words, enemies who apply a certain elemental damage type are usually resistant to it."
         },
         {
-            "name" : "Explore the World of Toca Boca - GeekDad",
-            "img1" : "https://i.pinimg.com/474x/b1/fe/4d/b1fe4da8d4707e3ec75f2267dac3d5b1.jpg",
-            "img2" : "https://c.tenor.com/-n-tAjzjGl8AAAAC/toca-life-stories-nari.gif",
-            "part1" : "A newcomer on the mobile scene, Genshin Impact proved naysayers wrong that a true, console-quality title is totally possible on mobile. It’s absolutely stunning, with a bunch of characters to collect, a wide world to explore, and plenty of fun to be had.",
-            "part2" : "Check out our Genshin Impact tier list, Genshin Impact map, Genshin Impact codes list, and Genshin Impact next banner guide to help you get started."
-        },
-        {
-            "name" : "Toca Life World APK guide",
-            "img1" : "https://i.pinimg.com/474x/92/14/81/921481e5b84e6061fcf1f93896d384f0.jpg",
-            "img2" : "https://i.gifer.com/MjQT.gif",
-            "part1" : "When you search on Google for an APK, there are an overwhelming amount of options all offering different things. The site we trust is APKPure.",
-            "part2" : "HOW CAN I PLAY TOCA LIFE WORLD ON PC? Playing mobile games on your computer has never been easier thanks to emulators. If you don’t know, an emulator is a program that simulates another device. In this situation, you need to download an Android emulator for your computer."
-        },
-        {
-            "name" : "Toca Life: World Adds a Dentist's Office for Kids to Explore | SuperParent",
-            "img1" : "https://i.pinimg.com/originals/fe/30/d6/fe30d63c50c0bedd52f213d2beb4bb23.jpg",
-            "img2" : "https://i.gifer.com/embedded/download/Fhqw.gif",
-            "part1" : "What are the best iPhone games? Whether you’re an Apple diehard or you’ve just bought your first device.",
-            "part2" : "To help you find something that specifically appeals to you, we’ve included a few different genres, so no matter your tastes, we’ve got you covered here. From Genshin Impact to Candy Crush, you’re sure to find something you enjoy."
-        },
-        {
-            "name" : "Explore the World of Toca Boca - GeekDad",
-            "img1" : "https://i.pinimg.com/474x/35/1d/1b/351d1b0ea4bea4ed3c17b5a049017bed.jpg",
-            "img2" : "https://c.tenor.com/-n-tAjzjGl8AAAAC/toca-life-stories-nari.gif",
-            "part1" : "A newcomer on the mobile scene, Genshin Impact proved naysayers wrong that a true, console-quality title is totally possible on mobile. It’s absolutely stunning, with a bunch of characters to collect, a wide world to explore, and plenty of fun to be had.",
-            "part2" : "Check out our Genshin Impact tier list, Genshin Impact map, Genshin Impact codes list, and Genshin Impact next banner guide to help you get started."
-        },
-        {
-            "name" : "Toca Life World APK guide",
-            "img1" : "https://i.pinimg.com/474x/e5/08/95/e50895e28d58eaba5acfadcff3ed5394.jpg",
-            "img2" : "https://i.gifer.com/MjQT.gif",
-            "part1" : "When you search on Google for an APK, there are an overwhelming amount of options all offering different things. The site we trust is APKPure.",
-            "part2" : "HOW CAN I PLAY TOCA LIFE WORLD ON PC? Playing mobile games on your computer has never been easier thanks to emulators. If you don’t know, an emulator is a program that simulates another device. In this situation, you need to download an Android emulator for your computer."
-        },
-        {
-            "name" : "Toca Life: World Adds a Dentist's Office for Kids to Explore | SuperParent",
-            "img1" : "https://i.pinimg.com/474x/75/5a/86/755a86c6e582d048f422b67ae24029db.jpg",
-            "img2" : "https://i.gifer.com/embedded/download/Fhqw.gif",
-            "part1" : "What are the best iPhone games? Whether you’re an Apple diehard or you’ve just bought your first device.",
-            "part2" : "To help you find something that specifically appeals to you, we’ve included a few different genres, so no matter your tastes, we’ve got you covered here. From Genshin Impact to Candy Crush, you’re sure to find something you enjoy."
-        },
-        {
-            "name" : "Explore the World of Toca Boca - GeekDad",
-            "img1" : "https://i.pinimg.com/474x/51/0a/4e/510a4e610e913adf336bef966fe4e384.jpg",
-            "img2" : "https://c.tenor.com/-n-tAjzjGl8AAAAC/toca-life-stories-nari.gif",
-            "part1" : "A newcomer on the mobile scene, Genshin Impact proved naysayers wrong that a true, console-quality title is totally possible on mobile. It’s absolutely stunning, with a bunch of characters to collect, a wide world to explore, and plenty of fun to be had.",
-            "part2" : "Check out our Genshin Impact tier list, Genshin Impact map, Genshin Impact codes list, and Genshin Impact next banner guide to help you get started."
-        },
-        {
-            "name" : "Toca Life World APK guide",
-            "img1" : "https://i.pinimg.com/474x/e3/f2/9e/e3f29ec71a4eaf1ad3544640bf339069.jpg",
-            "img2" : "https://i.gifer.com/MjQT.gif",
-            "part1" : "When you search on Google for an APK, there are an overwhelming amount of options all offering different things. The site we trust is APKPure.",
-            "part2" : "HOW CAN I PLAY TOCA LIFE WORLD ON PC? Playing mobile games on your computer has never been easier thanks to emulators. If you don’t know, an emulator is a program that simulates another device. In this situation, you need to download an Android emulator for your computer."
-        },
-        {
-            "name" : "Toca Life: World Adds a Dentist's Office for Kids to Explore | SuperParent",
-            "img1" : "https://i.pinimg.com/474x/1f/9f/31/1f9f319b6d9c584d369576a1055f28a7.jpg",
-            "img2" : "https://i.gifer.com/embedded/download/Fhqw.gif",
-            "part1" : "What are the best iPhone games? Whether you’re an Apple diehard or you’ve just bought your first device.",
-            "part2" : "To help you find something that specifically appeals to you, we’ve included a few different genres, so no matter your tastes, we’ve got you covered here. From Genshin Impact to Candy Crush, you’re sure to find something you enjoy."
-        },
-        {
-            "name" : "Explore the World of Toca Boca - GeekDad",
-            "img1" : "https://i.pinimg.com/564x/58/06/21/5806211d1e3f63432167d81c32f3a56b.jpg",
-            "img2" : "https://c.tenor.com/-n-tAjzjGl8AAAAC/toca-life-stories-nari.gif",
-            "part1" : "A newcomer on the mobile scene, Genshin Impact proved naysayers wrong that a true, console-quality title is totally possible on mobile. It’s absolutely stunning, with a bunch of characters to collect, a wide world to explore, and plenty of fun to be had.",
-            "part2" : "Check out our Genshin Impact tier list, Genshin Impact map, Genshin Impact codes list, and Genshin Impact next banner guide to help you get started."
-        },
-        {
-            "name" : "Toca Life World APK guide",
-            "img1" : "https://i.pinimg.com/474x/4b/2f/f9/4b2ff9267658009c127e8cfb82f8f199.jpg",
-            "img2" : "https://i.gifer.com/MjQT.gif",
-            "part1" : "When you search on Google for an APK, there are an overwhelming amount of options all offering different things. The site we trust is APKPure.",
-            "part2" : "HOW CAN I PLAY TOCA LIFE WORLD ON PC? Playing mobile games on your computer has never been easier thanks to emulators. If you don’t know, an emulator is a program that simulates another device. In this situation, you need to download an Android emulator for your computer."
-        },
-        {
-            "name" : "Toca Life: World Adds a Dentist's Office for Kids to Explore | SuperParent",
-            "img1" : "https://i.pinimg.com/474x/65/5a/f6/655af642e7f06bc3400bde4895b1d1c8.jpg",
-            "img2" : "https://i.gifer.com/embedded/download/Fhqw.gif",
-            "part1" : "What are the best iPhone games? Whether you’re an Apple diehard or you’ve just bought your first device.",
-            "part2" : "To help you find something that specifically appeals to you, we’ve included a few different genres, so no matter your tastes, we’ve got you covered here. From Genshin Impact to Candy Crush, you’re sure to find something you enjoy."
+            "name" : "Always use your consumables",
+            "img1" : "https://images8.alphacoders.com/125/1254232.jpg",
+            "img2" : "https://images8.alphacoders.com/125/1254232.jpg",
+            "part1" : "You definitely should not hoard consumable items in Steelrising. For one, most of them can be easily bought at the Boutique, which means you can farm Anima Essence and effectively buy what you want at any time. But even if you’re not willing to farm, you’ll find the most common laying around the levels, especially if you make a habit of breaking boxes and never leaving a stone unturned.",
+            "part2" : "The two most common consumables you’ll come across are Ordinary Oil Vials and various elemental grenades. The game does actually - subtly - give you a hint about the type of element damage you’re going to receive in this area based on the grenades you findIn short, the majority of items are not special, rare finds you should hold on to."
+     
         }
       ]
 }
