@@ -83,54 +83,124 @@
     "wallpapers" : [
         {
             "name" : "",
-            "img" : ""
+            "img" : "https://net-wallpapers.com/wp-content/uploads/2022/08/rainbow-friends-roblox.jpg"
         },
         {
             "name" : "",
-            "img" : ""
+            "img" : "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3d663e5a-74e3-4822-a88c-988fb50b4f4d/df9d810-6a28cae3-db6c-4414-803c-185dfc4dc72c.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzNkNjYzZTVhLTc0ZTMtNDgyMi1hODhjLTk4OGZiNTBiNGY0ZFwvZGY5ZDgxMC02YTI4Y2FlMy1kYjZjLTQ0MTQtODAzYy0xODVkZmM0ZGM3MmMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.xqxwi8OhlgzyhSOwRHemyISt6LF5bm7vJx_ugyNyj_8"
         },
         {
             "name" : "",
-            "img" : ""
+            "img" : "https://tr.rbxcdn.com/494e25c8eb7f979abe7508eb63d614be/768/432/Image/Png"
         },
         {
             "name" : "",
-            "img" : ""
+            "img" : "https://net-wallpapers.com/wp-content/uploads/2022/08/1660131073_504_sddefault.jpg"
         },
         {
             "name" : "",
-            "img" : ""
+            "img" : "https://www.toi.news/wp-content/uploads/2022/08/1659820240_Roblox-Rainbow-Friends-Guide-to-Escape-the-Green-and-Survive.jpg"
         },
         {
             "name" : "",
-            "img" : ""
+            "img" : "https://www.pockettactics.com/wp-content/uploads/2022/08/rainbow-friends-blue-chase.jpg"
         },
         {
             "name" : "",
-            "img" : ""
+            "img" : "https://images.gamebanana.com/img/ss/mods/62faadc88f376.jpg"
         },
         {
             "name" : "",
-            "img" : ""
+            "img" : "https://tr.rbxcdn.com/e3c4df005a0361a3ae99e9e16f12cf35/768/432/Image/Png"
         },
         {
             "name" : "",
-            "img" : ""
+            "img" : "https://www.diggfun.co/Uploads/imgQ//20220803/7caf6b62f125d54dac30aef308aa66a1.webp"
         },
         {
             "name" : "",
-            "img" : ""
+            "img" : "https://pbs.twimg.com/media/FZwtxwcX0AMwoRg?format=jpg&name=large"
         }
     ],
     
     "data" : [
         {
             "name" : "",
+            "img1" : "https://net-wallpapers.com/wp-content/uploads/2022/08/rainbow-friends-roblox.jpg",
+            "img2" : "https://net-wallpapers.com/wp-content/uploads/2022/08/rainbow-friends-roblox.jpg",
+            "part1" : "",
+            "part2" : ""
+        },
+        {
+            "name" : "",
+            "img1" : "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3d663e5a-74e3-4822-a88c-988fb50b4f4d/df9d810-6a28cae3-db6c-4414-803c-185dfc4dc72c.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzNkNjYzZTVhLTc0ZTMtNDgyMi1hODhjLTk4OGZiNTBiNGY0ZFwvZGY5ZDgxMC02YTI4Y2FlMy1kYjZjLTQ0MTQtODAzYy0xODVkZmM0ZGM3MmMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.xqxwi8OhlgzyhSOwRHemyISt6LF5bm7vJx_ugyNyj_8",
+            "img2" : "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3d663e5a-74e3-4822-a88c-988fb50b4f4d/df9d810-6a28cae3-db6c-4414-803c-185dfc4dc72c.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzNkNjYzZTVhLTc0ZTMtNDgyMi1hODhjLTk4OGZiNTBiNGY0ZFwvZGY5ZDgxMC02YTI4Y2FlMy1kYjZjLTQ0MTQtODAzYy0xODVkZmM0ZGM3MmMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.xqxwi8OhlgzyhSOwRHemyISt6LF5bm7vJx_ugyNyj_8",
+            "part1" : "",
+            "part2" : ""
+              },
+        {
+            "name" : "",
+            "img1" : "https://tr.rbxcdn.com/494e25c8eb7f979abe7508eb63d614be/768/432/Image/Png",
+            "img2" : "https://tr.rbxcdn.com/494e25c8eb7f979abe7508eb63d614be/768/432/Image/Png",
+            "part1" : "",
+            "part2" : ""
+              },
+        {
+            "name" : "",
+            "img1" : "https://net-wallpapers.com/wp-content/uploads/2022/08/1660131073_504_sddefault.jpg",
+            "img2" : "https://net-wallpapers.com/wp-content/uploads/2022/08/1660131073_504_sddefault.jpg",
+            "part1" : "",
+            "part2" : ""
+              },
+        {
+            "name" : "",
+            "img1" : "https://www.toi.news/wp-content/uploads/2022/08/1659820240_Roblox-Rainbow-Friends-Guide-to-Escape-the-Green-and-Survive.jpg",
+            "img2" : "https://www.toi.news/wp-content/uploads/2022/08/1659820240_Roblox-Rainbow-Friends-Guide-to-Escape-the-Green-and-Survive.jpg",
+            "part1" : "",
+            "part2" : ""
+              },
+        {
+            "name" : "",
+            "img1" : "https://www.pockettactics.com/wp-content/uploads/2022/08/rainbow-friends-blue-chase.jpg",
+            "img2" : "https://www.pockettactics.com/wp-content/uploads/2022/08/rainbow-friends-blue-chase.jpg",
+            "part1" : "",
+            "part2" : ""
+              },
+        {
+            "name" : "",
+            "img1" : "https://images.gamebanana.com/img/ss/mods/62faadc88f376.jpg",
+            "img2" : "https://images.gamebanana.com/img/ss/mods/62faadc88f376.jpg",
+            "part1" : "",
+            "part2" : ""
+              },
+        {
+            "name" : "",
+            "img1" : "https://tr.rbxcdn.com/e3c4df005a0361a3ae99e9e16f12cf35/768/432/Image/Png",
+            "img2" : "https://tr.rbxcdn.com/e3c4df005a0361a3ae99e9e16f12cf35/768/432/Image/Png",
+            "part1" : "",
+            "part2" : ""
+              },
+        {
+            "name" : "",
+            "img1" : "https://www.diggfun.co/Uploads/imgQ//20220803/7caf6b62f125d54dac30aef308aa66a1.webp",
+            "img2" : "https://www.diggfun.co/Uploads/imgQ//20220803/7caf6b62f125d54dac30aef308aa66a1.webp",
+            "part1" : "",
+            "part2" : ""
+              },
+        {
+            "name" : "",
+            "img1" : "https://pbs.twimg.com/media/FZwtxwcX0AMwoRg?format=jpg&name=large",
+            "img2" : "https://pbs.twimg.com/media/FZwtxwcX0AMwoRg?format=jpg&name=large",
+            "part1" : "",
+            "part2" : ""
+              },
+        {
+            "name" : "",
             "img1" : "",
             "img2" : "",
             "part1" : "",
             "part2" : ""
-        },
+              },
         {
             "name" : "",
             "img1" : "",
