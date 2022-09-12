@@ -83,7 +83,23 @@
     "wallpapers" : [
         {
             "name" : "",
-            "img" : ""
+            "img" : "https://www.jeuxvideo-live.com/wp-content/uploads/jvl/2022/07/thief-simulator-2-06-press-material-1619973029.jpg"
+        },
+        {
+            "name" : "",
+            "img" : "https://www.jeuxvideo-live.com/wp-content/uploads/jvl/2022/07/thief-simulator-2-02-press-material-1619973029.jpg"
+        },
+        {
+            "name" : "",
+            "img" : "https://www.jeuxvideo-live.com/wp-content/uploads/jvl/2022/07/thief-simulator-2-03-press-material-1619973029.jpg"
+        },
+        {
+            "name" : "",
+            "img" : "https://gameplay.tips/wp-content/uploads/2021/10/1541969125_thief-simulator.jpg"
+        },
+        {
+            "name" : "",
+            "img" : "https://www.teahub.io/photos/full/224-2242993_thief-simulator-wallpaper-thief-simulator.jpg"
         },
         {
             "name" : "",
@@ -91,52 +107,99 @@
         },
         {
             "name" : "",
-            "img" : ""
+            "img" : "https://www.gamereactor.eu/media/33/thiefsimulator2_3453353b.jpg"
         },
         {
             "name" : "",
-            "img" : ""
+            "img" : "https://store-images.s-microsoft.com/image/apps.51986.13973652642682766.f372396c-9077-4da1-99ee-5fa742d4b7c0.01c57631-2f15-4287-bcb4-fc8bbe317413?mode=scale&q=90&h=1080&w=1920"
         },
         {
             "name" : "",
-            "img" : ""
+            "img" : "https://res.cloudinary.com/lmn/image/upload/e_sharpen:100/f_auto,fl_lossy,q_auto/v1/gameskinnyc/2/0/1/20181116220001-7eac2.jpg"
         },
         {
             "name" : "",
-            "img" : ""
-        },
-        {
-            "name" : "",
-            "img" : ""
-        },
-        {
-            "name" : "",
-            "img" : ""
-        },
-        {
-            "name" : "",
-            "img" : ""
-        },
-        {
-            "name" : "",
-            "img" : ""
+            "img" : "https://res.cloudinary.com/lmn/image/upload/e_sharpen:100/f_auto,fl_lossy,q_auto/v1/gameskinnyc/2/0/1/20181116223547-c7173.jpg"
         }
     ],
     
     "data" : [
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "Tips for Sneaky Stealing in Thief Simulator",
+            "img1" : "https://res.cloudinary.com/lmn/image/upload/e_sharpen:100/f_auto,fl_lossy,q_auto/v1/gameskinnyc/2/0/1/20181116223547-c7173.jpg",
+            "img2" : "https://res.cloudinary.com/lmn/image/upload/e_sharpen:100/f_auto,fl_lossy,q_auto/v1/gameskinnyc/2/0/1/20181116223547-c7173.jpg",
+            "part1" : "Starting your felonious career off strong is key to long-term success in Thief Simulator. Train your skills quickly and effectively with our unlawful-entry-level guide.",
+            "part2" : "A good title is snappy, descriptive, and to the point. Thief Simulator certainly fits the bill. As a fledgling criminal, you won't be pulling off six-figure heists right away. In fact, you're a pretty terrible thief at first. Thief Simulator has a fairly bare-bones tutorial; learning how to steal everything that isn't nailed down without getting busted is largely trial and error."
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : " Observe Tenant Routines (or Buy Intel)",
+            "img1" : "https://res.cloudinary.com/lmn/image/upload/c_limit,h_360,w_640/e_sharpen:100/f_auto,fl_lossy,q_auto/v1/gameskinnyc/2/0/1/20181116224139-11c99.jpg",
+            "img2" : "https://res.cloudinary.com/lmn/image/upload/c_limit,h_360,w_640/e_sharpen:100/f_auto,fl_lossy,q_auto/v1/gameskinnyc/2/0/1/20181116224139-11c99.jpg",
+            "part1" : "The first and most important thing to remember for an amateur thief is to minimize risk. The easiest way to do that is to make sure any house you intend to burgle is empty.",
+            "part2" : "Cautiously approach a home while crouched and peek through some windows; staying low will reduce the risk of being spotted if someone is home. When tenants are home, you can aim at them and click the Mark button (default middle mouse button) to record their routine for that part of the day.Check back several times throughout a 24-hour period to get an idea of when the house is vacant. When all the arrows in the upper-right of the screen are in blue sections of their respective meters, nobody's home. Get in and get out!Later on, once you've got some upgraded abilities under your belt, you can confidently burglarize occupied homes, but play it safe to start.Alternatively, if you've got cash to burn, you can buy intel for many homes on the computer in your hideout; this will reveal helpful facts about your target without having to stake it out yourself."
+             },
+        {
+            "name" : "Plan Ahead",
+            "img1" : "https://res.cloudinary.com/lmn/image/upload/e_sharpen:100/f_auto,fl_lossy,q_auto/v1/gameskinnyc/2/0/1/20181116222459-02d29.jpg",
+            "img2" : "https://res.cloudinary.com/lmn/image/upload/e_sharpen:100/f_auto,fl_lossy,q_auto/v1/gameskinnyc/2/0/1/20181116222459-02d29.jpg",
+            "part1" : "Nothing's worse than painstakingly planning a heist, only to realize you left your tools at home. You can buy lockpicks, climbing gear, and other useful kit at Tools4Thieves on your home computer. Make sure you're bringing the right tools for the job at hand (and watch your weight, too—most tools take up some space in your backpack, leaving less room for loot).",
+            "part2" : "Lockpicks can break, so bring several. Also note that higher-level lockpicks cannot unlock lower-level locks, so you'll need to carry a few of each type at all times."
+             },
+        {
+            "name" : "Practice at Home",
+            "img1" : "https://res.cloudinary.com/lmn/image/upload/e_sharpen:100/f_auto,fl_lossy,q_auto/v1/gameskinnyc/2/0/1/20181116222634-9503c.jpg",
+            "img2" : "https://res.cloudinary.com/lmn/image/upload/e_sharpen:100/f_auto,fl_lossy,q_auto/v1/gameskinnyc/2/0/1/20181116222634-9503c.jpg",
+            "part1" : "Some of the tools take a little getting used to. For example, there are several different kinds of lockpicks, and they all work differently",
+            "part2" : "locks at home before you take them to a job. The middle of a stranger's living room at 2:00 AM is not the time or place to realize you don't know what you're doing."
+             },
+        {
+            "name" : "Nighttime is Not Always Better",
+            "img1" : "https://res.cloudinary.com/lmn/image/upload/e_sharpen:100/f_auto,fl_lossy,q_auto/v1/gameskinnyc/2/0/1/20181116220423-2b715.jpg",
+            "img2" : "https://res.cloudinary.com/lmn/image/upload/e_sharpen:100/f_auto,fl_lossy,q_auto/v1/gameskinnyc/2/0/1/20181116220423-2b715.jpg",
+            "part1" : "Sometimes you'll want to start a job at night, but sometimes daytime is preferable—when the homeowners are at work, perhaps. Getting into and out of a house unobserved is harder in broad daylight since there are more people on the streets.",
+            "part2" : "On the other gloved hand, nighttime heists are generally more profitable once you've gained a few ranks in each of your basic skills, which will enable you to sneak through and clean out an occupied home (or several on the same block) without waking the owners. There will be fewer people on the streets, so entry and exit will be easier.Rule of thumb: daytime jobs are easier and safer, nighttime jobs net bigger rewards."
+             },
+        {
+            "name" : "Don't Get Greedy",
+            "img1" : "https://res.cloudinary.com/lmn/image/upload/e_sharpen:100/f_auto,fl_lossy,q_auto/v1/gameskinnyc/2/0/1/20181116223547-c7173.jpg",
+            "img2" : "https://res.cloudinary.com/lmn/image/upload/e_sharpen:100/f_auto,fl_lossy,q_auto/v1/gameskinnyc/2/0/1/20181116223547-c7173.jpg",
+            "part1" : "Weird advice for a thief, right? Seriously, though, it doesn't matter how much loot you've scooped up if you end up in the back of a police cruiser",
+            "part2" : "call it a day, especially at lower levels. One full backpack and a clean getaway is worth far more XP and cash than a pair of handcuffs, which is all you'll get if you spend too much time in one place or attempt jobs you're not well prepared for."
+             },
+        {
+            "name" : "Slow is Smooth, Smooth is Fast",
+            "img1" : "https://res.cloudinary.com/lmn/image/upload/e_sharpen:100/f_auto,fl_lossy,q_auto/v1/gameskinnyc/2/0/1/20181116215306-5cf70.jpg",
+            "img2" : "https://res.cloudinary.com/lmn/image/upload/e_sharpen:100/f_auto,fl_lossy,q_auto/v1/gameskinnyc/2/0/1/20181116215306-5cf70.jpg",
+            "part1" : "Speed is not your friend. It is, but not in the way you're thinking.",
+            "part2" : "Homeowners and civilians in Thief Simulator do, in fact, have ears. They can and will hear drawers slamming all up and down the block. You can press E to fling open doors and containers with wild abandon, or hold E to open them nice and quiet-like. Get in the habit of doing this without fail.Homeowners generally don't enter different rooms unless their routine is changing due to time passing or unless they have a reason to, so don't give them one."
+             },
+        {
+            "name" : "Bottoms Up",
+            "img1" : "https://res.cloudinary.com/lmn/image/upload/e_sharpen:100/f_auto,fl_lossy,q_auto/v1/gameskinnyc/2/0/1/20181116220556-4e676.jpg",
+            "img2" : "https://res.cloudinary.com/lmn/image/upload/e_sharpen:100/f_auto,fl_lossy,q_auto/v1/gameskinnyc/2/0/1/20181116220556-4e676.jpg",
+            "part1" : "Successful home invaders are efficient above all else. You'll spend a lot of time searching dressers and cabinets; you can cut that time in half by doing it smartly.",
+            "part2" : "Open vertically stacked drawers and containers from the bottom up, so you can see inside each one without having to close it before you can see into the next one."
+             },
+        {
+            "name" : "Hide the Evidence (or Yourself, at Least)",
+            "img1" : "https://res.cloudinary.com/lmn/image/upload/e_sharpen:100/f_auto,fl_lossy,q_auto/v1/gameskinnyc/2/0/1/20181116215051-228a7.jpg",
+            "img2" : "https://res.cloudinary.com/lmn/image/upload/e_sharpen:100/f_auto,fl_lossy,q_auto/v1/gameskinnyc/2/0/1/20181116215051-228a7.jpg",
+            "part1" : "A master thief is a ghost. Ideally, the homeowner should never know you were there until they specifically go looking for something you've lifted.",
+            "part2" : "People will notice things that are not as they left them; open doors and drawers, missing items that were in plain view, and broken windows will all blow your cover in short order.Whether you want to clean up after yourself as you go or do it all at once after you've emptied the whole house is largely personal preference. It's a question of how much loot you want to trade for extra safety. If you do get busted, it's often better to hide and wait for things to cool down than to try to outrun the 5-0."
+             },
+        {
+            "name" : "Your Car Can Hold Stuff",
+            "img1" : "https://res.cloudinary.com/lmn/image/upload/e_sharpen:100/f_auto,fl_lossy,q_auto/v1/gameskinnyc/2/0/1/20181116215905-5256c.jpg",
+            "img2" : "https://res.cloudinary.com/lmn/image/upload/e_sharpen:100/f_auto,fl_lossy,q_auto/v1/gameskinnyc/2/0/1/20181116215905-5256c.jpg",
+            "part1" : "Your biggest obstacle in the beginning will be your tiny, tiny backpack. It can't hold much. The game doesn't explicitly tell you that there's a gray box in the passenger seat of your car, and that you can put stuff in it.",
+            "part2" : "If you're doing well on time and things are going smoothly, consider running back to the car to dump your haul and then going back for more.When it's time to pawn your pilfered goods, you'll have to pull them back out of the box at the pawn shop and make several trips inside. The extra minute or two of manual labor will be worth it."
+             },
+        {
+            "name" : "Sell Online, Then Patronize Your Pawn Shop",
+            "img1" : "https://res.cloudinary.com/lmn/image/upload/e_sharpen:100/f_auto,fl_lossy,q_auto/v1/gameskinnyc/2/0/1/20181116222538-5be4c.jpg",
+            "img2" : "https://res.cloudinary.com/lmn/image/upload/e_sharpen:100/f_auto,fl_lossy,q_auto/v1/gameskinnyc/2/0/1/20181116222538-5be4c.jpg",
+            "part1" : "In some cases, large or rare objects that you "re-home" will fetch much better prices on BlackBay (accessed from your home computer) than they will in the pawn shop. When a hard day's crime is done, it's worth stopping by home before you visit the pawn shop to see if your loot can be turned into bigger piles of cash, especially if you've picked up something that looks unusual.",
+            "part2" : "There you have it! Keeping these basic strategies in mind will make your entry-level stealing much easier and more enjoyable."
         }
       ]
 }
