@@ -83,54 +83,117 @@
     "wallpapers" : [
         {
             "name" : "",
-            "img" : ""
+            "img" : "https://images.g2a.com/1920x1079/1x1x0/fireworks-mania-an-explosive-simulator-pc-steam-key-europe/5fdb3ba046177c707b24f4b3"
         },
         {
             "name" : "",
-            "img" : ""
+            "img" : "https://static.kinguin.net/cdn-cgi/image/w=1140,q=80,fit=scale-down,f=auto/media/category/1/0/1079260-2_1608459499_1_1.jpeg"
         },
         {
             "name" : "",
-            "img" : ""
+            "img" : "https://vulgarknight.com/wp-content/uploads/2021/03/Fireworks-Mania-Give-it-some-gas.jpg"
         },
         {
             "name" : "",
-            "img" : ""
+            "img" : "https://gxmedope.com/wp-content/uploads/2021/05/fireworks-mania-gxmedope-1.jpg"
         },
         {
             "name" : "",
-            "img" : ""
+            "img" : "https://cdn.cloudflare.steamstatic.com/steam/apps/1079260/ss_4fa06721a16967c0d5bee25de316bee7183bd9c2.1920x1080.jpg?t=1661710665"
         },
         {
             "name" : "",
-            "img" : ""
+            "img" : "https://cdn.cloudflare.steamstatic.com/steam/apps/1079260/ss_e24cc8d010e7cf8f47acd7e18b208469a3a551f5.1920x1080.jpg?t=1661710665"
         },
         {
             "name" : "",
-            "img" : ""
+            "img" : "https://cdn.cloudflare.steamstatic.com/steam/apps/1079260/ss_4fa06721a16967c0d5bee25de316bee7183bd9c2.1920x1080.jpg?t=1661710665"
         },
         {
             "name" : "",
-            "img" : ""
+            "img" : "https://i.ytimg.com/vi/hp0ProDl7-g/maxresdefault.jpg"
         },
         {
             "name" : "",
-            "img" : ""
+            "img" : "https://i.ytimg.com/vi/JRCvd_uePBw/maxresdefault.jpg"
         },
         {
             "name" : "",
-            "img" : ""
+            "img" : "https://i.ytimg.com/vi/HXSxnVI4-Q0/maxresdefault.jpg"
         }
     ],
     
     "data" : [
         {
             "name" : "",
-            "img1" : "",
-            "img2" : "",
+            "img1" : "https://images.g2a.com/1920x1079/1x1x0/fireworks-mania-an-explosive-simulator-pc-steam-key-europe/5fdb3ba046177c707b24f4b3",
+            "img2" : "https://images.g2a.com/1920x1079/1x1x0/fireworks-mania-an-explosive-simulator-pc-steam-key-europe/5fdb3ba046177c707b24f4b3",
             "part1" : "",
             "part2" : ""
         },
+        {
+            "name" : "",
+            "img1" : "https://static.kinguin.net/cdn-cgi/image/w=1140,q=80,fit=scale-down,f=auto/media/category/1/0/1079260-2_1608459499_1_1.jpeg",
+            "img2" : "https://static.kinguin.net/cdn-cgi/image/w=1140,q=80,fit=scale-down,f=auto/media/category/1/0/1079260-2_1608459499_1_1.jpeg",
+            "part1" : "",
+            "part2" : ""
+            },
+        {
+            "name" : "",
+            "img1" : "https://vulgarknight.com/wp-content/uploads/2021/03/Fireworks-Mania-Give-it-some-gas.jpg",
+            "img2" : "https://vulgarknight.com/wp-content/uploads/2021/03/Fireworks-Mania-Give-it-some-gas.jpg",
+            "part1" : "",
+            "part2" : ""
+            },
+        {
+            "name" : "",
+            "img1" : "https://gxmedope.com/wp-content/uploads/2021/05/fireworks-mania-gxmedope-1.jpg",
+            "img2" : "https://gxmedope.com/wp-content/uploads/2021/05/fireworks-mania-gxmedope-1.jpg",
+            "part1" : "",
+            "part2" : ""
+            },
+        {
+            "name" : "",
+            "img1" : "https://cdn.cloudflare.steamstatic.com/steam/apps/1079260/ss_4fa06721a16967c0d5bee25de316bee7183bd9c2.1920x1080.jpg?t=1661710665",
+            "img2" : "https://cdn.cloudflare.steamstatic.com/steam/apps/1079260/ss_4fa06721a16967c0d5bee25de316bee7183bd9c2.1920x1080.jpg?t=1661710665",
+            "part1" : "",
+            "part2" : ""
+            },
+        {
+            "name" : "",
+            "img1" : "https://cdn.cloudflare.steamstatic.com/steam/apps/1079260/ss_e24cc8d010e7cf8f47acd7e18b208469a3a551f5.1920x1080.jpg?t=1661710665",
+            "img2" : "https://cdn.cloudflare.steamstatic.com/steam/apps/1079260/ss_e24cc8d010e7cf8f47acd7e18b208469a3a551f5.1920x1080.jpg?t=1661710665",
+            "part1" : "",
+            "part2" : ""
+            },
+        {
+            "name" : "",
+            "img1" : "https://cdn.cloudflare.steamstatic.com/steam/apps/1079260/ss_4fa06721a16967c0d5bee25de316bee7183bd9c2.1920x1080.jpg?t=1661710665",
+            "img2" : "https://cdn.cloudflare.steamstatic.com/steam/apps/1079260/ss_4fa06721a16967c0d5bee25de316bee7183bd9c2.1920x1080.jpg?t=1661710665",
+            "part1" : "",
+            "part2" : ""
+            },
+        {
+            "name" : "",
+            "img1" : "https://i.ytimg.com/vi/hp0ProDl7-g/maxresdefault.jpg",
+            "img2" : "https://i.ytimg.com/vi/hp0ProDl7-g/maxresdefault.jpg",
+            "part1" : "",
+            "part2" : ""
+            },
+        {
+            "name" : "",
+            "img1" : "https://i.ytimg.com/vi/JRCvd_uePBw/maxresdefault.jpg",
+            "img2" : "https://i.ytimg.com/vi/JRCvd_uePBw/maxresdefault.jpg",
+            "part1" : "",
+            "part2" : ""
+            },
+        {
+            "name" : "https://i.ytimg.com/vi/HXSxnVI4-Q0/maxresdefault.jpg",
+            "img1" : "https://i.ytimg.com/vi/HXSxnVI4-Q0/maxresdefault.jpg",
+            "img2" : "",
+            "part1" : "",
+            "part2" : ""
+            },
         {
             "name" : "",
             "img1" : "",
