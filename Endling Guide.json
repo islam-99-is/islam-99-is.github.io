@@ -5,9 +5,9 @@
           "activate_steps" : "false",
           "activate_step_email" : "false",
           "network" : "admob",
-          "admob_ban" : "ca-app-pub-3940256099942544/6300978111",
-          "admob_native" : "ca-app-pub-3940256099942544/2247696110",
-          "admob_int" : "ca-app-pub-3940256099942544/1033173712",
+          "admob_ban" : "ca-app-pub-7467116021377002/3953284077",
+          "admob_native" : "ca-app-pub-7467116021377002/8688385790",
+          "admob_int" : "ca-app-pub-7467116021377002/6387875725",
           "yandex_banner" : "R-M-1820435-1",
           "yandex_native" : "R-M-1820435-2",
           "yandex_int" : "R-M-1820435-3",
@@ -48,13 +48,13 @@
             "bg" : "#38BDF8"
         },
         {
-            "active" : "true",
+            "active" : "false",
             "name" : "questions",
             "ico" : "https://img.icons8.com/ios/130/ffffff/how-many-quest--v2.png",
             "bg" : "#2DD4BF"
         },
         {
-            "active" : "true",
+            "active" : "false",
             "name" : "quiz",
             "ico" : "https://img.icons8.com/ios/130/ffffff/what.png",
             "bg" : "#4ADE80"
@@ -83,60 +83,81 @@
     "wallpapers" : [
         {
             "name" : "",
-            "img" : ""
+            "img" : "https://cdn.cloudflare.steamstatic.com/steam/apps/2025890/capsule_616x353.jpg?t=1658235161"
         },
         {
             "name" : "",
-            "img" : ""
+            "img" : "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_EndlingExtinctionisForever_HerobeatStudios_S1_2560x1440-2cb43dc6b3827d2d3913f882e5968a1b"
         },
         {
             "name" : "",
-            "img" : ""
+            "img" : "https://images.gog-statics.com/b46b7c6aeb3d21409053729c061c2daf062f0bbc51d5577fef82faaea3039bdd_product_card_v2_mobile_slider_639.jpg"
         },
         {
             "name" : "",
-            "img" : ""
+            "img" : "https://assets2.rockpapershotgun.com/endling_extiction_forever_header.jpg/BROK/resize/1920x1920>/format/jpg/quality/80/endling_extiction_forever_header.jpg"
         },
         {
             "name" : "",
-            "img" : ""
+            "img" : "https://cdn.cloudflare.steamstatic.com/steam/apps/898890/ss_0c087ccb7a3127d4f144ead632b8575d1638d265.1920x1080.jpg?t=1658820680"
         },
         {
             "name" : "",
-            "img" : ""
+            "img" : "https://cdn.mos.cms.futurecdn.net/qWipZdyqnV3GTUvpFfv55b-1200-80.jpg"
         },
         {
             "name" : "",
-            "img" : ""
+            "img" : "https://www.nme.com/wp-content/uploads/2022/07/Endling-game.jpg"
         },
         {
             "name" : "",
-            "img" : ""
+            "img" : "https://cdn.cloudflare.steamstatic.com/steam/apps/898890/ss_a669229fc301f12e5939edff596e252bc5503ebf.1920x1080.jpg?t=1658820680"
         },
         {
             "name" : "",
-            "img" : ""
+            "img" : "https://www.gameinformer.com/sites/default/files/styles/full/public/2022/06/30/d0c513d6/e1.jpg.jpg"
         },
         {
             "name" : "",
-            "img" : ""
+            "img" : "https://i1.wp.com/image.jeuxvideo.com/medias-md/165902/1659021251-7518-card.jpg?resize=780,470"
         }
     ],
     
     "data" : [
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "Endling Guide, Walkthrough",
+            "img1" : "https://guides.gamepressure.com/gfx/logos/640x384/980_522057513.jpg",
+            "img2" : "https://guides.gamepressure.com/gfx/logos/640x384/980_522057513.jpg",
+            "part1" : "Run fox, run Endling guide is a full walkthrough, the best Begginer's Guide, for stealth, tracking and hunting, searching for food for foxes. We describe the dangers, time of day, badgers, system requirements and keybinds.",
+            "part2" : "This guide to Endling is a compendium of knowledge on how to survive and find food for the fox cubs. The tips and information contained in it will teach you about the game's mechanics."
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "Endling: Guide's contents",
+            "img1" : "https://i1.wp.com/image.jeuxvideo.com/medias-md/165902/1659021251-7518-card.jpg?resize=780,470",
+            "img2" : "https://i1.wp.com/image.jeuxvideo.com/medias-md/165902/1659021251-7518-card.jpg?resize=780,470",
+            "part1" : "This game guide to Endling opens with a explanation of the game's basics. You'll find some helpful tips for beginners you should get familiar with if you're starting the game for the first time. We explain how to track and hunt as well as how to easily feed your cubs.",
+            "part2" : "The basics include topics such as game endings, where we discuss scenes after the credits, world exploration and special event locations.The FAQ section explains how to get the Omnivore trophy, how to unlock all the young foxes' abilities, and what happens when one of the pups dies. We suggest how to avoid the Furrier and how to use Distraction spots.The appendix contains pages related to the controls and available language versions. You'll learn which languages the game is available in and how much free disk space do you need to install it. You'll also familiarize yourself with the system requirements and the interface."
+        },
+        {
+            "name" : "Endling: Beginner's guide",
+            "img1" : "https://www.gameinformer.com/sites/default/files/styles/full/public/2022/06/30/d0c513d6/e1.jpg.jpg",
+            "img2" : "https://www.gameinformer.com/sites/default/files/styles/full/public/2022/06/30/d0c513d6/e1.jpg.jpg",
+            "part1" : "Your primary objective throughout the game is finding food for your cubs. Find a berry bush and interact with it to pick food off it or enter tracking mode to hunt other animals. After finding food, return to your lair and feed the cubs.",
+            "part2" : "A notification will pop up above your character's head when you walk past some food After three days, your cubs will start following you at night. Approach them and drop the food immediately after finding some to feed themOnce morning approaches, you'll have to return to your lair and make sure to find some food on the way if your cubs are still hungry. A message about sunrise approaching will appear on the screen, and a house icon will point you in the lair's directionIf one of your cubs starts starving you'll need to feed it as soon as possible. If there aren't any animals nearby, try to at least find berry bushes. A hungry cub won't be able to return to the lair to sleep, you'll need to feed it before returning home"
+        },
+        {
+            "name" : "Endling: Walkthrough",
+            "img1" : "https://cdn.cloudflare.steamstatic.com/steam/apps/898890/ss_a669229fc301f12e5939edff596e252bc5503ebf.1920x1080.jpg?t=1658820680",
+            "img2" : "https://cdn.cloudflare.steamstatic.com/steam/apps/898890/ss_a669229fc301f12e5939edff596e252bc5503ebf.1920x1080.jpg?t=1658820680",
+            "part1" : "Nights 1-3 - on this page, we describe the first 3 nights, explain how to track food and how to find the trail of the kidnapped fox",
+            "part2" : "Nights 4-6 - here we describe the nights when your cubs will start following their mother. We suggest how to hunt a mouse, a rabbit and how to catch a fish Nights 7-9 - here you will learn how to rescue a badger from a trap, how to evade owls and where to get the Dig skillNights 10-12 - this page describes the factory and the location of the Squeeze through skill. We suggest where to find a vending machine and a candy bar Nights 13-15 - here you will read about encountering Molly and the Scavenger and getting the Climb skill Nights 16-18 - on this page, we explain how to rescue a baby badger and where to unlock the Hunt skill Nights 19-21 - here we describe encountering the Globetrotter, hunting a pigeon and finding a new lair Nights 22-23 - here you will learn how to search the landfill and how to unlock the High Jump and Deactivate Traps skills Nights 24-25 - here you will read how to deal with the increasing number of threats and where to get the Dangle skill Nights 26-27 - here we discuss following the trail of the kidnapped fox on the 27th night at the factory Night 28 - here you will learn where to find food and how to find the kidnapped foxNights 29-30 - on this page, you will read about the last night in the game and how to save the drowning fox cubs"
+        },
+        {
+            "name" : "Endling: The basics",
+            "img1" : "https://www.nme.com/wp-content/uploads/2022/07/Endling-game.jpg",
+            "img2" : "https://www.nme.com/wp-content/uploads/2022/07/Endling-game.jpg",
+            "part1" : "Game endings - here you will find information about the endings in Endling. We explain how to get the badger ending",
+            "part2" : "Events - we explain what events are in Endling, what are their types and how to find them Exploring the world - traversing the map in Endling is very dangerous for your character and young foxes. On this page, we explain how to avoid dangers and who you can encounter on your way. We suggest how to find paths, how to avoid traps, people, owls and the Scavenger. You will also find information on Molly and Globetrotter."
         }
       ]
 }
