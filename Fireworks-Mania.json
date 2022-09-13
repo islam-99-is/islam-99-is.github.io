@@ -5,9 +5,9 @@
           "activate_steps" : "false",
           "activate_step_email" : "false",
           "network" : "admob",
-          "admob_ban" : "ca-app-pub-3940256099942544/6300978111",
-          "admob_native" : "ca-app-pub-3940256099942544/2247696110",
-          "admob_int" : "ca-app-pub-3940256099942544/1033173712",
+          "admob_ban" : "ca-app-pub-7467116021377002/4374366180",
+          "admob_native" : "ca-app-pub-7467116021377002/8852037323",
+          "admob_int" : "ca-app-pub-7467116021377002/8122039500",
           "yandex_banner" : "R-M-1820435-1",
           "yandex_native" : "R-M-1820435-2",
           "yandex_int" : "R-M-1820435-3",
@@ -137,63 +137,63 @@
             "img2" : "https://static.kinguin.net/cdn-cgi/image/w=1140,q=80,fit=scale-down,f=auto/media/category/1/0/1079260-2_1608459499_1_1.jpeg",
             "part1" : "",
             "part2" : ""
-            },
+        },
         {
             "name" : "",
             "img1" : "https://vulgarknight.com/wp-content/uploads/2021/03/Fireworks-Mania-Give-it-some-gas.jpg",
             "img2" : "https://vulgarknight.com/wp-content/uploads/2021/03/Fireworks-Mania-Give-it-some-gas.jpg",
             "part1" : "",
             "part2" : ""
-            },
+        },
         {
             "name" : "",
             "img1" : "https://gxmedope.com/wp-content/uploads/2021/05/fireworks-mania-gxmedope-1.jpg",
             "img2" : "https://gxmedope.com/wp-content/uploads/2021/05/fireworks-mania-gxmedope-1.jpg",
             "part1" : "",
             "part2" : ""
-            },
+        },
         {
             "name" : "",
             "img1" : "https://cdn.cloudflare.steamstatic.com/steam/apps/1079260/ss_4fa06721a16967c0d5bee25de316bee7183bd9c2.1920x1080.jpg?t=1661710665",
             "img2" : "https://cdn.cloudflare.steamstatic.com/steam/apps/1079260/ss_4fa06721a16967c0d5bee25de316bee7183bd9c2.1920x1080.jpg?t=1661710665",
             "part1" : "",
             "part2" : ""
-            },
+        },
         {
             "name" : "",
             "img1" : "https://cdn.cloudflare.steamstatic.com/steam/apps/1079260/ss_e24cc8d010e7cf8f47acd7e18b208469a3a551f5.1920x1080.jpg?t=1661710665",
             "img2" : "https://cdn.cloudflare.steamstatic.com/steam/apps/1079260/ss_e24cc8d010e7cf8f47acd7e18b208469a3a551f5.1920x1080.jpg?t=1661710665",
             "part1" : "",
             "part2" : ""
-            },
+        },
         {
             "name" : "",
             "img1" : "https://cdn.cloudflare.steamstatic.com/steam/apps/1079260/ss_4fa06721a16967c0d5bee25de316bee7183bd9c2.1920x1080.jpg?t=1661710665",
             "img2" : "https://cdn.cloudflare.steamstatic.com/steam/apps/1079260/ss_4fa06721a16967c0d5bee25de316bee7183bd9c2.1920x1080.jpg?t=1661710665",
             "part1" : "",
             "part2" : ""
-            },
+        },
         {
             "name" : "",
             "img1" : "https://i.ytimg.com/vi/hp0ProDl7-g/maxresdefault.jpg",
             "img2" : "https://i.ytimg.com/vi/hp0ProDl7-g/maxresdefault.jpg",
             "part1" : "",
             "part2" : ""
-            },
+        },
         {
             "name" : "",
             "img1" : "https://i.ytimg.com/vi/JRCvd_uePBw/maxresdefault.jpg",
             "img2" : "https://i.ytimg.com/vi/JRCvd_uePBw/maxresdefault.jpg",
             "part1" : "",
             "part2" : ""
-            },
+        },
         {
             "name" : "https://i.ytimg.com/vi/HXSxnVI4-Q0/maxresdefault.jpg",
             "img1" : "https://i.ytimg.com/vi/HXSxnVI4-Q0/maxresdefault.jpg",
             "img2" : "",
             "part1" : "",
             "part2" : ""
-            },
+        },
         {
             "name" : "",
             "img1" : "",
