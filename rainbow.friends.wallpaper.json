@@ -24,7 +24,7 @@
     
     "menu" : [
         {
-            "active" : "true",
+            "active" : "false",
             "name" : "Guide Tips",
             "ico" : "",
             "bg" : "#FB923C"
@@ -48,13 +48,13 @@
             "bg" : "#38BDF8"
         },
         {
-            "active" : "true",
+            "active" : "false",
             "name" : "questions",
             "ico" : "https://img.icons8.com/ios/130/ffffff/how-many-quest--v2.png",
             "bg" : "#2DD4BF"
         },
         {
-            "active" : "true",
+            "active" : "false",
             "name" : "quiz",
             "ico" : "https://img.icons8.com/ios/130/ffffff/what.png",
             "bg" : "#4ADE80"
@@ -83,43 +83,43 @@
     "wallpapers" : [
         {
             "name" : "",
-            "img" : ""
+            "img" : "https://net-wallpapers.com/wp-content/uploads/2022/08/rainbow-friends-roblox.jpg"
         },
         {
             "name" : "",
-            "img" : ""
+            "img" : "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3d663e5a-74e3-4822-a88c-988fb50b4f4d/df9d810-6a28cae3-db6c-4414-803c-185dfc4dc72c.png/v1/fill/w_905,h_464,q_80,strp/rainbow_friends_by_kumadraws334_df9d810-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NDY0IiwicGF0aCI6IlwvZlwvM2Q2NjNlNWEtNzRlMy00ODIyLWE4OGMtOTg4ZmI1MGI0ZjRkXC9kZjlkODEwLTZhMjhjYWUzLWRiNmMtNDQxNC04MDNjLTE4NWRmYzRkYzcyYy5wbmciLCJ3aWR0aCI6Ijw9OTA1In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.S6RwwrMUy5-LUTPOxVLKk8xp1kLZZE_iGhNyMVFnZCo"
         },
         {
             "name" : "",
-            "img" : ""
+            "img" : "https://tr.rbxcdn.com/494e25c8eb7f979abe7508eb63d614be/768/432/Image/Png"
         },
         {
             "name" : "",
-            "img" : ""
+            "img" : "https://net-wallpapers.com/wp-content/uploads/2022/08/1660131073_504_sddefault.jpg"
         },
         {
             "name" : "",
-            "img" : ""
+            "img" : "https://net-wallpapers.com/wp-content/uploads/2022/08/rainbow-friends-900x506.jpg"
         },
         {
             "name" : "",
-            "img" : ""
+            "img" : "https://net-wallpapers.com/wp-content/uploads/2022/08/rainbow-friends-blue-chase-900x506.jpg"
         },
         {
             "name" : "",
-            "img" : ""
+            "img" : "https://www.toi.news/wp-content/uploads/2022/08/1659820240_Roblox-Rainbow-Friends-Guide-to-Escape-the-Green-and-Survive.jpg"
         },
         {
             "name" : "",
-            "img" : ""
+            "img" : "https://i.ytimg.com/vi/0mNuvdxlJJc/maxresdefault.jpg"
         },
         {
             "name" : "",
-            "img" : ""
+            "img" : "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7f5035ae-89a2-48c9-be2c-35be9f2eb6d5/dfabm28-9f6fed22-144b-464b-b112-45dd569b1ff6.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdmNTAzNWFlLTg5YTItNDhjOS1iZTJjLTM1YmU5ZjJlYjZkNVwvZGZhYm0yOC05ZjZmZWQyMi0xNDRiLTQ2NGItYjExMi00NWRkNTY5YjFmZjYuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.DD4NrsctSoIyraxvCVtAncspcSk2ETTy4V1C0HlGyXc"
         },
         {
             "name" : "",
-            "img" : ""
+            "img" : "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/74b65551-880c-40d2-9de5-ea8cbae5d89d/dfbo3kh-3046e71f-3431-4647-a8bd-33e0144bb8be.png/v1/fill/w_1280,h_1280,q_80,strp/rainbow_friends_blue_by_popfoo_dfbo3kh-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTI4MCIsInBhdGgiOiJcL2ZcLzc0YjY1NTUxLTg4MGMtNDBkMi05ZGU1LWVhOGNiYWU1ZDg5ZFwvZGZibzNraC0zMDQ2ZTcxZi0zNDMxLTQ2NDctYThiZC0zM2UwMTQ0YmI4YmUucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.suVVENOSgDiC3Jyiif0TEU6upEC_5kxGf14gaxaSxIE"
         }
     ],
     
