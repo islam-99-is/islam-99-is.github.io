@@ -48,13 +48,13 @@
             "bg" : "#38BDF8"
         },
         {
-            "active" : "true",
+            "active" : "false",
             "name" : "questions",
             "ico" : "https://img.icons8.com/ios/130/ffffff/how-many-quest--v2.png",
             "bg" : "#2DD4BF"
         },
         {
-            "active" : "true",
+            "active" : "false",
             "name" : "quiz",
             "ico" : "https://img.icons8.com/ios/130/ffffff/what.png",
             "bg" : "#4ADE80"
@@ -125,130 +125,74 @@
     
     "data" : [
         {
-            "name" : "Toca Life: World - NEW FEATURE in Home Designer! Design Walls and Floors",
+            "name" : "Cult of the Lamb Guide",
             "img1" : "https://wallpapercave.com/dwp1x/wp11382104.png",
             "img2" : "https://wallpapercave.com/dwp1x/wp11382104.png",
-            "part1" : "Toca Life World APK guide: how to download on Android, iOS, and PC",
-            "part2" : "How do you download the Toca Life World APK? That is a brilliant question and we have devoted this guide to explain it. But first, what Toca Life World? Toca Life World is an educational game where you take control of everything. You get to dress, position, and interact with the surrounding environment, and come up with whatever story comes to mind. Think of Toca Life World as a blank canvas, ready for you to paint on."
+            "part1" : "With the cult and the sword Cult of the Lamb guide is the best Begginer's Guide, for managing a cult, taking care of followers, exploring the world, building, developing a religion. We discuss base expansion, rituals, interacting with subjects, Knucklebones, fishing, keybinds.",
+            "part2" : "This guide to Cult of the Lamb is a collection of the most important information and tips that will help you effectively manage your own cult. On the individual pages, you will find tips on taking care of followers, exploring the game world, building structures and developing the rules of religion. We have also included information on topics related to the technical side of the game, i.e. system requirements, accessibility features and language versions."
         },
         {
-            "name" : "Toca Life World APK guide",
+            "name" : "Cult of the Lamb: Guide content",
             "img1" : "https://wallpapercave.com/dwp1x/wp11382105.jpg",
             "img2" : "https://wallpapercave.com/dwp1x/wp11382105.jpg",
-            "part1" : "When you search on Google for an APK, there are an overwhelming amount of options all offering different things. The site we trust is APKPure.",
-            "part2" : "HOW CAN I PLAY TOCA LIFE WORLD ON PC? Playing mobile games on your computer has never been easier thanks to emulators. If you don’t know, an emulator is a program that simulates another device. In this situation, you need to download an Android emulator for your computer."
+            "part1" : "The guide opens with the basics section, where you will learn some practical starting tips that will help you effectively manage the cult. We describe mechanics such as exploring the game world and navigating the map, expanding the base, performing rituals and interacting with followers. You will also learn how to grow plants and obtain materials. We also advise on how to fight effectively and which types of weapons are the best.",
+            "part2" : "In the FAQ section, we answer the most frequently asked questions related to such aspects of the game as the consequences of your character's and followers' death, and describe the fishing mechanic. There are also a handful of tips on the Knucklebones dice game, as well as opponents with whom you can fight.The appendix section is a collection of technical information about Cult of the Lamb. There you will find information about the available language versions, the minimum and recommended PC system requirements and accessibility settings. Additionally, we present a trophy guide, thanks to which you will unlock all the achievements available in the game."
         },
         {
-            "name" : "Toca Life: World Adds a Dentist's Office for Kids to Explore | SuperParent",
+            "name" : "Cult of the Lamb: Quick beginner's guide",
             "img1" : "https://wallpapercave.com/dwp1x/wp11382108.jpg",
             "img2" : "https://wallpapercave.com/dwp1x/wp11382108.jpg",
-            "part1" : "What are the best iPhone games? Whether you’re an Apple diehard or you’ve just bought your first device.",
-            "part2" : "To help you find something that specifically appeals to you, we’ve included a few different genres, so no matter your tastes, we’ve got you covered here. From Genshin Impact to Candy Crush, you’re sure to find something you enjoy."
+            "part1" : "Take care of the followers before the crusade - time in Cult of the Lamb flies constantly, so make sure that the needs of the followers (hunger, rest, diseases) are met before each adventure. This way individual factors will not fall to a critical level during your absence.",
+            "part2" : "Destroy the environment during the crusades - there are always destructible objects on the maps. Many of them give you nothing, but you can find ones that contain resources, such as wood, stone, gold or food. Clumps of vegetation often give Grass, thanks to which you can cook meals and create decorations.Go back to the areas you have already visited - even if you have unlocked access to the next stages, it is worth returning to the previous places from time to time. First, you'll find items and resources that are hard to get elsewhere. Second, it is a great opportunity to collect missing Blueprints and Follower Skins.Clean up after followers - this is especially important in the early stages of the game, when you don't have an Outhouse built yet. Your followers will take care of the physiological needs on the ground, and leaving droppings may cause the followers to fall ill. You can use the manually collected waste later as fertilizer.Interact with your subjects - every day you can perform various actions with your subjects to increase their Loyality and level them up. Take a moment to give them a Blessing or a Gift to help them become more productive. Importantly, as you unlock new Doctrines, you will be able to increase the number of interactions."
         },
         {
-            "name" : "Explore the World of Toca Boca - GeekDad",
+            "name" : "Cult of the Lamb: Basics",
             "img1" : "https://wallpapercave.com/dwp1x/wp11382110.jpg",
             "img2" : "https://wallpapercave.com/dwp1x/wp11382110.jpg",
-            "part1" : "A newcomer on the mobile scene, Genshin Impact proved naysayers wrong that a true, console-quality title is totally possible on mobile. It’s absolutely stunning, with a bunch of characters to collect, a wide world to explore, and plenty of fun to be had.",
-            "part2" : "Check out our Genshin Impact tier list, Genshin Impact map, Genshin Impact codes list, and Genshin Impact next banner guide to help you get started."
+            "part1" : "In this part of the guide, you will learn about the basic mechanisms of Cult of the Lamb. You will learn, among other things, what are the types of weapons and how to get Tarot Cards.",
+            "part2" : "Game interface - on this page, we explain the meaning of individual icons and buttons on the screen.Weapons - this page contains a description of the weapons available in the game and their Vampiric and Bane modifications.Tarot Cards - here you will find a list of all the Tarot Cards and learn how to unlock them.Curses - on this page, we describe the curses available in the game and explain how to unlock them.Doctrines - This page lists and describes all available doctrines that can be unlocked in the game.Materials - in this part of the guide you will find a list of all building materials and their locations.Follower Forms - This page lists all the animals and characters into which the followers can change.Bosses - here you will find information about the bosses in the game and tactics for defeating them."
         },
         {
-            "name" : "Toca Life World APK guide",
+            "name" : "Cult of the Lamb: FAQ",
             "img1" : "https://wallpapercave.com/dwp1x/wp11382113.png",
             "img2" : "https://wallpapercave.com/dwp1x/wp11382113.png",
-            "part1" : "When you search on Google for an APK, there are an overwhelming amount of options all offering different things. The site we trust is APKPure.",
-            "part2" : "HOW CAN I PLAY TOCA LIFE WORLD ON PC? Playing mobile games on your computer has never been easier thanks to emulators. If you don’t know, an emulator is a program that simulates another device. In this situation, you need to download an Android emulator for your computer."
+            "part1" : "In this part of the guide, you will find answers to the most frequently asked questions, including how to get materials and what to do to bury corpses.",
+            "part2" : "Corpses - how to bury? - here you can find out what needs to be done to get rid of the bodies from the cult's area. Fishing - how to fish? - on this page we tell you how and in what locations you can catch fish in the game. Endings - how many are there? - on this page we have included information about the Cult of the Lamb endings.Knucklebones - rules and how to play - here we describe the rules of the Knucklebones dice game and inform with whom you can play."
         },
         {
-            "name" : "Toca Life: World Adds a Dentist's Office for Kids to Explore | SuperParent",
+            "name" : "Cult of the Lamb: Trophies / Achievements",
             "img1" : "https://wallpapercave.com/dwp1x/wp11382126.jpg",
             "img2" : "https://wallpapercave.com/dwp1x/wp11382126.jpg",
-            "part1" : "What are the best iPhone games? Whether you’re an Apple diehard or you’ve just bought your first device.",
-            "part2" : "To help you find something that specifically appeals to you, we’ve included a few different genres, so no matter your tastes, we’ve got you covered here. From Genshin Impact to Candy Crush, you’re sure to find something you enjoy."
+            "part1" : "There are 37 achievements to unlock in Cult of the Lamb. Visit our trophy guide to find a list of all achievements and tips on how to unlock them.",
+            "part2" : "There are 37 achievements to unlock in Cult of the Lamb. Visit our trophy guide to find a list of all achievements and tips on how to unlock them."
         },
         {
-            "name" : "Explore the World of Toca Boca - GeekDad",
+            "name" : "Cult of the Lamb: PC system requirements",
             "img1" : "https://wallpapercave.com/dwp1x/wp11382138.jpg",
             "img2" : "https://wallpapercave.com/dwp1x/wp11382138.jpg",
-            "part1" : "A newcomer on the mobile scene, Genshin Impact proved naysayers wrong that a true, console-quality title is totally possible on mobile. It’s absolutely stunning, with a bunch of characters to collect, a wide world to explore, and plenty of fun to be had.",
-            "part2" : "Check out our Genshin Impact tier list, Genshin Impact map, Genshin Impact codes list, and Genshin Impact next banner guide to help you get started."
+            "part1" : "Operating system: Windows 7 64-bits Processor: Intel Core i3-3240 3.4 GHz/AMD FX-4300 3.8 GHz RAM: 4 GB",
+            "part2" : "Graphics card: Nvidia GeForce GTX 560 Ti/Radeon HD 775 Disk space: 4 GB"
         },
         {
-            "name" : "Toca Life World APK guide",
+            "name" : "Take care of your followers' needs",
             "img1" : "https://wallpapercave.com/dwp1x/wp11382169.jpg",
             "img2" : "https://wallpapercave.com/dwp1x/wp11382169.jpg",
-            "part1" : "When you search on Google for an APK, there are an overwhelming amount of options all offering different things. The site we trust is APKPure.",
-            "part2" : "HOW CAN I PLAY TOCA LIFE WORLD ON PC? Playing mobile games on your computer has never been easier thanks to emulators. If you don’t know, an emulator is a program that simulates another device. In this situation, you need to download an Android emulator for your computer."
+            "part1" : "Before embarking on a crusade, make sure that all Followers' needs are satisfied enough",
+            "part2" : "Make a few meals to stave off their hunger and send the tired ones to sleep. Also, make sure that there are adequate beds and shelters in the cult area. Keep in mind that while you are on a crusade, time in the game continues to flow and followers continue going about their activities as normal, and as a result, they will get hungry, sick, tired and even die."
         },
         {
-            "name" : "Toca Life: World Adds a Dentist's Office for Kids to Explore | SuperParent",
-            "img1" : "https://i.pinimg.com/originals/fe/30/d6/fe30d63c50c0bedd52f213d2beb4bb23.jpg",
-            "img2" : "https://i.gifer.com/embedded/download/Fhqw.gif",
-            "part1" : "What are the best iPhone games? Whether you’re an Apple diehard or you’ve just bought your first device.",
-            "part2" : "To help you find something that specifically appeals to you, we’ve included a few different genres, so no matter your tastes, we’ve got you covered here. From Genshin Impact to Candy Crush, you’re sure to find something you enjoy."
+            "name" : "Meditate to speed up time",
+            "img1" : "https://guides.gamepressure.com/cult-of-the-lamb/gfx/word/604178078.jpg",
+            "img2" : "https://guides.gamepressure.com/cult-of-the-lamb/gfx/word/604178078.jpg",
+            "part1" : "There may be times when you don't want to wait for a new day to come. To speed up the time, you can use the Meditate mechanic",
+            "part2" : " Just press and hold the corresponding button (L on PC, Y on Xbox, triangle on PS, X on Switch). When the clock strikes the right time, release the button to return to normal gameplay."
         },
         {
-            "name" : "Explore the World of Toca Boca - GeekDad",
-            "img1" : "https://i.pinimg.com/474x/35/1d/1b/351d1b0ea4bea4ed3c17b5a049017bed.jpg",
-            "img2" : "https://c.tenor.com/-n-tAjzjGl8AAAAC/toca-life-stories-nari.gif",
-            "part1" : "A newcomer on the mobile scene, Genshin Impact proved naysayers wrong that a true, console-quality title is totally possible on mobile. It’s absolutely stunning, with a bunch of characters to collect, a wide world to explore, and plenty of fun to be had.",
-            "part2" : "Check out our Genshin Impact tier list, Genshin Impact map, Genshin Impact codes list, and Genshin Impact next banner guide to help you get started."
-        },
-        {
-            "name" : "Toca Life World APK guide",
-            "img1" : "https://i.pinimg.com/474x/e5/08/95/e50895e28d58eaba5acfadcff3ed5394.jpg",
-            "img2" : "https://i.gifer.com/MjQT.gif",
-            "part1" : "When you search on Google for an APK, there are an overwhelming amount of options all offering different things. The site we trust is APKPure.",
-            "part2" : "HOW CAN I PLAY TOCA LIFE WORLD ON PC? Playing mobile games on your computer has never been easier thanks to emulators. If you don’t know, an emulator is a program that simulates another device. In this situation, you need to download an Android emulator for your computer."
-        },
-        {
-            "name" : "Toca Life: World Adds a Dentist's Office for Kids to Explore | SuperParent",
-            "img1" : "https://i.pinimg.com/474x/75/5a/86/755a86c6e582d048f422b67ae24029db.jpg",
-            "img2" : "https://i.gifer.com/embedded/download/Fhqw.gif",
-            "part1" : "What are the best iPhone games? Whether you’re an Apple diehard or you’ve just bought your first device.",
-            "part2" : "To help you find something that specifically appeals to you, we’ve included a few different genres, so no matter your tastes, we’ve got you covered here. From Genshin Impact to Candy Crush, you’re sure to find something you enjoy."
-        },
-        {
-            "name" : "Explore the World of Toca Boca - GeekDad",
-            "img1" : "https://i.pinimg.com/474x/51/0a/4e/510a4e610e913adf336bef966fe4e384.jpg",
-            "img2" : "https://c.tenor.com/-n-tAjzjGl8AAAAC/toca-life-stories-nari.gif",
-            "part1" : "A newcomer on the mobile scene, Genshin Impact proved naysayers wrong that a true, console-quality title is totally possible on mobile. It’s absolutely stunning, with a bunch of characters to collect, a wide world to explore, and plenty of fun to be had.",
-            "part2" : "Check out our Genshin Impact tier list, Genshin Impact map, Genshin Impact codes list, and Genshin Impact next banner guide to help you get started."
-        },
-        {
-            "name" : "Toca Life World APK guide",
-            "img1" : "https://i.pinimg.com/474x/e3/f2/9e/e3f29ec71a4eaf1ad3544640bf339069.jpg",
-            "img2" : "https://i.gifer.com/MjQT.gif",
-            "part1" : "When you search on Google for an APK, there are an overwhelming amount of options all offering different things. The site we trust is APKPure.",
-            "part2" : "HOW CAN I PLAY TOCA LIFE WORLD ON PC? Playing mobile games on your computer has never been easier thanks to emulators. If you don’t know, an emulator is a program that simulates another device. In this situation, you need to download an Android emulator for your computer."
-        },
-        {
-            "name" : "Toca Life: World Adds a Dentist's Office for Kids to Explore | SuperParent",
-            "img1" : "https://i.pinimg.com/474x/1f/9f/31/1f9f319b6d9c584d369576a1055f28a7.jpg",
-            "img2" : "https://i.gifer.com/embedded/download/Fhqw.gif",
-            "part1" : "What are the best iPhone games? Whether you’re an Apple diehard or you’ve just bought your first device.",
-            "part2" : "To help you find something that specifically appeals to you, we’ve included a few different genres, so no matter your tastes, we’ve got you covered here. From Genshin Impact to Candy Crush, you’re sure to find something you enjoy."
-        },
-        {
-            "name" : "Explore the World of Toca Boca - GeekDad",
-            "img1" : "https://i.pinimg.com/564x/58/06/21/5806211d1e3f63432167d81c32f3a56b.jpg",
-            "img2" : "https://c.tenor.com/-n-tAjzjGl8AAAAC/toca-life-stories-nari.gif",
-            "part1" : "A newcomer on the mobile scene, Genshin Impact proved naysayers wrong that a true, console-quality title is totally possible on mobile. It’s absolutely stunning, with a bunch of characters to collect, a wide world to explore, and plenty of fun to be had.",
-            "part2" : "Check out our Genshin Impact tier list, Genshin Impact map, Genshin Impact codes list, and Genshin Impact next banner guide to help you get started."
-        },
-        {
-            "name" : "Toca Life World APK guide",
-            "img1" : "https://i.pinimg.com/474x/4b/2f/f9/4b2ff9267658009c127e8cfb82f8f199.jpg",
-            "img2" : "https://i.gifer.com/MjQT.gif",
-            "part1" : "When you search on Google for an APK, there are an overwhelming amount of options all offering different things. The site we trust is APKPure.",
-            "part2" : "HOW CAN I PLAY TOCA LIFE WORLD ON PC? Playing mobile games on your computer has never been easier thanks to emulators. If you don’t know, an emulator is a program that simulates another device. In this situation, you need to download an Android emulator for your computer."
-        },
-        {
-            "name" : "Toca Life: World Adds a Dentist's Office for Kids to Explore | SuperParent",
-            "img1" : "https://i.pinimg.com/474x/65/5a/f6/655af642e7f06bc3400bde4895b1d1c8.jpg",
-            "img2" : "https://i.gifer.com/embedded/download/Fhqw.gif",
-            "part1" : "What are the best iPhone games? Whether you’re an Apple diehard or you’ve just bought your first device.",
-            "part2" : "To help you find something that specifically appeals to you, we’ve included a few different genres, so no matter your tastes, we’ve got you covered here. From Genshin Impact to Candy Crush, you’re sure to find something you enjoy."
+            "name" : "Destroy everything you can",
+            "img1" : "https://guides.gamepressure.com/cult-of-the-lamb/gfx/word/604178109.jpg",
+            "img2" : "https://guides.gamepressure.com/cult-of-the-lamb/gfx/word/604178109.jpg",
+            "part1" : "Almost every area contains destructible environmental elements. It's worth breaking them, because they occasionally drop various raw materials and resources",
+            "part2" : "You should also visit locations unrelated to the crusades, because you'll still find destructible objects there, as well as trees to cut down and stones to split."
         }
       ]
 }
