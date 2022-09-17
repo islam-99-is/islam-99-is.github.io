@@ -2,7 +2,7 @@
     "config" : [
         {
           "activate_ads" : "true",
-          "activate_steps" : "false",
+          "activate_steps" : "true",
           "activate_step_email" : "false",
           "network" : "admob",
           "admob_ban" : "ca-app-pub-7467116021377002/2312541522",
