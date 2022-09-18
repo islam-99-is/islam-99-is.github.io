@@ -83,172 +83,97 @@
     "wallpapers" : [
         {
             "name" : "",
-            "img" : ""
+            "img" : "https://cdn.cloudflare.steamstatic.com/steam/apps/1218280/ss_3ceddfa452041f0c520bcc1c9c9a1a9ca56091f0.1920x1080.jpg?t=1593206301"
         },
         {
             "name" : "",
-            "img" : ""
+            "img" : "https://cdn.cloudflare.steamstatic.com/steam/apps/1218280/ss_8cede7f4fc979ba3ce3840fb09a68ce3b0e5e75c.1920x1080.jpg?t=1593206301"
         },
         {
             "name" : "",
-            "img" : ""
+            "img" : "https://image.winudf.com/v2/image1/Y29tLmJkZ3V5LnNpbXNjaG9vbF9zY3JlZW5fMF8xNTk1NDA0OTQ3XzAxNg/screen-0.jpg?fakeurl=1&type=.webp"
         },
         {
             "name" : "",
-            "img" : ""
+            "img" : "https://image.winudf.com/v2/image1/Y29tLmF1dGh1bWVzLmFwcC5CYWRHdXkuQXRTY2hvb2xfc2NyZWVuXzBfMTYxODAzMTA0MF8wNDg/screen-0.jpg?fakeurl=1&type=.jpg"
         },
         {
             "name" : "",
-            "img" : ""
+            "img" : "https://is4-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/68/eb/2b/68eb2b86-0a3b-ffcb-2f9a-faa373b5428a/f374ee70-6339-452f-9a2a-6848136eac99_1.jpg/750x750bb.jpeg"
         },
         {
             "name" : "",
-            "img" : ""
+            "img" : "https://img.gg.deals/51/fa/a197652c2c9388c3866543209942032b6eab_1920xt1080_S1000.jpg"
         },
         {
             "name" : "",
-            "img" : ""
+            "img" : "https://media.indiedb.com/images/games/1/74/73986/screen02.png"
         },
         {
             "name" : "",
-            "img" : ""
+            "img" : "https://media.indiedb.com/images/games/1/74/73986/ss_73c045c2ad3854a07cb22a357f8fb25a4.jpg"
         },
         {
             "name" : "",
-            "img" : ""
+            "img" : "https://gamefabrique.com/storage/screenshots/pc/bad-guys-at-school-04.png"
         },
         {
             "name" : "",
-            "img" : ""
+            "img" : "https://cdn.cloudflare.steamstatic.com/steam/apps/1218280/ss_2655bfa19b299fc97bd8b4c1e4d8daf6f5c995c1.1920x1080.jpg?t=1593206301"
         }
     ],
     
     "data" : [
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "In Bad Guys at School",
+            "img1" : "https://cdn.cloudflare.steamstatic.com/steam/apps/1218280/ss_3ceddfa452041f0c520bcc1c9c9a1a9ca56091f0.1920x1080.jpg?t=1593206301",
+            "img2" : "https://cdn.cloudflare.steamstatic.com/steam/apps/1218280/ss_3ceddfa452041f0c520bcc1c9c9a1a9ca56091f0.1920x1080.jpg?t=1593206301",
+            "part1" : "in Bad Guys at School you can play as students and revolt against school system",
+            "part2" : "by completing missions, or decide to become a teacher that must maintain order despite the violence and brutality in the school."
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "ABOUT THIS GAME",
+            "img1" : "https://cdn.cloudflare.steamstatic.com/steam/apps/1218280/ss_8cede7f4fc979ba3ce3840fb09a68ce3b0e5e75c.1920x1080.jpg?t=1593206301",
+            "img2" : "https://cdn.cloudflare.steamstatic.com/steam/apps/1218280/ss_8cede7f4fc979ba3ce3840fb09a68ce3b0e5e75c.1920x1080.jpg?t=1593206301",
+            "part1" : "In Bad Guys at School you can play as students and revolt against school system, or decide to become a teacher that must maintain order despite the violence and brutality in the school.",
+            "part2" : "Play in multiplayer or single player mode and complete missions to earn reputation and money to become a Bad Guy."
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "In multiplayer mode",
+            "img1" : "https://image.winudf.com/v2/image1/Y29tLmJkZ3V5LnNpbXNjaG9vbF9zY3JlZW5fMF8xNTk1NDA0OTQ3XzAxNg/screen-0.jpg?fakeurl=1&type=.webp",
+            "img2" : "https://cdn.cloudflare.steamstatic.com/steam/apps/1218280/extras/gif2.gif?t=1593206301",
+            "part1" : "In multiplayer mode, play as teachers or students. Each team must have the highest score at the end of the game.",
+            "part2" : "Collect items in the map or earn money and buy items in the shop. Each item allows you to complete a specific mission and enhances your progress in the game."
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "Become a bad student",
+            "img1" : "https://img.gg.deals/51/fa/a197652c2c9388c3866543209942032b6eab_1920xt1080_S1000.jpg",
+            "img2" : "https://img.gg.deals/51/fa/a197652c2c9388c3866543209942032b6eab_1920xt1080_S1000.jpg",
+            "part1" : "Bad Guys at School is a video game from the Forceight. It simulates life inside a high school",
+            "part2" : "However, unlike similar school simulators, this game will not challenge you to live like a model student. Instead, you will play the bad boy and revolt against the school system. You will complete missions and earn the reputation of the Bad Guy. You can also play as a teacher and maintain order in your school."
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "Good or bad, it's your choice",
+            "img1" : "https://media.indiedb.com/images/games/1/74/73986/screen02.png",
+            "img2" : "https://media.indiedb.com/images/games/1/74/73986/screen02.png",
+            "part1" : "Bad Guys at School is a life simulation game that is set at a high school. However, as noted, it will not play out like your usual school simulation",
+            "part2" : "Here, you can play as a student who revolts against the school system with violence and brutality. You can also choose to become a teacher whose mission is to ensure that the order within the school remains. But to do so, you will fight violence with violence.
+
+"
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "multiplayer and single-player modes",
+            "img1" : "https://media.indiedb.com/images/games/1/74/73986/ss_73c045c2ad3854a07cb22a357f8fb25a4.jpg",
+            "img2" : "https://media.indiedb.com/images/games/1/74/73986/ss_73c045c2ad3854a07cb22a357f8fb25a4.jpg",
+            "part1" : "The game offers both multiplayer and single-player modes so you can team up with others or play solo. These modes work for both the student and teacher options and will challenge you to complete missions to earn reputation and money. For every mission you finish, you can collect items for your map. You can also earn money that you can use to buy items in the joke shop. Each item helps you complete a specific mission.",
+            "part2" : "Bad Guys at School is a funny game with a lot of good Easter Eggs that you can find as you explore the map. There is little to do progression-wise and the entire playthrough is only around 30-minutes long. You can get a grasp of what the game is all about early on. The map is also empty, with houses lacking furniture. More, while you can interact with everything in the game, no AI is working against you. "
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "Funny but needs work",
+            "img1" : "https://gamefabrique.com/storage/screenshots/pc/bad-guys-at-school-04.png",
+            "img2" : "https://gamefabrique.com/storage/screenshots/pc/bad-guys-at-school-04.png",
+            "part1" : "Overall, Bad Guys at School offers a unique experience",
+            "part2" : " However, as it is, the game looks to be more of an alpha version instead of a full release. It looks to be a sandbox that relies heavily on your friends' RP'ing. It could also use more elements and levels. More, it is super buggy that it makes the already short game"
         }
       ]
 }
