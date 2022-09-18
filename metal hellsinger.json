@@ -83,114 +83,114 @@
     "wallpapers" : [
         {
             "name" : "",
-            "img" : ""
+            "img" : "https://assets.reedpopcdn.com/metal-hellsinger-header_9TYGphi.jpg/BROK/resize/1200x1200>/format/jpg/quality/70/metal-hellsinger-header_9TYGphi.jpg"
         },
         {
             "name" : "",
-            "img" : ""
+            "img" : "https://d3isma7snj3lcx.cloudfront.net/images/gallery/35/350975/metal-hellsinger-pc-ps4-xone-e6bb81aa.jpg"
         },
         {
             "name" : "",
-            "img" : ""
+            "img" : "https://www.digitaltrends.com/wp-content/uploads/2022/09/metal-hellsinger-ice-demon.jpg?p=1"
         },
         {
             "name" : "",
-            "img" : ""
+            "img" : "https://assets2.rockpapershotgun.com/metal-hellsinger-header_jLgc0dN.jpg/BROK/resize/1920x1920>/format/jpg/quality/80/metal-hellsinger-header_jLgc0dN.jpg"
         },
         {
             "name" : "",
-            "img" : ""
+            "img" : "https://d3isma7snj3lcx.cloudfront.net/images/gallery/35/350975/metal-hellsinger-pc-ps5-xbox-x-s-24c547a0.jpg"
         },
         {
             "name" : "",
-            "img" : ""
+            "img" : "https://www.techpowerup.com/img/obkCbsCWSUGZ1cjO.jpg"
         },
         {
             "name" : "",
-            "img" : ""
+            "img" : "https://images.cgames.de/images/gamestar/290/gs-metal-hellsinger_6181269.jpg"
         },
         {
             "name" : "",
-            "img" : ""
+            "img" : "https://venturebeat.com/wp-content/uploads/2020/06/metal-hellsinger.png?fit=2003%2C1072&strip=all"
         },
         {
             "name" : "",
-            "img" : ""
+            "img" : "https://gamingbolt.com/wp-content/uploads/2020/11/metal-hellsinger.jpg"
         },
         {
             "name" : "",
-            "img" : ""
+            "img" : "https://cdn.arstechnica.net/wp-content/uploads/2022/05/vlcsnap-2022-05-25-14h10m46s327.png"
         }
     ],
     
     "data" : [
         {
             "name" : "",
-            "img1" : "",
-            "img2" : "",
+            "img1" : "https://assets.reedpopcdn.com/metal-hellsinger-header_9TYGphi.jpg/BROK/resize/1200x1200>/format/jpg/quality/70/metal-hellsinger-header_9TYGphi.jpg",
+            "img2" : "https://assets.reedpopcdn.com/metal-hellsinger-header_9TYGphi.jpg/BROK/resize/1200x1200>/format/jpg/quality/70/metal-hellsinger-header_9TYGphi.jpg",
             "part1" : "",
             "part2" : ""
         },
         {
             "name" : "",
-            "img1" : "",
-            "img2" : "",
+            "img1" : "https://d3isma7snj3lcx.cloudfront.net/images/gallery/35/350975/metal-hellsinger-pc-ps4-xone-e6bb81aa.jpg",
+            "img2" : "https://d3isma7snj3lcx.cloudfront.net/images/gallery/35/350975/metal-hellsinger-pc-ps4-xone-e6bb81aa.jpg",
             "part1" : "",
             "part2" : ""
         },
         {
             "name" : "",
-            "img1" : "",
-            "img2" : "",
+            "img1" : "https://www.digitaltrends.com/wp-content/uploads/2022/09/metal-hellsinger-ice-demon.jpg?p=1",
+            "img2" : "https://www.digitaltrends.com/wp-content/uploads/2022/09/metal-hellsinger-ice-demon.jpg?p=1",
             "part1" : "",
             "part2" : ""
         },
         {
             "name" : "",
-            "img1" : "",
-            "img2" : "",
+            "img1" : "https://assets2.rockpapershotgun.com/metal-hellsinger-header_jLgc0dN.jpg/BROK/resize/1920x1920>/format/jpg/quality/80/metal-hellsinger-header_jLgc0dN.jpg",
+            "img2" : "https://assets2.rockpapershotgun.com/metal-hellsinger-header_jLgc0dN.jpg/BROK/resize/1920x1920>/format/jpg/quality/80/metal-hellsinger-header_jLgc0dN.jpg",
             "part1" : "",
             "part2" : ""
         },
         {
             "name" : "",
-            "img1" : "",
-            "img2" : "",
+            "img1" : "https://d3isma7snj3lcx.cloudfront.net/images/gallery/35/350975/metal-hellsinger-pc-ps5-xbox-x-s-24c547a0.jpg",
+            "img2" : "https://d3isma7snj3lcx.cloudfront.net/images/gallery/35/350975/metal-hellsinger-pc-ps5-xbox-x-s-24c547a0.jpg",
             "part1" : "",
             "part2" : ""
         },
         {
             "name" : "",
-            "img1" : "",
-            "img2" : "",
+            "img1" : "https://www.techpowerup.com/img/obkCbsCWSUGZ1cjO.jpg",
+            "img2" : "https://www.techpowerup.com/img/obkCbsCWSUGZ1cjO.jpg",
             "part1" : "",
             "part2" : ""
         },
         {
             "name" : "",
-            "img1" : "",
-            "img2" : "",
+            "img1" : "https://images.cgames.de/images/gamestar/290/gs-metal-hellsinger_6181269.jpg",
+            "img2" : "https://images.cgames.de/images/gamestar/290/gs-metal-hellsinger_6181269.jpg",
             "part1" : "",
             "part2" : ""
         },
         {
             "name" : "",
-            "img1" : "",
-            "img2" : "",
+            "img1" : "https://venturebeat.com/wp-content/uploads/2020/06/metal-hellsinger.png?fit=2003%2C1072&strip=all",
+            "img2" : "https://venturebeat.com/wp-content/uploads/2020/06/metal-hellsinger.png?fit=2003%2C1072&strip=all",
             "part1" : "",
             "part2" : ""
         },
         {
             "name" : "",
-            "img1" : "",
-            "img2" : "",
+            "img1" : "https://gamingbolt.com/wp-content/uploads/2020/11/metal-hellsinger.jpg",
+            "img2" : "https://gamingbolt.com/wp-content/uploads/2020/11/metal-hellsinger.jpg",
             "part1" : "",
             "part2" : ""
         },
         {
             "name" : "",
-            "img1" : "",
-            "img2" : "",
+            "img1" : "https://cdn.arstechnica.net/wp-content/uploads/2022/05/vlcsnap-2022-05-25-14h10m46s327.png",
+            "img2" : "https://cdn.arstechnica.net/wp-content/uploads/2022/05/vlcsnap-2022-05-25-14h10m46s327.png",
             "part1" : "",
             "part2" : ""
         },
