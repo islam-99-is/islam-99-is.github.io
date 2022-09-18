@@ -83,172 +83,123 @@
     "wallpapers" : [
         {
             "name" : "",
-            "img" : ""
+            "img" : "https://image.winudf.com/v2/image1/Y29tLk5vdnVzZW5ldC5JYW1GaXNoX3NjcmVlbl84XzE2NDA3NjE5NjZfMDc4/screen-8.jpg?fakeurl=1&type=.webp"
         },
         {
             "name" : "",
-            "img" : ""
+            "img" : "https://image.winudf.com/v2/image1/Y29tLk5vdnVzZW5ldC5JYW1GaXNoX3NjcmVlbl85XzE2NDA3NjE5NjdfMDU4/screen-9.jpg?fakeurl=1&type=.webp"
         },
         {
             "name" : "",
-            "img" : ""
+            "img" : "https://www.xboxone-hq.com/images/games/screenshots/4820-i-am-fish-screenshot-1-1622880009.jpg"
         },
         {
             "name" : "",
-            "img" : ""
+            "img" : "https://www.xboxone-hq.com/images/games/screenshots/4820-i-am-fish-screenshot-5-1622880001.jpg"
         },
         {
             "name" : "",
-            "img" : ""
+            "img" : "https://www.xboxone-hq.com/images/games/screenshots/4820-i-am-fish-screenshot-3-1622880001.jpg"
         },
         {
             "name" : "",
-            "img" : ""
+            "img" : "https://www.xboxone-hq.com/images/games/screenshots/4820-i-am-fish-screenshot-2-1622880001.jpg"
         },
         {
             "name" : "",
-            "img" : ""
+            "img" : "https://cdn.cloudflare.steamstatic.com/steam/apps/1472560/ss_0480024d03a454dbd12178b35b5b10e8619c83e1.1920x1080.jpg?t=1656003679"
         },
         {
             "name" : "",
-            "img" : ""
+            "img" : "https://images.sftcdn.net/images/t_app-cover-l,f_auto/p/fa160805-2bba-4a5d-aba8-8f5a5e6afa58/2460364925/i-am-fish-ss_1afa229bd43a56ddc114983fb6e2c824f1dd3c3d.1920x1080.jpg"
         },
         {
             "name" : "",
-            "img" : ""
+            "img" : "https://www.pcgamesn.com/wp-content/uploads/2021/07/i-am-fish-screenshot-goldfish.jpg"
         },
         {
             "name" : "",
-            "img" : ""
+            "img" : "https://curvegames.com/wp-content/uploads/2021/10/CurveGames-I-Am-Fish-FAQ.jpg"
         }
     ],
     
     "data" : [
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "Goldfish Level 1",
+            "img1" : "https://image.winudf.com/v2/image1/Y29tLk5vdnVzZW5ldC5JYW1GaXNoX3NjcmVlbl84XzE2NDA3NjE5NjZfMDc4/screen-8.jpg?fakeurl=1&type=.webp",
+            "img2" : "https://image.winudf.com/v2/image1/Y29tLk5vdnVzZW5ldC5JYW1GaXNoX3NjcmVlbl84XzE2NDA3NjE5NjZfMDc4/screen-8.jpg?fakeurl=1&type=.webp",
+            "part1" : "The first level is pretty easy, since it’s teaching you the basics.",
+            "part2" : "First, you want to roll around the shelf, drop down onto the lower shelves, and then to the floor. Behind the desk is your first bread piece After that, you roll onto the balcony and across your first powerline to the check point. Take the next Power lines. Now there are three directions you can go:Right, to Routes 1 and 2Or straight, to Route 3I’ll cover these individually:"
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "Route 1",
+            "img1" : "https://image.winudf.com/v2/image1/Y29tLk5vdnVzZW5ldC5JYW1GaXNoX3NjcmVlbl85XzE2NDA3NjE5NjdfMDU4/screen-9.jpg?fakeurl=1&type=.webp",
+            "img2" : "https://image.winudf.com/v2/image1/Y29tLk5vdnVzZW5ldC5JYW1GaXNoX3NjcmVlbl85XzE2NDA3NjE5NjdfMDU4/screen-9.jpg?fakeurl=1&type=.webp",
+            "part1" : "Drop down the roof onto the mattress below and make your way to the check point. You will zig zag your way through the crates and boxes and go left.",
+            "part2" : "At the end of the roof is a power line, you will go down it, and it crosses with another line at the end that you’ll fall onto. The 2nd piece of bread is in the middle of this 2nd line. At the end of that roof is a gutter, which you’ll roll down. From here, you’ll take another power line to the check point where you will meet up with route 2 and 3."
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "Route 2",
+            "img1" : "https://www.xboxone-hq.com/images/games/screenshots/4820-i-am-fish-screenshot-1-1622880009.jpg",
+            "img2" : "https://www.xboxone-hq.com/images/games/screenshots/4820-i-am-fish-screenshot-1-1622880009.jpg",
+            "part1" : "Go to the left of the tiny flower pot to get onto the power lines, If you go right you’ll hit the flower pot and bounce down onto Route 1 again.",
+            "part2" : "Head across the power lines, and take the next 2 lines. You will land on a flower bed, and go around the roof to the left. There is a long power line here, with a piece of bread. Getting on the line can be tricky.You will now meet up with Route 1 and 3. "
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "Route 3",
+            "img1" : "https://www.xboxone-hq.com/images/games/screenshots/4820-i-am-fish-screenshot-5-1622880001.jpg",
+            "img2" : "https://www.xboxone-hq.com/images/games/screenshots/4820-i-am-fish-screenshot-5-1622880001.jpg",
+            "part1" : "Instead of going left, go straight after the checkpoint.",
+            "part2" : "You will roll along the power lines and into a long gutter, which takes you along to a sloped roof that drops you onto a flower bed. There is a check point here. Take the next wires to the bread piece. Zigzag through the crates after you land on the next roof, and turn right. Be careful, there is no railing to keep you from falling. There will be powerlines on the next roof. From the next checkpoint, carefully make your way through the chimneys. It is really easy to get too close to the slope of the roof and fall to your death. Across the power lines that connect the two houses, then roll down the roof onto the flower bed. You are now met up with Routes 1 and 2. Once all routes meet up on the roof, you have one last piece of bread…the one in the middle of the road before you reach the oceanPrepare to die a lot, because you are not fast in your fish bowl and there are a lot of cars, so you have to get lucky to get this piece and make it out of the road without being crushed. "
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "Note",
+            "img1" : "https://www.xboxone-hq.com/images/games/screenshots/4820-i-am-fish-screenshot-3-1622880001.jpg",
+            "img2" : "https://www.xboxone-hq.com/images/games/screenshots/4820-i-am-fish-screenshot-3-1622880001.jpg",
+            "part1" : "I managed it by going higher up the road that the bread, hugging the edge, then rolling into the middle and grabbing it",
+            "part2" : " I stayed in the middle until a car passed me on the left, then prayed and rolled left as hard as I could. I got hit by a car, but managed to hop into the ocean before i died."
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "Goldfish Level 2",
+            "img1" : "https://www.xboxone-hq.com/images/games/screenshots/4820-i-am-fish-screenshot-2-1622880001.jpg",
+            "img2" : "https://www.xboxone-hq.com/images/games/screenshots/4820-i-am-fish-screenshot-2-1622880001.jpg",
+            "part1" : "This level introduces a few new things, but for the most part is still fairly simple.",
+            "part2" : "First you will roll carefully along the shelf you are on, to the upright board that looks like a dead end. Run into it to knock it over, and reveal the first checkpoint. Go left along the shelf and drop onto the mattress, and continue left, then left again, to the second check point. The first bread piece will also be here, bouncing behind a box Next you will push the ladder, opening a window for you to the third check point. From here, you have 2 ways you can go…left, down the ramps, or right along the catwalk. There is no difference, take which every path you please. Both lead to a check point, and down the roof onto a trampoline that bounces you into a pon Here is your second piece of bread, to the far end of the pond.Swim back to the other side of the pond now, and go into the pipe. You will drop out of the pipe into the sewers. Drop down the first waterfall and look left, your third piece of bread is below a pipe. Jump the wall and swim below the bread, then swim up. You should jump high enough to reach it. Swim forwards and jump the walls to the next checkpoint. Note: If you get stuck in trash, swim down and hit the floor to knock it off. From the checkpoint, jump the next wall. this is much more difficult. You can get more height by approaching the wall deep and then swimming up. Go to the center drain in the middle and into it. At a brief junction you’ll have to swim into another pipe. You will fall out into a mop bucket. Move your bucket around to the front of the red car on the right. Here is the Fourth piece of bread. Go through the gate where the last checkpoint is, and go right as you start moving. Avoid rocks if you can, they could bounce you out of your bucket. As you go right, you will eventually see the fifth and final bread piece on your left. Swerve to hit it, before continuing down hill to the canal to finish the level."
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "Goldfish Level 3",
+            "img1" : "https://gameplay.tips/uploads/posts/2021-09/1632142940_15.jpg",
+            "img2" : "https://gameplay.tips/uploads/posts/2021-09/1632142940_15.jpg",
+            "part1" : "The final level of the Goldfish, this one adds a decent bit of challenge compared to the first two.",
+            "part2" : "Immediately after you spawn in, turn around and head towards the sun. In the water is the first bread piece. Now swim forwards until you reach the fountain, head to the left side and into the intake pipe. This will break the fountain and shoot you into a gutter on the roof opposite. Swim along the gutter until it breaks and you enter the house. Once in the house, roll right down the hallway to the second piece of bread under the table. Then turn around and go down the stairs. Head through the door on the left, turn left into the kitchen, and go straight out the next door. Turn right to find the third bread piece. Now head carefully along the catwalks to the next checkpoint. Careful, your little gold fish buddy can get in your way or unbalance you. Go across the road, down the alley, and turn left to fall down the stairs and roll into the fountain far below. Head to the far left intake pipe, and you will be shot out onto a bench. Flop into the jar below you, and head LEFT towards the marked bench for the fourth piece of bread. Once you have the bread, head lto the other side of the fountain (back towards the side where the intake pipe you took is located). You are going down a ramp into the construction for the bridge now. Head along the catwalks to the next to checkpoints, when the catwalk breaks. Go along the next one, and turn left onto the black tubing. From that check point, continue along the metal walk way.When you reach the next checkpoint, go left. This path will not have a edge to keep you from falling. Follow it to the fifth, final bread piece. Then just follow the catwalk to your right after leaving the bread until the bridge breaks and the level ends."
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "Piranha Level 1",
+            "img1" : "https://gameplay.tips/uploads/posts/2021-09/1632142961_22.jpg",
+            "img2" : "https://gameplay.tips/uploads/posts/2021-09/1632142961_22.jpg",
+            "part1" : "These new levels add a lot more complexity and challenge.",
+            "part2" : "Move along the shelf and bounce down into the sink, and follow the prompt to use your ability button (RIght or Left bumper on Controller), to bite the faucet off. I’ve marked the bread location on the image, but you cannot reach it just yet. Removing the faucet starts the kitchen flooding. Hop out of the sink and onto the now flooded floor. Look for red, red things are things you can bite. Swim to the red stain on the cupboard to the left of the sink, bite it and pull it open. Bite the red section of pipe to flood the kitchen more, and now go to the marked cupboard above to find the first bread piece. Now swim to the dishwasher, jump up and grab the handle. Pull the lid down, and swim inside and remove that pipe as well. Now swim to the table. Do not grab the hammer….grab the sandwich. Use the sandwich to break the window, this gives you an achievement Once in the jar, now comes a fun part that relies on luck. You need to roll into the road, and head to the gap in the fence on the LEFT. It’s pure random luck on where the cars are coming from. From here, we now have multiple routes to go. I’ll do them individually, each has their own bread location. "
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "Route 1",
+            "img1" : "https://gameplay.tips/uploads/posts/2021-09/1632142880_26.jpg",
+            "img2" : "https://gameplay.tips/uploads/posts/2021-09/1632142880_26.jpg",
+            "part1" : "Go left, and down the ramp. After hitting the checkpoint, keep going straight down the power lines. Follow the roof around, then go down the roof to get the piece of bread.",
+            "part2" : "Go down the next roof, and you’ll be at the check point and meet up with Route 3. Head down the stone ramp to the next checkpoint, where you will rejoin route 2."
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "Route 2",
+            "img1" : "https://gameplay.tips/uploads/posts/2021-09/1632142933_27.jpg",
+            "img2" : "https://gameplay.tips/uploads/posts/2021-09/1632142933_27.jpg",
+            "part1" : "Go right, then turn left. Keep going straight to hit the next check point, then go down the curved ramp to get the bread piece. This can be difficult to stay on without falling off.",
+            "part2" : "After this you will rejoin Routes 1 and 3."
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "Route 3",
+            "img1" : "https://gameplay.tips/uploads/posts/2021-09/1632142922_28.jpg",
+            "img2" : "https://gameplay.tips/uploads/posts/2021-09/1632142922_28.jpg",
+            "part1" : "Go left, and down the ramp. After hitting the checkpoint, turn RIGHT and go along the narrow bridge. Turn left to go down the power lines to the bread piece.",
+            "part2" : "From there, you will rejoin Route 1 on the roof. Head down the stone ramp to the next checkpoint, where you will rejoin route 2. From here, all 3 routes meet up again. Go down the wooden catwalk, where begins our next challenge. Now we have to get across balconies with seagulls that will gradually become more aware of our presence the more we move.You can tell by the meter next to the seagull head. Green is safe, but once it hits yellow I stop moving and let it go down again. If it hits orange definitely stop moving. At red, they will start attaching your jar. Slowly, carefully, make your way across the first balcony. On the second balcony, you will see a check point under the table to the left. There is a staircase on the right which holds our next piece of bread. Once you hit the check point, maneuver your way down the stairs. Work your way across to the next balcony. The next checkpoint is under a table here. Carefully go across the power lines, and then along the balcony railing. Here a seagull will attack you, and knock you through a window into a bathroom. Your goal is to flood the bathroom so you can escape, starting with the two tub taps. After you break those off, escape the tub and go to the radiator on the wall. Pull the pipe out. From there, go under the marked cabinet pictured below to grab toilet paper. Place it within the toilet. It can be difficult to get OUT of the toilet after, just keep trying. I know the toilet paper gets in the way. After this, jump up and grab the draw pull to flush the toilet. Remember: the deeper you are as you go up, the higher you jump out once you hit the surface. From there, go into the shower and jump up to get the pipe in there. Again, deeper start = higher jump. Now, you go to the sink, and remove the sink taps. There is another secret achievement here that you can do now: go into the bath tub, and pull the plug. After this, it is simply a matter of going to the window and jumping up to bite the seagull, letting him carry you over the river so you can drop in and finish the level."
         }
       ]
 }
