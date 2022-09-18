@@ -48,13 +48,13 @@
             "bg" : "#38BDF8"
         },
         {
-            "active" : "true",
+            "active" : "false",
             "name" : "questions",
             "ico" : "https://img.icons8.com/ios/130/ffffff/how-many-quest--v2.png",
             "bg" : "#2DD4BF"
         },
         {
-            "active" : "true",
+            "active" : "false",
             "name" : "quiz",
             "ico" : "https://img.icons8.com/ios/130/ffffff/what.png",
             "bg" : "#4ADE80"
@@ -125,130 +125,74 @@
     
     "data" : [
         {
-            "name" : "",
+            "name" : "Metal: Hellsinger - Beginner's Tips",
             "img1" : "https://assets.reedpopcdn.com/metal-hellsinger-header_9TYGphi.jpg/BROK/resize/1200x1200>/format/jpg/quality/70/metal-hellsinger-header_9TYGphi.jpg",
             "img2" : "https://assets.reedpopcdn.com/metal-hellsinger-header_9TYGphi.jpg/BROK/resize/1200x1200>/format/jpg/quality/70/metal-hellsinger-header_9TYGphi.jpg",
-            "part1" : "",
-            "part2" : ""
+            "part1" : "Development studio The Outsiders created one of the most fun and frenetic rhythm games in recent memory. Metal: Hellsinger features a mute protagonist that will try to recover her voice by traveling through hells, killing demons, and listening to original heavy metal bangers.",
+            "part2" : "While this game can be easy to pick up for people that like rhythm titles, it can be confusing and frustrating at first for newcomers. That’s why we will explain its main futures, gameplay loop, and other details in this guide. Turn up the volume — you’ll need it."
         },
         {
-            "name" : "",
+            "name" : "The Rhythm Mechanic",
             "img1" : "https://d3isma7snj3lcx.cloudfront.net/images/gallery/35/350975/metal-hellsinger-pc-ps4-xone-e6bb81aa.jpg",
             "img2" : "https://d3isma7snj3lcx.cloudfront.net/images/gallery/35/350975/metal-hellsinger-pc-ps4-xone-e6bb81aa.jpg",
-            "part1" : "",
-            "part2" : ""
+            "part1" : "The main mechanic in the game asks you to attack while following the beat of the song that is playing in the background. Shooting at the correct time will increase your damage and how complete the song will sound.",
+            "part2" : "You’ll realize how well you’re doing by four different indicators: the crosshair, which has two icons that will show when you should act all the time, an icon on the top center of the screen called the Fury gauge, the numbers dropping out of enemies you damage, and the Hit Streak on the left (basically your combo counter). When shooting, the grey triangles near the crosshair will shine in orange for a second if you followed the beat greatly (a “Perfect” sign will appear below the crosshair). If you shot okay but not as good as possible, you’ll earn a “Good”. Failing completely will produce an ugly sound and alter your damage output considerably. The idea is to follow the song rhythm as much as you can to get the most damage. To do so, you’ll have to increase the Fury gauge, which increases after each accurate shot you realize. This gauge can go from 1x to 16x, which is the most damage you’ll make. It also decreases with time if you don’t charge it or if you receive damage."
         },
         {
-            "name" : "",
+            "name" : "Moving (specifically dashing)",
             "img1" : "https://www.digitaltrends.com/wp-content/uploads/2022/09/metal-hellsinger-ice-demon.jpg?p=1",
             "img2" : "https://www.digitaltrends.com/wp-content/uploads/2022/09/metal-hellsinger-ice-demon.jpg?p=1",
-            "part1" : "",
-            "part2" : ""
+            "part1" : "Moving (specifically dashing) also works with this main mechanic in mind",
+            "part2" : "If you dash at the indicated moment, you’ll be able to perform a second and even a third dash. This won’t count towards your Fury gauge nor it will decrease it if you miss the beat."
         },
         {
-            "name" : "",
+            "name" : "However, this doesn’t mean",
             "img1" : "https://assets2.rockpapershotgun.com/metal-hellsinger-header_jLgc0dN.jpg/BROK/resize/1920x1920>/format/jpg/quality/80/metal-hellsinger-header_jLgc0dN.jpg",
             "img2" : "https://assets2.rockpapershotgun.com/metal-hellsinger-header_jLgc0dN.jpg/BROK/resize/1920x1920>/format/jpg/quality/80/metal-hellsinger-header_jLgc0dN.jpg",
-            "part1" : "",
-            "part2" : ""
+            "part1" : "However, this doesn’t mean that you strictly need to use your weapons every second and never miss the beat — although there’s another tip related to this in another entry of this guide. In fact, getting the hang of the whole game’s core can take some time and song learning (which will change in every level, by the way). The songs will always have different moments where the beat will change, so you'll have the chance to try again and get in the mood with slower sections.",
+            "part2" : "One recommendation that we have is to listen carefully and stamp your feet and/or move your head slowly (like literal headbanging but more delicate) on the beat. With a bit of coordination, you’ll be able to shoot while doing these other moves with your body, “feeling” the music and understanding its structure."
         },
         {
-            "name" : "",
+            "name" : "Testing Your Audio",
             "img1" : "https://d3isma7snj3lcx.cloudfront.net/images/gallery/35/350975/metal-hellsinger-pc-ps5-xbox-x-s-24c547a0.jpg",
             "img2" : "https://d3isma7snj3lcx.cloudfront.net/images/gallery/35/350975/metal-hellsinger-pc-ps5-xbox-x-s-24c547a0.jpg",
-            "part1" : "",
-            "part2" : ""
+            "part1" : "The first time you boot the game, you’ll get a message to test your audio and visual calibration. You shouldn’t skip it as this will affect the game’s core mechanic and is essential for your gameplay.",
+            "part2" : "If you use wireless controllers and/or headphones, you can have input lag (the seconds/milliseconds between pressing a button and seeing the effect on screen). This will hurt your experience, making the game unplayable. The calibration option will avoid this issue, and it will also let you practice how you shoot on beat with a few tests."
         },
         {
-            "name" : "",
+            "name" : "Paz Is One Of The Most Important Weapons",
             "img1" : "https://www.techpowerup.com/img/obkCbsCWSUGZ1cjO.jpg",
             "img2" : "https://www.techpowerup.com/img/obkCbsCWSUGZ1cjO.jpg",
-            "part1" : "",
-            "part2" : ""
+            "part1" : "Paz is the talking skull you’ll receive during the tutorial. He shoots one projectile with little to no recoil and has an Ultimate that can freeze regular enemies for a few seconds.",
+            "part2" : "Learning how to use Paz is essential for your experience. Not because he deals too much damage (he’s actually the weaker weapon in the game), but because he’s the only piece of gear that can increase and keep your Fury gauge without shooting an enemy. The idea behind this weapon is that you equip it when you need to heal or when all the demons in the area have been eliminated and you have to walk to the next one. Select Paz and keep shooting in front of you, avoiding your Fury gauge to be depleted."
         },
         {
-            "name" : "",
+            "name" : "Target Priority Is Key",
             "img1" : "https://images.cgames.de/images/gamestar/290/gs-metal-hellsinger_6181269.jpg",
             "img2" : "https://images.cgames.de/images/gamestar/290/gs-metal-hellsinger_6181269.jpg",
-            "part1" : "",
-            "part2" : ""
+            "part1" : "Learning the songs and how to shoot on the beat is one half of mastering Metal: Hellsinger. The other one is knowing which enemy you should focus on first.",
+            "part2" : "for example, during the first stages, you’ll fight Cambions (the ones with cannons), Marionnettes (the most basic type of creature), and Behemoths (the ones with a harrow). If you have the three at the same time, you should try to kill the Behemoth first. The reason is simple: it moves and jumps much faster than the other two, it deals the most damage by far, and it will likely get in your way while you focus on other enemies."
         },
         {
-            "name" : "",
+            "name" : "Stock Your Yellow Bars",
             "img1" : "https://venturebeat.com/wp-content/uploads/2020/06/metal-hellsinger.png?fit=2003%2C1072&strip=all",
             "img2" : "https://venturebeat.com/wp-content/uploads/2020/06/metal-hellsinger.png?fit=2003%2C1072&strip=all",
-            "part1" : "",
-            "part2" : ""
+            "part1" : "Each weapon you unlock has an Ultimate. This is a special move that will normally destroy anything you have in front of you — or at least freeze it, in the case of Paz. Your shotgun, for example, shoots a powerful blast that goes through any flesh on its way.",
+            "part2" : "What you should learn about this is that every weapon equipped will have its own yellow bar (the one on the right of your health gauge). They will charge individually as you deal damage with that weapon. This means that you can stock a few Ultimates with your different guns and then unleash them consecutively when you need them the most — pretty useful against bosses."
         },
         {
-            "name" : "",
+            "name" : "Character's Mobility",
             "img1" : "https://gamingbolt.com/wp-content/uploads/2020/11/metal-hellsinger.jpg",
             "img2" : "https://gamingbolt.com/wp-content/uploads/2020/11/metal-hellsinger.jpg",
-            "part1" : "",
-            "part2" : ""
+            "part1" : "Metal: Hellsinger might not have as many weapons as other titles in the genre, but your character has more than decent mobility options. This is worth reminding because you might focus too much on your weapons and forget this.",
+            "part2" : "You can double jump at all times, perform triple dashes (you need to press the button at the correct time), and mix these two options. You can even perform a unique move that consists of dashing and jumping at the correct timing, which creates some momentum. Mess with your enemies. It will take some time, and it will always depend on the arena you’re in, but with a bit of practice, you’ll realize that you can fly away from the enemies pretty fast, leaving them hitting the air."
         },
         {
-            "name" : "",
+            "name" : "General Tip For Torments",
             "img1" : "https://cdn.arstechnica.net/wp-content/uploads/2022/05/vlcsnap-2022-05-25-14h10m46s327.png",
             "img2" : "https://cdn.arstechnica.net/wp-content/uploads/2022/05/vlcsnap-2022-05-25-14h10m46s327.png",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "part1" : "Torments are challenges that you’ll unlock after finishing each hell (except the tutorial one and the last level). They task you with killing a certain amount of demons under special conditions and before the time runs out.",
+            "part2" : "For example, one type of Torment will change your weapon every time you kill a demon, and another one will only count the kills you make by performing Slaughters. Some general tips for all of these are that you always think about the enemies you have on screen before making a kill. For instance, if your weapon will change after a kill and you have an upgraded Behemoth and a Marionette, don’t kill the Marionette with the crossbow because the sword is next and you’ll have a much harder time with the Behemoth. Always keeping an eye on your time left is also a good piece of advice. Leaving Marionettes alive and focusing on the other enemies first could be a good call, so you always have something that you can eliminate fast and avoid running out of time."
         }
       ]
 }
