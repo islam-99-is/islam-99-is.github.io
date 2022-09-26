@@ -24,37 +24,37 @@
     
     "menu" : [
         {
-            "active" : "true",
+            "active" : "false",
             "name" : "Guide Tips",
             "ico" : "",
             "bg" : "#FB923C"
         },
         {
-            "active" : "true",
+            "active" : "false",
             "name" : "puzzle",
             "ico" : "https://img.icons8.com/ios/130/ffffff/puzzle.png",
             "bg" : "#FBBF24"
         },
         {
-            "active" : "true",
+            "active" : "false",
             "name" : "spinner",
             "ico" : "https://img.icons8.com/ios/130/ffffff/rgb-circle-1.png",
             "bg" : "#A3E635"
         },
         {
-            "active" : "true",
+            "active" : "false",
             "name" : "scratch",
             "ico" : "https://img.icons8.com/ios/130/ffffff/erase-image.png",
             "bg" : "#38BDF8"
         },
         {
-            "active" : "true",
+            "active" : "false",
             "name" : "questions",
             "ico" : "https://img.icons8.com/ios/130/ffffff/how-many-quest--v2.png",
             "bg" : "#2DD4BF"
         },
         {
-            "active" : "true",
+            "active" : "false",
             "name" : "quiz",
             "ico" : "https://img.icons8.com/ios/130/ffffff/what.png",
             "bg" : "#4ADE80"
@@ -83,43 +83,43 @@
     "wallpapers" : [
         {
             "name" : "",
-            "img" : ""
+            "img" : "https://wallpapercave.com/dwp1x/wp10472051.jpg"
         },
         {
             "name" : "",
-            "img" : ""
+            "img" : "https://wallpapercave.com/dwp1x/wp8545998.jpg"
         },
         {
             "name" : "",
-            "img" : ""
+            "img" : "https://wallpapercave.com/dwp1x/wp10472069.jpg"
         },
         {
             "name" : "",
-            "img" : ""
+            "img" : "https://wallpapercave.com/dwp1x/wp10472070.jpg"
         },
         {
             "name" : "",
-            "img" : ""
+            "img" : "https://wallpapercave.com/dwp1x/wp10472076.jpg"
         },
         {
             "name" : "",
-            "img" : ""
+            "img" : "https://wallpapercave.com/dwp1x/wp10472081.jpg"
         },
         {
             "name" : "",
-            "img" : ""
+            "img" : "https://wallpapercave.com/dwp1x/wp2422332.jpg"
         },
         {
             "name" : "",
-            "img" : ""
+            "img" : "https://wallpapercave.com/dwp1x/wp10472094.jpg"
         },
         {
             "name" : "",
-            "img" : ""
+            "img" : "https://wallpapercave.com/dwp1x/wp10472097.jpg"
         },
         {
             "name" : "",
-            "img" : ""
+            "img" : "https://wallpapercave.com/dwp1x/wp10472098.jpg"
         }
     ],
     
