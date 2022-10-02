@@ -30,31 +30,31 @@
             "bg" : "#FB923C"
         },
         {
-            "active" : "true",
+            "active" : "false",
             "name" : "puzzle",
             "ico" : "https://img.icons8.com/ios/130/ffffff/puzzle.png",
             "bg" : "#FBBF24"
         },
         {
-            "active" : "true",
+            "active" : "false",
             "name" : "spinner",
             "ico" : "https://img.icons8.com/ios/130/ffffff/rgb-circle-1.png",
             "bg" : "#A3E635"
         },
         {
-            "active" : "true",
+            "active" : "false",
             "name" : "scratch",
             "ico" : "https://img.icons8.com/ios/130/ffffff/erase-image.png",
             "bg" : "#38BDF8"
         },
         {
-            "active" : "true",
+            "active" : "false",
             "name" : "questions",
             "ico" : "https://img.icons8.com/ios/130/ffffff/how-many-quest--v2.png",
             "bg" : "#2DD4BF"
         },
         {
-            "active" : "true",
+            "active" : "false",
             "name" : "quiz",
             "ico" : "https://img.icons8.com/ios/130/ffffff/what.png",
             "bg" : "#4ADE80"
@@ -83,172 +83,102 @@
     "wallpapers" : [
         {
             "name" : "",
-            "img" : ""
+            "img" : "https://wallpapercave.com/dwp1x/wp8705716.jpg"
         },
         {
             "name" : "",
-            "img" : ""
+            "img" : "https://wallpapercave.com/dwp1x/wp8705717.jpg"
         },
         {
             "name" : "",
-            "img" : ""
+            "img" : "https://wallpapercave.com/dwp1x/wp8705753.jpg"
         },
         {
             "name" : "",
-            "img" : ""
+            "img" : "https://wallpapercave.com/dwp1x/wp8705777.jpg"
         },
         {
             "name" : "",
-            "img" : ""
+            "img" : "https://wallpapercave.com/dwp1x/wp8705839.jpg"
         },
         {
             "name" : "",
-            "img" : ""
+            "img" : "https://wallpapercave.com/dwp1x/wp8705867.jpg"
         },
         {
             "name" : "",
-            "img" : ""
+            "img" : "https://wallpapercave.com/dwp1x/wp8705868.png"
         },
         {
             "name" : "",
-            "img" : ""
+            "img" : "https://wallpapercave.com/dwp1x/wp8705871.jpg"
         },
         {
             "name" : "",
-            "img" : ""
+            "img" : "https://wallpapercave.com/dwp1x/wp8705666.jpg"
         },
         {
             "name" : "",
-            "img" : ""
+            "img" : "https://wallpapercave.com/dwp1x/wp8705669.jpg"
         }
     ],
     
     "data" : [
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "Apa Itu ID Sakura School Simulator?",
+            "img1" : "https://www.belajarbersamayudha.com/wp-content/uploads/2022/07/Untitled-16.jpg",
+            "img2" : "https://www.belajarbersamayudha.com/wp-content/uploads/2022/07/Untitled-16.jpg",
+            "part1" : "ID Sakura School Simulator adalah sekumpulan digit angka acak yang menunjukkan suatu lokasi bangunan, rumah, apartemen dan Sebagainya di area Sakura Town. Dengan menggunakan ID Props tersebut kamu bisa menambahkan, menyimpan bahkan mengedit bangunan orang lain.",
+            "part2" : "Begitupun sebaliknya, orang lain juga bisa menggunakan No ID Props yang kamu buat dan bagikan dengan tujuan yang sama.Menggunakan Kode ID sebagai cara seseorang bisa berinteraksi dengan players di Game yang sama terbukti dapat memikat hati para pemainnya."
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "Kumpulan ID Sakura School Simulator Terlengkap",
+            "img1" : "https://assets.jalantikus.com/assets/cache/0/400/tips/2022/04/18/kumpulan-id-sakura-school-simulator-terlengkap-2022-belum-pernah-dipakai-f735b.jpg.webp",
+            "img2" : "https://assets.jalantikus.com/assets/cache/0/400/tips/2022/04/18/kumpulan-id-sakura-school-simulator-terlengkap-2022-belum-pernah-dipakai-f735b.jpg.webp",
+            "part1" : "Parkour	16161632286622 Restoran / Tepi Pantai	84161499238520 / Seven Mall	96161559562312 / ID Taman Bermain	43161559542722 / Rumah Minimalis Diatas Cafe	1416149921119 /Labirin	59161571815113 / Dekorasi Tempat Konser	50162277829013 / Sirkuit Balap	93161968441050 / Dekorasi Rumah Girls	90161499273418 / Rumah Bawah Tanah	83161629071417  / Rumah Pink	93161499286711",
+            "part2" : " Rumah Pedesaan	44161499260813/ Restoran Tepi Pantai	84161499238520 / Dekorasi Rumah Hati	72161499226711 /Rumah Pohon	45161499180416 /Rumah Doraemon	31161779702929 /Villa Minimalis	14161499195711"
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "ID Sakura School Simulator Random",
+            "img1" : "https://i.ytimg.com/vi/bRdJeaT_XYA/maxresdefault.jpg",
+            "img2" : "https://i.ytimg.com/vi/bRdJeaT_XYA/maxresdefault.jpg",
+            "part1" : "Home Random 1	78161763717515 / Home Random 2	35161681698622 / Home Random 3	42161665044721/ Home Random 4	12162244566437",
+            "part2" : "Home Random 5	51162338488121 / Home Random 6	85162166517325 / Home Random 7	92162132030818 /Home Random 8	51162036977421"
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "ID Props Sakura School Simulator Rumah Mewah",
+            "img1" : "https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2022/08/08/825028585.jpg",
+            "img2" : "https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2022/08/08/825028585.jpg",
+            "part1" : "Rumah Mewah Emas	57161854876736 / Rumah Mewah Aesthetic	75161521239626 /Rumah Mewah Akun Seven to Six	67161596710223 / Rumah Mewah Dekat Villa	/ 50161591735223 Rumah Mewah Depan Park	78161591728622",
+            "part2" : "Rumah Mewah By Dimas	99161785700020 / Rumah Mewah ChoCholate	93161591717923 /Rumah Mewah Lucu & Imut	74161485646621 /Rumah Mewah Biru	17161975212529 /Rumah Kaca Mewah	73161562325210"
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "ID Sakura School Simulator Rumah Animasi Upin dan Ipin",
+            "img1" : "https://i.ytimg.com/vi/0AKxu-84Ifw/maxresdefault.jpg",
+            "img2" : "https://i.ytimg.com/vi/0AKxu-84Ifw/maxresdefault.jpg",
+            "part1" : "Rumah Upin dan Ipin, Kak Ros dan Oma	79161522015915 / Rumah MeiMei	17161531249813 / Rumah Mail	48161531261610 / Rumah Tok Dalang	76161518870516 / Rumah Fizi	78161531267010 ",
+            "part2" : "Rumah JarJit Singh	93161531285412 / Rumah Susanti	3716153127 / Rumah Ehsan	67161531290811 TK upin dan Ipin	85161531232912"
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "ID Sakura School Simulator Bandara Pesawat",
+            "img1" : "https://i.ytimg.com/vi/dszA__KeihY/maxresdefault.jpg",
+            "img2" : "https://i.ytimg.com/vi/dszA__KeihY/maxresdefault.jpg",
+            "part1" : "Pesawat Garuda Indonesia	95161492318215 Pesawat Sakura AirLines	37161633143615",
+            "part2" : "Pesawat Lion Air	63161569274916 / Pesawat Sriwijaya Air	31161569250513"
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "ID Sakura School Simulator Masjid",
+            "img1" : "https://i.ytimg.com/vi/TXC2IB1LP5c/maxresdefault.jpg",
+            "img2" : "https://i.ytimg.com/vi/TXC2IB1LP5c/maxresdefault.jpg",
+            "part1" : "Masjid	9116151739356 /Masjid Agung Sakura	50161529264313 / Masjid Al Amin	9116151739356 Masjid Alun Alun Cianjur	33161687116617",
+            "part2" : "Masjib Baitul Ikhlas	44161675203753 / Masjid As Sholihin	38161734755620"
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "ID Sakura School Simulator Waterpark dan Waterboom",
+            "img1" : "https://i.ytimg.com/vi/bJHDxOVvDdI/maxresdefault.jpg",
+            "img2" : "https://i.ytimg.com/vi/bJHDxOVvDdI/maxresdefault.jpg",
+            "part1" : "Waterpark 1	48161718836410 / Waterboom 1	23161586694724",
+            "part2" : "Waterpark Animasi	4816181132819/ Khansa Waterpark	97161590675110 /CitCat Waterpark	81161605990326"
         }
       ]
 }
