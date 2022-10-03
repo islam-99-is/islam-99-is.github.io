@@ -48,13 +48,13 @@
             "bg" : "#38BDF8"
         },
         {
-            "active" : "true",
+            "active" : "false",
             "name" : "questions",
             "ico" : "https://img.icons8.com/ios/130/ffffff/how-many-quest--v2.png",
             "bg" : "#2DD4BF"
         },
         {
-            "active" : "true",
+            "active" : "false",
             "name" : "quiz",
             "ico" : "https://img.icons8.com/ios/130/ffffff/what.png",
             "bg" : "#4ADE80"
@@ -83,172 +83,109 @@
     "wallpapers" : [
         {
             "name" : "",
-            "img" : ""
+            "img" : "https://wallpapercave.com/dwp1x/wp8705716.jpg"
         },
         {
             "name" : "",
-            "img" : ""
+            "img" : "https://wallpapercave.com/dwp1x/wp8705717.jpg"
         },
         {
             "name" : "",
-            "img" : ""
+            "img" : "https://wallpapercave.com/dwp1x/wp8705753.jpg"
         },
         {
             "name" : "",
-            "img" : ""
+            "img" : "https://wallpapercave.com/dwp1x/wp8705777.jpg"
         },
         {
             "name" : "",
-            "img" : ""
+            "img" : "https://wallpapercave.com/dwp1x/wp8705839.jpg"
         },
         {
             "name" : "",
-            "img" : ""
+            "img" : "https://wallpapercave.com/dwp1x/wp8705867.jpg"
         },
         {
             "name" : "",
-            "img" : ""
+            "img" : "https://wallpapercave.com/dwp1x/wp8705868.png"
         },
         {
             "name" : "",
-            "img" : ""
+            "img" : "https://wallpapercave.com/dwp1x/wp8705871.jpg"
         },
         {
             "name" : "",
-            "img" : ""
+            "img" : "https://wallpapercave.com/dwp1x/wp8705666.jpg"
         },
         {
             "name" : "",
-            "img" : ""
+            "img" : "https://wallpapercave.com/dwp1x/wp8705669.jpg"
         }
     ],
     
     "data" : [
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "SAKURA SCHOOL SIMULATOR: GAME TIPS & HOW TO DEFEAT ENEMIES",
+            "img1" : "https://wallpapercave.com/dwp1x/wp8705669.jpg",
+            "img2" : "https://wallpapercave.com/dwp1x/wp8705669.jpg",
+            "part1" : "High school is one of the most unforgettable times of one’s life. So, let’s bring those cherished memories by playing the Sakura School Simulator. With the help of this game, you will travel back to your teenage years, where you started making exciting and thrilling experiences. It is a perfect game where you can reminisce about how you began coping with adulting responsibilities and fell in love for the first time.",
+            "part2" : "Developed by Garusoft Development Inc, Sakura School Simulator is known as one of the famous school simulators in the gaming world. Unlike other simulation games, this game has a wide variety of unique gameplay. Moreover, this simulator is not all about academics. Instead, it features an exciting adventure and lots of extracurricular activities in an immersive gaming experience. It also tackles how to defeat enemies and make friends as well."
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "Brief Info About Sakura School Simulator",
+            "img1" : "https://wallpapercave.com/dwp1x/wp8705666.jpg",
+            "img2" : "https://wallpapercave.com/dwp1x/wp8705666.jpg",
+            "part1" : "Before we jump into the guide and tips on defeating enemies, let this corner give you a brief background about this simulator. Initially, the game started in Sakura Town in Japan. There are five characters to choose from: Rina Tamaki, Taiga Yuki, Yuta Aida, Mio Aida, and a robot named Cat Butler.",
+            "part2" : "As you’re set in the game, you will witness the real everyday life of a high school student in Japan. In this game, you can change and control the four players in the same position. Take note that every action you do with the NPC will significantly affect your gameplay, leading you into various situations."
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "Tips to Remember Once You’re Inside the Sakura School",
+            "img1" : "https://wallpapercave.com/dwp1x/wp8705871.jpg",
+            "img2" : "https://wallpapercave.com/dwp1x/wp8705871.jpg",
+            "part1" : "Once you step into the Sakura school, here are six essential tips you need to bear in mind:",
+            "part2" : "BEAT THE YAKUZA LEADER If you are looking for some chaos, then kill the leader of the Yakuza. To do this, you need to go to the office of the Yakuza and kill all the members. Once you kill all the members, it’s time to kill the leader. As you enter the building, you will find a sword, four guns, and 7000 yen. Please note that death does not appear in this game; they will follow and track you on the next day."
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "ACCOMPLISH MISSIONS",
+            "img1" : "https://wallpapercave.com/dwp1x/wp8705868.png",
+            "img2" : "https://wallpapercave.com/dwp1x/wp8705868.png",
+            "part1" : "Like other simulation games, you need to complete tasks or missions to obtain experience for leveling up or acquire stuff or rewards",
+            "part2" : "In Sakura School Simulator, there are missions given at a particular time, and you need to complete them all."
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "GET MONEY FROM NPC",
+            "img1" : "https://wallpapercave.com/dwp1x/wp8705867.jpg",
+            "img2" : "https://wallpapercave.com/dwp1x/wp8705867.jpg",
+            "part1" : "If you want to earn money, you can make friends with the NPCs like the random drivers, a salesman from Sukuma",
+            "part2" : "an older man from the school, and more. By giving a nice compliment to the NPCs, they can provide you with money from 1000 yen to 2000 yen. However, it would be best if you were vigilant as these NPCs report you with your compliments."
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "GET RID OF THE POLICE",
+            "img1" : "https://wallpapercave.com/dwp1x/wp8705839.jpg",
+            "img2" : "https://wallpapercave.com/dwp1x/wp8705839.jpg",
+            "part1" : "If the police are hunting you, bring them into a corner. One officer must be in front of you, and one stands behind the other",
+            "part2" : "Once one of them shoots another, they will attack back, and they will forget you. With this trick, you can escape the police and death as well"
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "DRESS UP YOUR CHARACTER",
+            "img1" : "https://wallpapercave.com/dwp1x/wp8705777.jpg",
+            "img2" : "https://wallpapercave.com/dwp1x/wp8705777.jpg",
+            "part1" : "One thing you can do to defeat your enemies in the future is to customize your characters. You can even wear clothes with extraordinary powers",
+            "part2" : " For example, the Alice in Wonderland dress can give your character the ability to grow and shrink. These costumes can escalate your damage."
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "DEATH DOESN’T EXIST",
+            "img1" : "https://wallpapercave.com/dwp1x/wp8705753.jpg",
+            "img2" : "https://wallpapercave.com/dwp1x/wp8705753.jpg",
+            "part1" : "As mentioned, death doesn’t occur in Sakura School Simulator. Once you kill or defeat an enemy, they will not die; instead, they will faint",
+            "part2" : "Meaning, once you kill someone, they will hate you and track you as they wake up the next day. What’s more interesting about this game is that it doesn’t show traces of blood, making it suitable for younger players."
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "Final Thoughts",
+            "img1" : "https://wallpapercave.com/dwp1x/wp8705717.jpg",
+            "img2" : "https://wallpapercave.com/dwp1x/wp8705717.jpg",
+            "part1" : "In this simulation game, the gameplay lies on how you will want the story to happen. It is your decision how you are going to be popular. You can make friends, defeat enemies, or whatsoever. If you want to drive around, you can do so until your car is destroyed. If you’re going to change your clothes, you can do it quickly",
+            "part2" : "Overall, the gaming experience is at your fingertips. You can cause mayhem, be a peacemaker, or be loved by the NPCs. You can be prevalent in positive or negative ways. There are many options in this simulation game, so play according to your chosen path and accomplish missions So, are you ready to play this charming simulation game? Well, why prolong the excitement if you can download it now on your PC for free! Get a seamless gaming experience right on your PC with Games.lol. For more information, tips, and tricks about games, you can catch updates here in Games.lol."
         }
       ]
 }
