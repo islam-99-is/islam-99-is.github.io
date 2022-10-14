@@ -30,13 +30,13 @@
             "bg" : "#FB923C"
         },
         {
-            "active" : "true",
+            "active" : "false",
             "name" : "puzzle",
             "ico" : "https://img.icons8.com/ios/130/ffffff/puzzle.png",
             "bg" : "#FBBF24"
         },
         {
-            "active" : "true",
+            "active" : "false",
             "name" : "spinner",
             "ico" : "https://img.icons8.com/ios/130/ffffff/rgb-circle-1.png",
             "bg" : "#A3E635"
@@ -48,19 +48,19 @@
             "bg" : "#38BDF8"
         },
         {
-            "active" : "true",
+            "active" : "false",
             "name" : "questions",
             "ico" : "https://img.icons8.com/ios/130/ffffff/how-many-quest--v2.png",
             "bg" : "#2DD4BF"
         },
         {
-            "active" : "true",
+            "active" : "false",
             "name" : "quiz",
             "ico" : "https://img.icons8.com/ios/130/ffffff/what.png",
             "bg" : "#4ADE80"
         },
         {
-            "active" : "true",
+            "active" : "false",
             "name" : "wallpapers",
             "ico" : "https://img.icons8.com/ios/130/ffffff/tails.png",
             "bg" : "#2196F3"
