@@ -125,53 +125,53 @@
     
     "data" : [
         {
-            "name" : "",
+            "name" : "PikaShow Help",
             "img1" : "",
             "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "part1" : "Having trouble installing or using PikaShow APK on your Android device and TV",
+            "part2" : "Android version should be 4.0 or above. The instructions to use the PikaShow app are below"
         },
         {
-            "name" : "",
+            "name" : "For Android Mobile/TV:",
             "img1" : "",
             "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "part1" : "1 Download PikaShow APK latest version from our website.  2 Navigate to Settings on your device, and enable installing from Unknown Sources under the Security.",
+            "part2" : "3 Locate the downloaded PikaShow APK in the file manager and open it to start the installation process. 4 Once the installation is done, open the PikaShow and enjoy!"
         },
         {
-            "name" : "",
+            "name" : "For FireStick",
             "img1" : "",
             "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "part1" : "If you have Amazon FireStick, follow these instructions to install the app.",
+            "part2" : "1 Open the FireStick Settings on your Android TV. / 2 Go to the My Fire TV and select Developer Options from the list. 3 Turn On ADB Debugging and Apps from Unknown Sources 4 Now go back to the home screen, open Amazon Apps Store, and download the app Downloader"
         },
         {
-            "name" : "",
+            "name" : "For FireStick 2",
             "img1" : "",
             "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "part1" : "5 Once the installation is completed, open the Downloader app and allow permission to access files.",
+            "part2" : "6 Select the URL section and go to PikaShows.com to download the PikaShow APK.  7 Install the PikaShow APK and enjoy!"
         },
         {
-            "name" : "",
+            "name" : "How to Download Videos/Movies in PikaShow?",
             "img1" : "",
             "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "part1" : " 1 PikaShow App comes with the video download option. Follow these instructions to download any movie/tv show.  2 Download and install the latest version of the PikaShow App from our website.",
+            "part2" : "3 Navigate to PlayStore and download the app called 1DM Downloader on your device. 4 Once you installed 1DM Downloader, open PikaShow and select any movie/tv show you want to download. 5 It will prompt with two options whether to Stream or Download. Select the download option and start downloading the video via 1DM Downloader."
         },
         {
-            "name" : "",
+            "name" : "What is Pikashow App",
             "img1" : "",
             "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "part1" : "Pikashow app is a third-party TV and Multimedia streaming app where one can stream Or download any movies, web shows, anime and much more in a few easy steps. In the app, ",
+            "part2" : "one can get a wide range of content from every corner of the globe. The masses like the app due to its features, as they are easy to use. Also, many streamers say that the Pikashow App provides them high-quality films without harming anything ontheir smartphones. Even users praise that all new movies are added to the app faster than other apps"
         },
         {
-            "name" : "",
+            "name" : "Why Use Pikashow App",
             "img1" : "",
             "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "part1" : "There are many advantages of using the Pikashow app, and we will share a few of them.",
+            "part2" : " Security  When installing an app that lets you download pirated content then, one would question whether it is safe to use or not. The answer to the question is that the app is secure, and the app will not intrude on your smartphone's data."
         },
         {
             "name" : "",
