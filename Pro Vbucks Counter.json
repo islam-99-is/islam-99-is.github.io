@@ -83,172 +83,116 @@
     "wallpapers" : [
         {
             "name" : "",
-            "img" : ""
+            "img" : "https://wallpapercave.com/dwp1x/wp5220841.png"
         },
         {
             "name" : "",
-            "img" : ""
+            "img" : "https://wallpapercave.com/dwp1x/wp3949350.jpg"
         },
         {
             "name" : "",
-            "img" : ""
+            "img" : "https://wallpapercave.com/dwp1x/wp3839935.jpg"
         },
         {
             "name" : "",
-            "img" : ""
+            "img" : "https://wallpapercave.com/dwp1x/wp3726848.jpg"
         },
         {
             "name" : "",
-            "img" : ""
+            "img" : "https://wallpapercave.com/dwp1x/wp4533411.jpg"
         },
         {
             "name" : "",
-            "img" : ""
+            "img" : "https://wallpapercave.com/dwp1x/wp2684910.png"
         },
         {
             "name" : "",
-            "img" : ""
+            "img" : "https://wallpapercave.com/dwp1x/wp5233865.jpg"
         },
         {
             "name" : "",
-            "img" : ""
+            "img" : "https://wallpapercave.com/dwp1x/wp4770208.jpg"
         },
         {
             "name" : "",
-            "img" : ""
+            "img" : "https://wallpapercave.com/dwp1x/wp5233868.jpg"
         },
         {
             "name" : "",
-            "img" : ""
+            "img" : "https://wallpapercave.com/dwp1x/wp4549788.jpg"
         }
     ],
     
     "data" : [
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "HOW TO GET FREE V-BUCKS IN FORTNITE",
+            "img1" : "https://i.ytimg.com/vi/hXYHlJpBFUk/maxresdefault.jpg",
+            "img2" : "https://i.ytimg.com/vi/hXYHlJpBFUk/maxresdefault.jpg",
+            "part1" : "How to get free V-Bucks in Fortnite's new season? Welcome to Free the V-Bucks, all-in-one guide about all the ways of earning V-Bucks easily and legally in Fortnite",
+            "part2" : "Unfortunately, there is currently very limited ways to earn V-Bucks for free by playing the Battle Royale, but worry not, every single way to get free V-Bucks is listed on this website. Playing Save the World as a founder awards a lot of V-Bucks which you can use in either game mode. Save the World will not be free-to-play and the founder packs are currently unavailable."
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "ALL WAYS TO GET FREE V-BUCKS IN FORTNITE",
+            "img1" : "https://i.ytimg.com/vi/x8_fUCKS-gI/maxresdefault.jpg",
+            "img2" : "https://i.ytimg.com/vi/x8_fUCKS-gI/maxresdefault.jpg",
+            "part1" : "Start earning V-Bucks easily. You can earn V-Bucks in Save the World (also known as StW/PvE) to buy cosmetics, send gifts or get the Battle Pass for Battle Royale",
+            "part2" : "Daily Quests provide around 50 V-Bucks but there are many other sources too. Ways to earn V-Bucks by playing Fortnite are listed below. Remember that there are absolutely no cheats, hacks or other shortcuts to getting V-Bucks. Unfortunately, Battle Royale players in Fortnite Chapter 3 – Season 4 can earn only 300 V-Bucks, buying the Battle Pass for 950 V-Bucks can increase the total from Battle Royale to 1500 V-Bucks."
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "DAILY QUESTS",
+            "img1" : "https://static.wikia.nocookie.net/fortnite/images/5/56/Quests_%28Chapter_3%29_-_User_Interface_-_Fortnite.png/revision/latest?cb=20211230144333",
+            "img2" : "https://static.wikia.nocookie.net/fortnite/images/5/56/Quests_%28Chapter_3%29_-_User_Interface_-_Fortnite.png/revision/latest?cb=20211230144333,
+            "part1" : "Daily Quests provides you around 50 V-Bucks every day",
+            "part2" : " You will automatically acquire Daily Quest every day."
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "LOGIN REWARDS",
+            "img1" : "https://mentalmars.b-cdn.net/wp-content/uploads/2020/06/Fortnite-Daily-Rewards.jpg",
+            "img2" : "https://mentalmars.b-cdn.net/wp-content/uploads/2020/06/Fortnite-Daily-Rewards.jpg",
+            "part1" : "Daily Login Rewards include V-Bucks",
+            "part2" : "on certain days and the amounts are huge. See all known days for V-Bucks."
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "TIMED MISSIONS",
+            "img1" : "https://freethevbucks.com/wp-content/uploads/legendary-reward-mission-alert.png",
+            "img2" : "https://freethevbucks.com/wp-content/uploads/legendary-reward-mission-alert.png",
+            "part1" : "You may find Timed Missions with 25-40 V-Buck rewards",
+            "part2" : "Track current Timed Missions in Fortnite here"
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "MAIN QUESTLINE",
+            "img1" : "https://cdn.wccftech.com/wp-content/uploads/2022/09/Fortnite-week-1-quests.jpg",
+            "img2" : "https://cdn.wccftech.com/wp-content/uploads/2022/09/Fortnite-week-1-quests.jpg",
+            "part1" : "Main questline features Storm Shield Defense",
+            "part2" : "missions around every tenth quest with 100 V-Bucks reward."
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "SIDE QUESTS",
+            "img1" : "https://preview.redd.it/ciblxp2ke7n41.png?width=640&crop=smart&auto=webp&s=a1a6e7c2c9ab6ef14c0dbacb801e1c3f15ef18d3",
+            "img2" : "https://preview.redd.it/ciblxp2ke7n41.png?width=640&crop=smart&auto=webp&s=a1a6e7c2c9ab6ef14c0dbacb801e1c3f15ef18d3",
+            "part1" : "Side quests and challenges features finding Mimic Chests and defending Storm Shields",
+            "part2" : "They are repetitive for a few times."
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "EVENTS",
+            "img1" : "https://assets-prd.ignimgs.com/2021/08/05/fortnite-every-major-event-timeline-1628191270559.jpg",
+            "img2" : "https://assets-prd.ignimgs.com/2021/08/05/fortnite-every-major-event-timeline-1628191270559.jpg",
+            "part1" : "Event quests sometimes reward you with large amount of",
+            "part2" : "V-Bucks. See all current and past events in Fortnite."
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "BEWARE OF SCAM “FREE VBUCKS” HACKS",
+            "img1" : "https://gemwire.gg/wp-content/uploads/2022/09/how-to-get-free-v-bucks-in-fortnite.webp",
+            "img2" : "https://gemwire.gg/wp-content/uploads/2022/09/how-to-get-free-v-bucks-in-fortnite.webp",
+            "part1" : "All the ways of getting free V-Bucks in Fortnite are listed on this website. Beware of the scam V-Bucks hacks, cheats and generators found on the web. Those sites ask you to put in your username, maybe answer some survey questions and you’ll get as many free V-Bucks as you’d like. Those sites aren’t real and will steal your account credentials or trick you to click on possibly malicious ads (disguised as “human verification”)! These won’t and will never work in any circumtances.",
+            "part2" : "There are websites and social media groups/posts that are claiming to offer “free” V-Bucks or other in-game items. These offers may be phishing attempts or may otherwise be dangerous. We strongly encourage you to not visit these websites or social media groups/posts and to not click links claiming “free” V-Bucks or in-game items."
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "USING YOUR EARNED V-BUCKS IN FORTNITE",
+            "img1" : "https://theasanforum.org/wp-content/uploads/2022/05/resdefault.jpg",
+            "img2" : "https://theasanforum.org/wp-content/uploads/2022/05/resdefault.jpg",
+            "part1" : "in Battle Royale you can use V-Bucks to purchase Seasonal Battle Passes and cosmetic items. Cosmetic items include costumes, gliders and pickaxes. Furthermore, new seasons have featured new type of cosmetics including Back Blings, Skydiving FX Trails, Loading Screens, Music, Wraps and Pets",
+            "part2" : "The cost of gliders, pickaxes, costumes and emotes range from 200 to 2000 V-Bucks. Seasonal Battle Passes cost 950 V-Bucks. In addition to account banners, V-Bucks is the only resource/item currently shared between the game modes. Save the World founders will earn V-Bucks in addition to the X-Ray Tickets. X-Ray Tickets can be used to buy Loot Llamas to progress in the PvE. Llamas award you with heroes, defenders, survivors and schematics to craft weapons and traps."
         }
       ]
 }
