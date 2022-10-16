@@ -181,74 +181,39 @@
             "part2" : "This philosophy extends to iMovie too, so you can start creating your movie masterpiece on an iPhone or iPad and then seamlessly export it to iMovie on OS X to finish the job: from within the iMovie mobile app, tap on the Share button and then choose the AirDrop or iCloud Drive option. You can then use the desktop application to open it and continue editing."
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "9. Slow down (or speed up) scenes",
+            "img1" : "https://i.guim.co.uk/img/media/1f33a06631193d46ee72b63fb32da2192e589081/73_471_748_204/master/748.jpg?width=620&quality=85&dpr=1&s=none",
+            "img2" : "https://i.guim.co.uk/img/media/1f33a06631193d46ee72b63fb32da2192e589081/73_471_748_204/master/748.jpg?width=620&quality=85&dpr=1&s=none",
+            "part1" : "Another handy feature in iMovie for iOS is the option to slow down or speed up particular clips. With one selected in the timeline",
+            "part2" : " tap the speed adjustment icon (which looks like a car speedometer) and then drag the slider accordingly — the app lets you go from 1/8x speed all the way up to 2x speed, and because the effect can be adjusted from clip to clip you can create some impressive results. To apply the effect to one part of a clip, split it into segments first (tap the scissors icon to see the Split option)."
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "WeVideo",
+            "img1" : "https://i.guim.co.uk/img/media/d5cc0bc5aef503ad9a70b1d657bf2f0d6843b465/0_0_1200_390/master/1200.jpg?width=620&quality=85&dpr=1&s=none",
+            "img2" : "https://i.guim.co.uk/img/media/d5cc0bc5aef503ad9a70b1d657bf2f0d6843b465/0_0_1200_390/master/1200.jpg?width=620&quality=85&dpr=1&s=none",
+            "part1" : "WeVideo’s impressive suite of apps cover the Web, Android and iOS, and come with all the key features you’d expect to find in a video editing tool — including the ability to add music to your clips",
+            "part2" : "The right soundtrack can really turn your road trip movie from good to great, and the WeVideo Android app lets you drop in a track from its existing library or choose one of your own. With one of your clips selected, tap on the musical note icon and then select a track from those shown (or switch to the My Music tab)."
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "11. Insert title cards",
+            "img1" : "https://i.guim.co.uk/img/media/f52aaf030ca0a7fe03f11625703d5e684d3bd607/0_440_1200_235/master/1200.jpg?width=620&quality=85&dpr=1&s=none",
+            "img2" : "https://i.guim.co.uk/img/media/f52aaf030ca0a7fe03f11625703d5e684d3bd607/0_440_1200_235/master/1200.jpg?width=620&quality=85&dpr=1&s=none",
+            "part1" : "Title cards are another area where WeVideo proves its worth, and you’ll see one inserted for you at the start of every video project you create in the Android app",
+            "part2" : "Tap on the Title card to edit the text, then use the Theme button (which looks like a magic wand) to choose a style for your title cards to be applied throughout the project. The iOS version of WeVideo isn’t quite as advanced, but you can always export a basic project to the Web app where all of the editing features and file formats are available."
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "Adobe Premiere Clip",
+            "img1" : "https://i.guim.co.uk/img/media/a171e1baa623ca4882b438e7ef6136a043339871/0_390_675_305/master/675.jpg?width=620&quality=85&dpr=1&s=none",
+            "img2" : "https://i.guim.co.uk/img/media/a171e1baa623ca4882b438e7ef6136a043339871/0_390_675_305/master/675.jpg?width=620&quality=85&dpr=1&s=none",
+            "part1" : "Clip is the stripped-down, mobile version of Adobe’s heavyweight desktop video editing application, and it’s available for both Android and iOS",
+            "part2" : "One of its most useful features as far as casual filmmakers are concerned is the automatic mode that appears as an option whenever you create a new project and import some clips: choose to go automatic and the Clip app customises your footage based on a music track and speed chosen by you. It’s the perfect halfway house between sharing your raw video unedited and spending hours poring over every detail of the sequence."
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "13. Create motion from photos",
+            "img1" : "https://i.guim.co.uk/img/media/75998d1fb02512fd397f55a44ef04c7e0a372607/0_593_675_200/master/675.jpg?width=620&quality=85&dpr=1&s=none",
+            "img2" : "https://i.guim.co.uk/img/media/75998d1fb02512fd397f55a44ef04c7e0a372607/0_593_675_200/master/675.jpg?width=620&quality=85&dpr=1&s=none",
+            "part1" : "Clip includes a more advanced freeform editor too, and one of the tools available in it is Photo Motion: this enables you to add photos to your movies while keeping some kind of movement so your project doesn’t grind to a static stop",
+            "part2" : " Tap the cog icon at the top of the freeform editing screen to open the project preferences, then toggle the Photo Motion to the on position. You can’t control the zoom focus or speed, unfortunately, but it makes your project look more fluid if you’re mixing video clips and photos together in the same timeline."
         }
       ]
 }
