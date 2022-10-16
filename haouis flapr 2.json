@@ -125,53 +125,53 @@
     
     "data" : [
         {
-            "name" : "",
+            "name" : "House Flipper Game Guide",
             "img1" : "",
             "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "part1" : "Ready, steady, renovate! House Flipper game guide is a collection of tips and a walkthrough that will allow you to complete all missions without a hitch. You will learn which orders are the best, how to rebuild houses to satisfy the customers, and how to sell them with profit!",
+            "part2" : "The House Flipper Game Guide contains a comprehensive description of the game's mechanics. The guide begins with a perks overview - these are essential skills awarded for completing the set number of jobs in the given category. We've also listed types of construction works, which basically is a breakdown of all the things you can do in the game along with some helpful stats. Another pivot point of the guide is the Advice chapter, which contains some helpful info concerning saving and organizing work that's going to be especially useful for new players."
         },
         {
-            "name" : "",
+            "name" : "Walkthrough",
             "img1" : "",
             "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "part1" : "The next section is the Walkthrough, that is, the characteristics of all "feature" orders available in the game, which appear regularly in our e-mail box as tasks from customers. This section gives you tips and shows you how to complete your tasks step by step, what to look out for and what pitfalls you may encounter when carrying out a particular maintenance operation.",
+            "part2" : "The most important part of the guide is the following chapters: the Characteristics of Buyers and Types of Rooms. They contain information that can only be learned by trial and error. They discuss what our potential buyers expect and how to adapt the house to their requirements in order to sell it at the highest possible profit and how to create a room of a given type: a kitchen, office, living room or a home library."
         },
         {
-            "name" : "",
+            "name" : "Starting Tips",
             "img1" : "",
             "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "part1" : "Before starting the game you should read the Advice section. There you will find tips on how to earn money effectively from the very beginning and how to make some of the renovation and construction work easier.",
+            "part2" : "1-Don't leave paint cans on the floor if there's still some paint inside. You can sell them for additional profit. 2-After tearing down house walls, make sure that there are no residue elements from them, such as light switches etc.; they're treated as junk. 3-Always and in every home: Remove dirt, plaster the walls and install/repair all appliances that are marked in red on the mini-map. This is the foundation of the profit from the sale of the apartment. 4- You don't have to complete every story mission up to 100%. This will, however, yield some additional funds. If the job's very difficult because you don't have the needed perks, you should pass up. 5-The game features a day-night cycle - if you find it annoying, you can turn it off in the menu. 6-The game is only saved upon quitting or going to the office. It cannot be saved otherwise. 7- The game lets you create only one profile - after finishing the story and repairing all buildings, the game technically ends."
         },
         {
-            "name" : "",
+            "name" : "General information",
             "img1" : "",
             "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "part1" : "In this category, you will find information that might come in handy during the entire game, but they are especially useful during your first contact with the game.",
+            "part2" : "1-Description of skills - here you will find a description of all available Perks, what you can get by unlocking them, as well as suggestions about the order in which you should get them. 2-Types of work - general information about various construction and cleaning work that will be carried out during the renovation."
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "The jobs system",
+            "img1" : "https://guides.gamepressure.com/house-flipper/gfx/word/273133289.jpg",
+            "img2" : "https://guides.gamepressure.com/house-flipper/gfx/word/273133289.jpg",
+            "part1" : "The jobs in House Flipper are given and accepted through your mailbox. The laptop is in your office. After reading the message, click Accept to add the job to the list of current tasks. After accepting the mission, you will be taken to the right location.",
+            "part2" : "You don't have to reach 100% in order to finish the job. It is only required if you want to get the entire payment for the job. The amount of money depends on the percentage of work you've completed. In order to end the job, press escape and select "Abort Order." You can also switch to your office at any time, thus saving the game - you can get back to the job at any time too, by opening the job's email. You will return to the point where you stopped last."
         },
         {
-            "name" : "",
+            "name" : "Free mode - buying estates",
             "img1" : "",
             "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "part1" : "The free mode can be entered at any time by purchasing a house for your own money. House Flipper offers 20 houses in varying condition and different degrees of neglect. They also differ in size and the number of rooms.",
+            "part2" : "They key to success is learning your buyers, their characteristics and requirements. This will let you get more money for a flat that fits their personality perfectly. 1- General info about estates - learn the rules of the free mode and the thighs you should look out for. 2- Types of rooms - furnishings. You can tear down and erect walls freely, creating new rooms. Learn what interiors are interesting for your customers. You can change the type of the room by changing the furniture and appliances. 3- Characteristics of buyers - potential buyers offer a certain price, which depends on their preferences; your task is to meet their needs. The list allows you to learn the character traits and preferences of the buyers, and thus become more aware of how to repair and furnish the house to maximize the profit."
         },
         {
-            "name" : "",
+            "name" : "About House Flipper Game Guide",
             "img1" : "",
             "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "part1" : "Author : Patrick yxu Homa for gamepressure.com",
+            "part2" : "Translator : Jakub jbugielski Bugielski  last update : May 18, 2022 "
         },
         {
             "name" : "",
