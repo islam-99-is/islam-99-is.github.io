@@ -126,29 +126,29 @@
     "data" : [
         {
             "name" : "House Flipper Game Guide",
-            "img1" : "",
-            "img2" : "",
+            "img1" : "https://wallpapercave.com/wp/wp9490441.jpg",
+            "img2" : "https://wallpapercave.com/wp/wp9490441.jpg",
             "part1" : "Ready, steady, renovate! House Flipper game guide is a collection of tips and a walkthrough that will allow you to complete all missions without a hitch. You will learn which orders are the best, how to rebuild houses to satisfy the customers, and how to sell them with profit!",
             "part2" : "The House Flipper Game Guide contains a comprehensive description of the game's mechanics. The guide begins with a perks overview - these are essential skills awarded for completing the set number of jobs in the given category. We've also listed types of construction works, which basically is a breakdown of all the things you can do in the game along with some helpful stats. Another pivot point of the guide is the Advice chapter, which contains some helpful info concerning saving and organizing work that's going to be especially useful for new players."
         },
         {
             "name" : "Walkthrough",
-            "img1" : "",
-            "img2" : "",
+            "img1" : "https://wallpapercave.com/wp/wp9490461.png",
+            "img2" : "https://wallpapercave.com/wp/wp9490461.png",
             "part1" : "The next section is the Walkthrough, that is, the characteristics of all "feature" orders available in the game, which appear regularly in our e-mail box as tasks from customers. This section gives you tips and shows you how to complete your tasks step by step, what to look out for and what pitfalls you may encounter when carrying out a particular maintenance operation.",
             "part2" : "The most important part of the guide is the following chapters: the Characteristics of Buyers and Types of Rooms. They contain information that can only be learned by trial and error. They discuss what our potential buyers expect and how to adapt the house to their requirements in order to sell it at the highest possible profit and how to create a room of a given type: a kitchen, office, living room or a home library."
         },
         {
             "name" : "Starting Tips",
-            "img1" : "",
-            "img2" : "",
+            "img1" : "https://wallpapercave.com/wp/wp9490498.jpg",
+            "img2" : "https://wallpapercave.com/wp/wp9490498.jpg",
             "part1" : "Before starting the game you should read the Advice section. There you will find tips on how to earn money effectively from the very beginning and how to make some of the renovation and construction work easier.",
             "part2" : "1-Don't leave paint cans on the floor if there's still some paint inside. You can sell them for additional profit. 2-After tearing down house walls, make sure that there are no residue elements from them, such as light switches etc.; they're treated as junk. 3-Always and in every home: Remove dirt, plaster the walls and install/repair all appliances that are marked in red on the mini-map. This is the foundation of the profit from the sale of the apartment. 4- You don't have to complete every story mission up to 100%. This will, however, yield some additional funds. If the job's very difficult because you don't have the needed perks, you should pass up. 5-The game features a day-night cycle - if you find it annoying, you can turn it off in the menu. 6-The game is only saved upon quitting or going to the office. It cannot be saved otherwise. 7- The game lets you create only one profile - after finishing the story and repairing all buildings, the game technically ends."
         },
         {
             "name" : "General information",
-            "img1" : "",
-            "img2" : "",
+            "img1" : "https://wallpapercave.com/wp/wp9490570.jpg",
+            "img2" : "https://wallpapercave.com/wp/wp9490570.jpg",
             "part1" : "In this category, you will find information that might come in handy during the entire game, but they are especially useful during your first contact with the game.",
             "part2" : "1-Description of skills - here you will find a description of all available Perks, what you can get by unlocking them, as well as suggestions about the order in which you should get them. 2-Types of work - general information about various construction and cleaning work that will be carried out during the renovation."
         },
@@ -161,94 +161,52 @@
         },
         {
             "name" : "Free mode - buying estates",
-            "img1" : "",
-            "img2" : "",
+            "img1" : "https://wallpapercave.com/wp/wp9490585.jpg",
+            "img2" : "https://wallpapercave.com/wp/wp9490585.jpg",
             "part1" : "The free mode can be entered at any time by purchasing a house for your own money. House Flipper offers 20 houses in varying condition and different degrees of neglect. They also differ in size and the number of rooms.",
             "part2" : "They key to success is learning your buyers, their characteristics and requirements. This will let you get more money for a flat that fits their personality perfectly. 1- General info about estates - learn the rules of the free mode and the thighs you should look out for. 2- Types of rooms - furnishings. You can tear down and erect walls freely, creating new rooms. Learn what interiors are interesting for your customers. You can change the type of the room by changing the furniture and appliances. 3- Characteristics of buyers - potential buyers offer a certain price, which depends on their preferences; your task is to meet their needs. The list allows you to learn the character traits and preferences of the buyers, and thus become more aware of how to repair and furnish the house to maximize the profit."
         },
         {
             "name" : "About House Flipper Game Guide",
-            "img1" : "",
-            "img2" : "",
+            "img1" : "https://wallpapercave.com/wp/wp9490592.jpg",
+            "img2" : "https://wallpapercave.com/wp/wp9490592.jpg",
             "part1" : "Author : Patrick yxu Homa for gamepressure.com",
             "part2" : "Translator : Jakub jbugielski Bugielski  last update : May 18, 2022 "
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "Cleaning",
+            "img1" : "https://wallpapercave.com/wp/wp9490605.jpg",
+            "img2" : "https://wallpapercave.com/wp/wp9490605.jpg",
+            "part1" : "For cleaning in House Flipper you will be using a mop (2) and your own hands (to dispose of rubbish). Remember not to use the device to sell items when cleaning, as you won't be getting any additional points by doing so.",
+            "part2" : "Penetrating vision - filth, such as rubbish and stains, is shown on the radar. As you increase the level of this skill, the amount of filth you find will increase as well. Very useful during independent renovations. Fast hands - stains cleaned with the mop will disappear faster, increasing the speed of work. Long range - in this category you are able to unlock two new types of mops. They allow you to get rid of stains in a larger range, removing several at once, if they are located close to each other. This increases the speed of work and often removes dirt hidden behind objects. The last upgrade allows you to get rid of garbage faster. Caution - by improving the mop, you also upgrade the window washer, thanks to this both actions become faster."
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "Painting",
+            "img1" : "https://wallpapercave.com/wp/wp9490610.png",
+            "img2" : "https://wallpapercave.com/wp/wp9490610.png",
+            "part1" : "Painting in House Flipper is done during most orders. Before you unlock additional perks, this activity can take a lot of time. Because of this, it's a good idea to take on the story-related orders from the beginning of the game, as you often need to repaint practically every room in the houses you purchase.",
+            "part2" : "Basic painting - pick this upgrade first. The first perk prevents your character from trying to apply the second layer of paint to the already painted fragment. Further improvements to the ability decrease paint usage by 20% and 40%. This applies to the amount in the can of paint and slightly on the roller. Instant painting - you move the roller faster, which increases the overall speed of painting. Paint more - by picking up this upgrade you will paint 2, 3 and finally 4 stripes on the wall at the same time. This upgrade should be upgraded as quickly as possible and coupled with the paint saving ability."
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "Demolition",
+            "img1" : "https://wallpapercave.com/wp/wp9490614.jpg",
+            "img2" : "https://wallpapercave.com/wp/wp9490614.jpg",
+            "part1" : "Demolition works aren't the most common and they also aren't very demanding. You receive points for every demolished wall.",
+            "part2" : "Passionate hammer master - the character swings the hammer faster.   Triceps of steel - the force of strikes is stronger. Sometimes, when the wall "doesn't want to give up" or when you are hitting the wrong place, you might have problems tearing it down - this Perk will help you with that task. However, you should develop it at the end, as it s the least beneficial. Better equipment - you gain access to better hammers. Aside from their cool appearance, they increase the speed of work."
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "Building",
+            "img1" : "https://wallpapercave.com/wp/wp9490614.jpg",
+            "img2" : "https://wallpapercave.com/wp/wp9490614.jpg",
+            "part1" : "This category applies only to erecting new partition walls inside the building. If you are not doing that too often, it is not worth getting more than the first point in the Mason category. You get points for the number of built walls in the game.",
+            "part2" : "Fast building - increases the speed of erecting new walls, even up to 400%. Although this speeds up your work substantially, it is worth to get familiar with the other options described below. Mason - the first ability is the most useful one, and we recommend choosing it. New walls come painted instantly in the "local" color, thanks to this while dividing a room, you save time that you would have to spend on painting, you also don't have to worry about paying for the paint. The subsequent levels are rather petty improvements (increasing the building range, and a 50% price cut for a part of wall, which aren't that expensive anyway, unless, you want to rebuild the whole house). One man crew - increases the number of walls that can be erected at the same time. This perk is more useful than Fast building."
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "Negotiation",
+            "img1" : "https://wallpapercave.com/wp/wp9490626.jpg",
+            "img2" : "https://wallpapercave.com/wp/wp9490626.jpg",
+            "part1" : "Negotiation is a Perk that comes in handy in renovation works for accommodation purchased on your own. Thanks to it, you will increase the value of your lot. Higher levels of this skill will be unlocked depending on the number of competed jobs, so it's worth to do the story-based jobs that are offered to you by e-mail.",
+            "part2" : "Price negotiations - makes price negotiations possible while selling accommodation units in fee mode. Negotiations usually don't help to get high margins at the beginning of the game, but it's always a nice bonus to get a couple of thousand dollars more. Quick order - zmniejszane sa wymagania zlecen, co oznacza, ze nie musisz juz tak mocno dogadzac potencjalnym nabywcom, aby zechcieli dac pelna kwote za wymarzony dom. It's worth unlocking the first level quickly, before you start renovating the accommodations. Higher payment- you get a higher remuneration for finished homes prepared for sale (up to 30%). If you're having financial problems, this Perk is for you, at the maximum level the bonus is up to + 30% of your salary."
         }
       ]
 }
