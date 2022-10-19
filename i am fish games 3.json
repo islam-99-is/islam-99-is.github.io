@@ -45,7 +45,7 @@
             "active" : "true",
             "name" : "scratch",
             "ico" : "https://9asso.github.io/published/imgs/btscratch.png",
-            "bg" : "#38BDF8"
+            "bg" : "#ffffff"
         },
         {
             "active" : "false",
@@ -63,7 +63,7 @@
             "active" : "true",
             "name" : "wallpapers",
             "ico" : "https://9asso.github.io/published/imgs/btwalls.png",
-            "bg" : "#2196F3"
+            "bg" : "#ffffff"
         },
         {
             "active" : "true",
