@@ -44,17 +44,17 @@
         {
             "active" : "true",
             "name" : "scratch",
-            "ico" : "https://img.icons8.com/ios/130/ffffff/erase-image.png",
-            "bg" : "#38BDF8"
+            "ico" : "https://9asso.github.io/published/imgs/btscratch.png",
+            "bg" : "#ffffff"
         },
         {
-            "active" : "true",
+            "active" : "false",
             "name" : "questions",
             "ico" : "https://img.icons8.com/ios/130/ffffff/how-many-quest--v2.png",
             "bg" : "#2DD4BF"
         },
         {
-            "active" : "true",
+            "active" : "false",
             "name" : "quiz",
             "ico" : "https://img.icons8.com/ios/130/ffffff/what.png",
             "bg" : "#4ADE80"
@@ -62,8 +62,8 @@
         {
             "active" : "true",
             "name" : "wallpapers",
-            "ico" : "https://img.icons8.com/ios/130/ffffff/tails.png",
-            "bg" : "#2196F3"
+            "ico" : "https://9asso.github.io/published/imgs/btwalls.png",
+            "bg" : "#ffffff"
         },
         {
             "active" : "true",
