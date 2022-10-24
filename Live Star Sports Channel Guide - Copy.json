@@ -2,8 +2,8 @@
     "config" : [
         {
           "activate_ads" : "true",
-          "activate_steps" : "true",
-          "activate_step_email" : "true",
+          "activate_steps" : "false",
+          "activate_step_email" : "false",
           "network" : "admob",
           "admob_ban" : "ca-app-pub-7467116021377002/1264701048",
           "admob_native" : "ca-app-pub-7467116021377002/5012374362",
@@ -83,43 +83,43 @@
     "wallpapers" : [
         {
             "name" : "",
-            "img" : ""
+            "img" : "https://wallpapercave.com/dwp1x/wp1809677.jpg"
         },
         {
             "name" : "",
-            "img" : ""
+            "img" : "https://wallpapercave.com/dwp1x/wp1809746.jpg"
         },
         {
             "name" : "",
-            "img" : ""
+            "img" : "https://wallpapercave.com/dwp1x/wp1809747.jpg"
         },
         {
             "name" : "",
-            "img" : ""
+            "img" : "https://wallpapercave.com/dwp1x/wp1809749.jpg"
         },
         {
             "name" : "",
-            "img" : ""
+            "img" : "https://wallpapercave.com/dwp1x/wp1809750.jpg"
         },
         {
             "name" : "",
-            "img" : ""
+            "img" : "https://wallpapercave.com/dwp1x/wp1809754.jpg"
         },
         {
             "name" : "",
-            "img" : ""
+            "img" : "https://wallpapercave.com/dwp1x/wp1809759.jpg"
         },
         {
             "name" : "",
-            "img" : ""
+            "img" : "https://wallpapercave.com/dwp1x/wp1809760.jpg"
         },
         {
             "name" : "",
-            "img" : ""
+            "img" : "https://wallpapercave.com/dwp1x/wp1809762.jpg"
         },
         {
             "name" : "",
-            "img" : ""
+            "img" : "https://wallpapercave.com/dwp1x/wp1809820.jpg"
         }
     ],
     
