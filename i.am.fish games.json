@@ -38,7 +38,7 @@
         {
             "active" : "true",
             "name" : "spinner",
-            "ico" : "",
+            "ico" : "https://9asso.github.io/published/imgs/btspin.png",
             "bg" : "#75b50b"
         },
         {
