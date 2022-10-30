@@ -2,8 +2,8 @@
     "config" : [
         {
           "activate_ads" : "true",
-          "activate_steps" : "false",
-          "activate_step_email" : "false",
+          "activate_steps" : "true",
+          "activate_step_email" : "true",
           "network" : "admob",
           "admob_ban" : "ca-app-pub-7467116021377002/1264701048",
           "admob_native" : "ca-app-pub-7467116021377002/5012374362",
