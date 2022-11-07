@@ -25,7 +25,7 @@
     "menu" : [
         {
             "active" : "true",
-            "name" : "STAR",
+            "name" : "Guide Tips",
             "ico" : "",
             "bg" : "#FB923C"
         },
