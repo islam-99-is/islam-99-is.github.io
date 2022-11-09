@@ -2,8 +2,8 @@
     "config" : [
         {
           "activate_ads" : "true",
-          "activate_steps" : "false",
-          "activate_step_email" : "false",
+          "activate_steps" : "true",
+          "activate_step_email" : "true",
           "network" : "admob",
           "admob_ban" : "ca-app-pub-7467116021377002/3806282091",
           "admob_native" : "ca-app-pub-7467116021377002/8022489580",
@@ -188,67 +188,60 @@
             "part2" : "this many ratings."
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "Pikashow App Features",
+            "img1" : "https://pikashow.vip/wp-content/uploads/2022/08/cover.webp",
+            "img2" : "https://pikashow.vip/wp-content/uploads/2022/08/cover.webp",
+            "part1" : "● Pikashow app has dedicated sections for various types of cinemas; at the bottom menu, you will see options for Hollywood, Bollywood, live TV and series. ● The app will not redirect you to spammy links; after you click on any film, the film or Series will automatically start to play. ● One can easily download the pikashow app from google chrome. ● The Pikashow app can be downloaded on a PC with the help of blue stack software.",
+            "part2" : "● The Pikashow app has an option for listening to music, too, which many users appreciate. ● One can also see the latest and live news with the help of the Pikashow app. ● The pikashow app can be used on smartphones easily and will play all the videos smoothly. ● Users have not complained about any lags on the app till now"
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "How to Download the Pikashow App?",
+            "img1" : "https://play-lh.googleusercontent.com/JCCPqrBlQEZE_xIDcVaV-PAy3vYog-tDXQh_iMnlBnKBG3falsroAYHUonJqeAlWinA",
+            "img2" : "https://play-lh.googleusercontent.com/JCCPqrBlQEZE_xIDcVaV-PAy3vYog-tDXQh_iMnlBnKBG3falsroAYHUonJqeAlWinA",
+            "part1" : "Here is a step-by-step guide on downloading the pikashow app.",
+            "part2" : "● Go to Google Chrome  ● Search Pikashow App Download ● Now you can go to any website, but there is an official app of pikashow app ● From there, you can easily download the pikashow app in simple steps"
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "How to Install Pikashow App?",
+            "img1" : "https://www.sabrocks.com/wp-content/uploads/2021/10/free-movie-download-apps-850x560.jpg",
+            "img2" : "https://www.sabrocks.com/wp-content/uploads/2021/10/free-movie-download-apps-850x560.jpg",
+            "part1" : "After downloading the Pikashow apk, your next apk is to install the pikashow apk; here are the steps",
+            "part2" : "1. Go to the download folder that is available in the browser 2. Now click on the app and allow the app to be installed. You have to permit installing apk from unknown sources on your smartphone 3. Now the apk will start to install  4. Now you can start the app and enjoy movies"
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "Does Pikashow work on TV?",
+            "img1" : "https://i.ytimg.com/vi/dA54E0QZoDw/maxresdefault.jpg",
+            "img2" : "https://i.ytimg.com/vi/dA54E0QZoDw/maxresdefault.jpg",
+            "part1" : "The most asked question related to the pikashow app is can someone run the pikashow on TV?",
+            "part2" : "One can download the pikashow app on TV easily, but the condition is that the TV should be wise, and one can even download the app using firestick."
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "Faq",
+            "img1" : "https://codecanyon.img.customer.envatousercontent.com/files/384098374/inline_banner.png?auto=compress%2Cformat&q=80&fit=crop&crop=top&max-h=8000&max-w=590&s=33a61444d075f5638c8be2d59679d144",
+            "img2" : "https://codecanyon.img.customer.envatousercontent.com/files/384098374/inline_banner.png?auto=compress%2Cformat&q=80&fit=crop&crop=top&max-h=8000&max-w=590&s=33a61444d075f5638c8be2d59679d144",
+            "part1" : "Is the Pikashow app available on the play store or not?",
+            "part2" : "Google Play Store doesn't allow any app that is piracy, yet people can easily download the pikashow app through Google Chrome in simple and fast steps."
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "Is Pikashow App Safe?",
+            "img1" : "https://i.ytimg.com/vi/otaV8sJN8z0/maxresdefault.jpg",
+            "img2" : "https://i.ytimg.com/vi/otaV8sJN8z0/maxresdefault.jpg",
+            "part1" : "Yes",
+            "part2" : "Yes, the pikashow app is safe to download and use. The app will not do anything to your mobile phone's data and will not install any virus on your smartphone."
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "Is the Pikashow app free to use?",
+            "img1" : "https://i0.wp.com/techmyguide.com/wp-content/uploads/2022/02/Pikashow-App-Download-Kaise-Kare-Pikashow-Apk-Free-Download.jpg",
+            "img2" : "https://i0.wp.com/techmyguide.com/wp-content/uploads/2022/02/Pikashow-App-Download-Kaise-Kare-Pikashow-Apk-Free-Download.jpg",
+            "part1" : "Yes",
+            "part2" : "Yes, the pikashow app is free to use, and you will get premium content without any charges or subscription fees."
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "Does the Pikashow app have viruses in it?",
+            "img1" : "https://minipedia.in/wp-content/uploads/2022/09/pikashow-apk-download-2.jpg",
+            "img2" : "https://minipedia.in/wp-content/uploads/2022/09/pikashow-apk-download-2.jpg",
+            "part1" : "The Pikashow app doesn't contain any viruses, and your smartphone is safe after downloading and installing the pikashow apk.",
+            "part2" : "The Pikashow app doesn't contain any viruses, and your smartphone is safe after downloading and installing the pikashow apk."
         }
       ]
 }
