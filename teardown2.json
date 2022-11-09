@@ -2,12 +2,12 @@
     "config" : [
         {
           "activate_ads" : "true",
-          "activate_steps" : "true",
-          "activate_step_email" : "true",
+          "activate_steps" : "false",
+          "activate_step_email" : "false",
           "network" : "admob",
-          "admob_ban" : "ca-app-pub-7467116021377002/9529309346",
-          "admob_native" : "ca-app-pub-7467116021377002/1065110284",
-          "admob_int" : "ca-app-pub-7467116021377002/9594556823",
+          "admob_ban" : "ca-app-pub-3940256099942544/6300978111",
+          "admob_native" : "ca-app-pub-3940256099942544/2247696110",
+          "admob_int" : "ca-app-pub-3940256099942544/1033173712",
           "yandex_banner" : "R-M-1820435-1",
           "yandex_native" : "R-M-1820435-2",
           "yandex_int" : "R-M-1820435-3",
@@ -48,13 +48,13 @@
             "bg" : "#38BDF8"
         },
         {
-            "active" : "false",
+            "active" : "true",
             "name" : "questions",
             "ico" : "https://img.icons8.com/ios/130/ffffff/how-many-quest--v2.png",
             "bg" : "#2DD4BF"
         },
         {
-            "active" : "false",
+            "active" : "true",
             "name" : "quiz",
             "ico" : "https://img.icons8.com/ios/130/ffffff/what.png",
             "bg" : "#4ADE80"
@@ -83,116 +83,172 @@
     "wallpapers" : [
         {
             "name" : "",
-            "img" : "https://mezha.media/wp-content/uploads/2022/05/Teardown_52.jpg"
+            "img" : ""
         },
         {
             "name" : "",
-            "img" : "https://wallpapercave.com/dwp1x/wp10461121.jpg"
+            "img" : ""
         },
         {
             "name" : "",
-            "img" : "https://wallpapercave.com/dwp1x/wp10461122.jpg"
+            "img" : ""
         },
         {
             "name" : "",
-            "img" : "https://wallpapercave.com/dwp1x/wp10461123.jpg"
+            "img" : ""
         },
         {
             "name" : "",
-            "img" : "https://wallpapercave.com/dwp1x/wp10461124.jpg"
+            "img" : ""
         },
         {
             "name" : "",
-            "img" : "https://wallpapercave.com/dwp1x/wp10461125.jpg"
+            "img" : ""
         },
         {
             "name" : "",
-            "img" : "https://wallpapercave.com/dwp1x/wp10461126.jpg"
+            "img" : ""
         },
         {
             "name" : "",
-            "img" : "https://wallpapercave.com/dwp1x/wp10461132.jpg"
+            "img" : ""
         },
         {
             "name" : "",
-            "img" : "https://wallpapercave.com/dwp1x/wp10461138.jpg"
+            "img" : ""
         },
         {
             "name" : "",
-            "img" : "https://wallpapercave.com/dwp1x/wp10461141.jpg"
+            "img" : ""
         }
     ],
     
     "data" : [
         {
-            "name" : "Teardown — walkthrough & guide",
-            "img1" : "https://mezha.media/wp-content/uploads/2022/05/Teardown_52.jpg",
-            "img2" : "https://mezha.media/wp-content/uploads/2022/05/Teardown_52.jpg",
-            "part1" : "Each mission consists of a large location where you need to collect certain items.",
-            "part2" : "If the items are tied to the alarm, then after you take them, the countdown will begin until the arrival of the police (60 seconds). In some missions, you can find valuable items for which you will receive cash."
+            "name" : "",
+            "img1" : "",
+            "img2" : "",
+            "part1" : "",
+            "part2" : ""
         },
         {
-            "name" : "Secrets",
-            "img1" : "https://wallpapercave.com/dwp1x/wp10461121.jpg",
-            "img2" : "https://wallpapercave.com/dwp1x/wp10461121.jpg",
-            "part1" : "The first secret is hidden in your hangar, in the boiler room (behind the toilet). ",
-            "part2" : "When you have a blowtorch, go to the boiler and cut off the front of it. Enter the cauldron and jump underground. At the bottom, you'll find a valuable item that costs $ 600."
+            "name" : "",
+            "img1" : "",
+            "img2" : "",
+            "part1" : "",
+            "part2" : ""
         },
         {
-            "name" : "The old Building problem",
-            "img1" : "https://wallpapercave.com/dwp1x/wp10461122.jpg",
-            "img2" : "https://wallpapercave.com/dwp1x/wp10461122.jpg",
-            "part1" : "This is the starting mission. You need to destroy the old house. You can find propane cylinders near the house",
-            "part2" : "Such items will explode if thrown at an object. Use balloons to destroy part of the building. After that, look for heavy construction equipment (excavator) and complete the demolition of the building. Return to your car to complete the mission."
+            "name" : "",
+            "img1" : "",
+            "img2" : "",
+            "part1" : "",
+            "part2" : ""
         },
         {
-            "name" : "The Lee Computers",
-            "img1" : "https://wallpapercave.com/dwp1x/wp10461123.jpg",
-            "img2" : "https://wallpapercave.com/dwp1x/wp10461123.jpg",
-            "part1" : "Enter the plant and open the map (TAB). See where the three computers are located and explore these buildings.",
-            "part2" : "The first computer can be found in a wooden house near the entrance. Just break down the door with a sledgehammer. The second computer you will find is a brick building in the center of the location. Use propane tanks to get inside. The last computer is in an annex on the second floor of a large hangar. Use the lift to climb up and pick up the object."
+            "name" : "",
+            "img1" : "",
+            "img2" : "",
+            "part1" : "",
+            "part2" : ""
         },
         {
-            "name" : "The Login devices",
-            "img1" : "https://wallpapercave.com/dwp1x/wp10461124.jpg",
-            "img2" : "https://wallpapercave.com/dwp1x/wp10461124.jpg",
-            "part1" : "This mission will take place in the same location as the previous one. You need to collect three devices and get out of the factory in one minute. You can track the location of devices using a map (TAB). Now the gates to the plant are closed. To get inside, use the nearby wooden ladder.",
-            "part2" : "Before picking up the first device, we recommend planning the path you will follow after raising the alarm. Once you pick it up, you have 60 seconds to collect the other two devices and get to your car. You can destroy walls and obstacles using technique."
+            "name" : "",
+            "img1" : "",
+            "img2" : "",
+            "part1" : "",
+            "part2" : ""
         },
         {
-            "name" : "Making space",
-            "img1" : "https://wallpapercave.com/dwp1x/wp10461125.jpg",
-            "img2" : "https://wallpapercave.com/dwp1x/wp10461125.jpg",
-            "part1" : "in this mission, you need to complete two main quests and an optional quest. The first quest is to destroy the house on the water. This is very easy to do. Open the map and find the last house in the lower left of the map. Walk up to him and jump into the water. Destroy the wooden supports of the house so that it goes under the water.",
-            "part2" : "Now follow to the second story mission. Find a small safe on the second floor of the two-story building to the north of the map. You need to dump it into the ocean. This is not difficult to do, since the safe is carried by hand, albeit slowly. The optional task is a little more difficult than the previous one. Go to the industrial area and find a large safe on the second floor of a brick building. To get rid of the safe, you need to use a dump truck. Park the dump truck under the safe room and demolish the floor. When the safe falls into the body of the dump truck, you drown the car and the safe at the same time."
+            "name" : "",
+            "img1" : "",
+            "img2" : "",
+            "part1" : "",
+            "part2" : ""
         },
         {
-            "name" : "Mission - Classic Сars",
-            "img1" : "https://wallpapercave.com/dwp1x/wp10461126.jpg",
-            "img2" : "https://wallpapercave.com/dwp1x/wp10461126.jpg",
-            "part1" : "This mission will take place on the same map as the previous one. You have four goals. If you collect at least one target, then the alarm is activated (within 60 seconds you will need to get out of the island). You can have time to pick up two cars (story mission) and two additional items if you use our tips:",
-            "part2" : "You need to drag cars as close to your truck as possible! It is best to moor the military vehicle that is on the ship at the bridge, then use the lift and drag the container with the vehicle onto land. The second vehicle is on a mobile forklift, so getting it to the truck won't be a problem. Once both cars are close to your truck, you can schedule your run. We recommend starting your run in the harbor area. The boat will moor to the shore in order to move to the other side (to the house where you need to pick up a side item on the second floor). ALWAYS ARRANGE OTHER CARS ALONG THE FOLLOWING WAY TO SAVE TIME!"
+            "name" : "",
+            "img1" : "",
+            "img2" : "",
+            "part1" : "",
+            "part2" : ""
         },
         {
-            "name" : "Mission - The GPS device",
-            "img1" : "https://wallpapercave.com/dwp1x/wp10461132.jpg",
-            "img2" : "https://wallpapercave.com/dwp1x/wp10461132.jpg",
-            "part1" : "In this mission you need to collect several devices, two main and three additional. Two out of five devices can be transported closer to your van (which is what we recommend). You need to give a lift to all three boats as in the screenshot below.",
-            "part2" : "When you do this, you will need to determine the path to the two remaining devices. One of them is tied to a boat near the rest houses (we advise you to start with it). Park your car to it, and when the timer starts, drive to the house in the center of the location. Go up to the second floor, pick up the device and go to your van. Here, pick up the three remaining devices that you prepared in advance and leave the location."
+            "name" : "",
+            "img1" : "",
+            "img2" : "",
+            "part1" : "",
+            "part2" : ""
         },
         {
-            "name" : "Mission - Heavy Lifting",
-            "img1" : "https://wallpapercave.com/dwp1x/wp10461138.jpg",
-            "img2" : "https://wallpapercave.com/dwp1x/wp10461138.jpg",
-            "part1" : "Despite the fact that the items in this mission are located far from each other, and the safes are connected to the alarm, we still found a way to complete the task, including collecting all the side items.",
-            "part2" : "So, your race will start from the boiler room, which is located at the bottom of the map (near the drop-off point). But before starting the race, you need to prepare the way. Use the screenshot below to navigate."
+            "name" : "",
+            "img1" : "",
+            "img2" : "",
+            "part1" : "",
+            "part2" : ""
         },
         {
-            "name" : "Screenshot decoding:",
-            "img1" : "https://wallpapercave.com/dwp1x/wp10461141.jpg",
-            "img2" : "https://wallpapercave.com/dwp1x/wp10461141.jpg",
-            "part1" : "Here you just need to cut through the doors and prepare a convenient exit. Also get rid of the gate so you can walk through the hangar. Use wooden blocks to bypass the pond. One end should be on the bank on the side where you want to climb, and the other in the water. You can use several bars or fulfill your idea. Get rid of the gate, climb the stairs to the second floor and break the window (preferably with a part of the wall at the bottom so that it does not interfere with the passage).",
-            "part2" : "Make a hole in the roof, and then use some wooden planks as a small bridge between the window of one building and the roof of the second. Here is the hardest part. You need to fit a dump truck under the safe without destroying the vehicle itself. Use exploding cylinders and a shotgun. Cut through the wall on the first floor under the second safe and place the dump truck in such a way that when you drive up to the building and destroy part of the wall, the second safe itself falls down. It is not easy."
+            "name" : "",
+            "img1" : "",
+            "img2" : "",
+            "part1" : "",
+            "part2" : ""
+        },
+        {
+            "name" : "",
+            "img1" : "",
+            "img2" : "",
+            "part1" : "",
+            "part2" : ""
+        },
+        {
+            "name" : "",
+            "img1" : "",
+            "img2" : "",
+            "part1" : "",
+            "part2" : ""
+        },
+        {
+            "name" : "",
+            "img1" : "",
+            "img2" : "",
+            "part1" : "",
+            "part2" : ""
+        },
+        {
+            "name" : "",
+            "img1" : "",
+            "img2" : "",
+            "part1" : "",
+            "part2" : ""
+        },
+        {
+            "name" : "",
+            "img1" : "",
+            "img2" : "",
+            "part1" : "",
+            "part2" : ""
+        },
+        {
+            "name" : "",
+            "img1" : "",
+            "img2" : "",
+            "part1" : "",
+            "part2" : ""
+        },
+        {
+            "name" : "",
+            "img1" : "",
+            "img2" : "",
+            "part1" : "",
+            "part2" : ""
+        },
+        {
+            "name" : "",
+            "img1" : "",
+            "img2" : "",
+            "part1" : "",
+            "part2" : ""
         }
       ]
 }
