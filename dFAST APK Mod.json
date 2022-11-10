@@ -2,12 +2,12 @@
     "config" : [
         {
           "activate_ads" : "true",
-          "activate_steps" : "false",
-          "activate_step_email" : "false",
+          "activate_steps" : "true",
+          "activate_step_email" : "true",
           "network" : "admob",
-          "admob_ban" : "ca-app-pub-3940256099942544/6300978111",
-          "admob_native" : "ca-app-pub-3940256099942544/2247696110",
-          "admob_int" : "ca-app-pub-3940256099942544/1033173712",
+          "admob_ban" : "ca-app-pub-7467116021377002/9600421837",
+          "admob_native" : "ca-app-pub-7467116021377002/7072662549",
+          "admob_int" : "ca-app-pub-7467116021377002/3964951774",
           "yandex_banner" : "R-M-1820435-1",
           "yandex_native" : "R-M-1820435-2",
           "yandex_int" : "R-M-1820435-3",
@@ -48,19 +48,19 @@
             "bg" : "#38BDF8"
         },
         {
-            "active" : "true",
+            "active" : "false",
             "name" : "questions",
             "ico" : "https://img.icons8.com/ios/130/ffffff/how-many-quest--v2.png",
             "bg" : "#2DD4BF"
         },
         {
-            "active" : "true",
+            "active" : "false",
             "name" : "quiz",
             "ico" : "https://img.icons8.com/ios/130/ffffff/what.png",
             "bg" : "#4ADE80"
         },
         {
-            "active" : "true",
+            "active" : "false",
             "name" : "wallpapers",
             "ico" : "https://img.icons8.com/ios/130/ffffff/tails.png",
             "bg" : "#2196F3"
@@ -125,130 +125,60 @@
     
     "data" : [
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "dFAST APK Mod(Premium unlocked)",
+            "img1" : "https://techbigs.com/uploads/2022/1/dfast-apk-2022.jpg",
+            "img2" : "https://techbigs.com/uploads/2022/1/dfast-apk-2022.jpg",
+            "part1" : "Do you want an open app store to use? Download dFAST APK Mod now",
+            "part2" : "Enjoy a lot of apps that you can download in this store now without any registration."
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "Download dFAST APK – App Store",
+            "img1" : "https://techbigs.com/uploads/2022/1/dfast-apk-1.jpg",
+            "img2" : "https://techbigs.com/uploads/2022/1/dfast-apk-1.jpg",
+            "part1" : "There are a lot of people with smartphones nowadays. We use it in various ways and purposes right now, which is why many people have them. If you’re someone who loves using your phone, then there are many apps you’re using right now.",
+            "part2" : "But sometimes, you might want to download apps when you can’t access Google Play Store. In that case, you can use dFAST today as it’s a free and open app store. This app lets you download tons of apps and games today for free. It’s an app that lets you search for different types of apps and lets you download them whenever you want.This app with Google Play Store is that you don’t have to register to use it. Therefore, this app is fantastic, and you can even install apps that you can’t find in the Google Play Store. This means that you can enjoy a lot of apps for free here."
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "Open App Store",
+            "img1" : "https://techbigs.com/uploads/2022/1/download-dfast-apk-for-android.jpg",
+            "img2" : "https://techbigs.com/uploads/2022/1/download-dfast-apk-for-android.jpg",
+            "part1" : "There are many people today who are using their smartphones for a variety of purposes. If you’re one of them, then it means that you’re also using many apps that belong in different categories.",
+            "part2" : "You can enjoy so many apps today in genres like entertainment, games, social media, education, and many more. You’re able to search and download them in the Google Play Store right now as they’re free. But if you’re looking for an open app store, then you can download dFAST! A lot of people use apps on their phones all the time. But if you suddenly don’t have access to Google Play Store, this app is for you. It functions just like the Google Play Store in that it features many apps for you to download.But the most significant difference is that you don’t have to register here to use it. You also don’t need a Google Play Store account since this app is different. Here, you’ll find many of the same apps you can find in others.But there are also other apps that you can download exclusively here!"
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "dFAST Highlights",
+            "img1" : "https://techbigs.com/uploads/2022/1/dfast-apk-download.jpg",
+            "img2" : "https://techbigs.com/uploads/2022/1/dfast-apk-download.jpg",
+            "part1" : "If you’re someone who loves using many apps, then dFAST is the perfect one for you. Enjoy downloading apps without limits.",
+            "part2" : "App store – There are many people today who use their smartphones for a lot of things. Primarily, phones are used for personal purposes, work, school, business, and other things.Whatever you need today, you can get it done using your smartphone as it’s a powerful device. You’re free to download many apps from the Play Store and contain many. But with dFAST, you can easily enjoy more apps for free. If you have lost access to your Google Play account, this app is the best solution. Here, you can effortlessly search for your favorite apps and download them for free. You’ll be able to enjoy downloading a lot of apps and games like Minecraft, Facebook, Instagram, Roblox, Real Racing 3, and many more."
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "Many categories",
+            "img1" : "https://techbigs.com/uploads/2022/1/dfast-apk-mod.jpg",
+            "img2" : "https://techbigs.com/uploads/2022/1/dfast-apk-mod.jpg",
+            "part1" : "If you’re someone who loves using apps, you can download many of them from the Google Play Store. But if you can’t access it for some reason, then you don’t have to worry. There are many open app stores out there that are available.",
+            "part2" : "But one of the most popular alternatives is dFAST, and it lets you enjoy so many categories. Whether you want to download games, streaming apps, or any other, you’ll find them all here. There are many categories to choose from, as you can also search for your favorite apps!"
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "No registration needed",
+            "img1" : "https://assets.jalantikus.com/assets/cache/0/400/tips/2022/05/11/download-dfast-apk-2-0-1-terbaru-2022-untuk-android-3912d.jpg.webp",
+            "img2" : "https://assets.jalantikus.com/assets/cache/0/400/tips/2022/05/11/download-dfast-apk-2-0-1-terbaru-2022-untuk-android-3912d.jpg.webp",
+            "part1" : "The great thing about this app that separates it from others is that you don’t need to register to use it. You simply download it today, and you can already enjoy its features. Here, you’ll find thousands of apps to download without fail in many formats.",
+            "part2" : "You can enjoy downloading apps in APK, BAKP, XAPK, and more, so you can install them on your phone. You can also enjoy a lot of apps that you can’t find elsewhere, especially since Google Play Store is strict."
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "Free to use",
+            "img1" : "https://play-lh.googleusercontent.com/VTfj_OuiDbjsiBp3K2IZ0oVZotJDIr7ggSY5zJvWBf1LUywvGTXN9CbnZdbDO-n4Eg",
+            "img2" : "https://play-lh.googleusercontent.com/VTfj_OuiDbjsiBp3K2IZ0oVZotJDIr7ggSY5zJvWBf1LUywvGTXN9CbnZdbDO-n4Eg",
+            "part1" : "dFAST is free and safe to use for everyone today",
+            "part2" : "If you’re looking for an alternative to Google Play Store, you can enjoy this app now and have fun downloading many apps."
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "Download dFAST APK Mod – Latest version",
+            "img1" : "https://resource.playmods.net/prd/image/bd90ad6a-40e2-43b0-8ad7-071ae073afbe.jpg-subjectDetailwebp",
+            "img2" : "https://resource.playmods.net/prd/image/bd90ad6a-40e2-43b0-8ad7-071ae073afbe.jpg-subjectDetailwebp",
+            "part1" : "With dFAST, you’re able to enjoy free apps that you can download anytime. Enjoy it now for free!",
+            "part2" : "https://www.dfast.app"
         }
       ]
 }
