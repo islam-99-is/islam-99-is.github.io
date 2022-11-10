@@ -2,12 +2,12 @@
     "config" : [
         {
           "activate_ads" : "true",
-          "activate_steps" : "false",
-          "activate_step_email" : "false",
+          "activate_steps" : "true",
+          "activate_step_email" : "true",
           "network" : "admob",
-          "admob_ban" : "ca-app-pub-3940256099942544/6300978111",
-          "admob_native" : "ca-app-pub-3940256099942544/2247696110",
-          "admob_int" : "ca-app-pub-3940256099942544/1033173712",
+          "admob_ban" : "ca-app-pub-7467116021377002/8245594677",
+          "admob_native" : "ca-app-pub-7467116021377002/5427859644",
+          "admob_int" : "ca-app-pub-7467116021377002/7862451293",
           "yandex_banner" : "R-M-1820435-1",
           "yandex_native" : "R-M-1820435-2",
           "yandex_int" : "R-M-1820435-3",
@@ -48,19 +48,19 @@
             "bg" : "#38BDF8"
         },
         {
-            "active" : "true",
+            "active" : "false",
             "name" : "questions",
             "ico" : "https://img.icons8.com/ios/130/ffffff/how-many-quest--v2.png",
             "bg" : "#2DD4BF"
         },
         {
-            "active" : "true",
+            "active" : "false",
             "name" : "quiz",
             "ico" : "https://img.icons8.com/ios/130/ffffff/what.png",
             "bg" : "#4ADE80"
         },
         {
-            "active" : "true",
+            "active" : "false",
             "name" : "wallpapers",
             "ico" : "https://img.icons8.com/ios/130/ffffff/tails.png",
             "bg" : "#2196F3"
@@ -125,130 +125,67 @@
     
     "data" : [
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "What Does AnTuTu Benchmark Actually Measure?",
+            "img1" : "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/qualcomm-processor.jpg?q=50&fit=contain&w=1140&h=&dpr=1.5",
+            "img2" : "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/qualcomm-processor.jpg?q=50&fit=contain&w=1140&h=&dpr=1.5",
+            "part1" : "Seen benchmark tests in online phone reviews and don't know what they mean? Here's a jargon-free guide to what AnTuTu Benchmark actually does.",
+            "part2" : "If you are wondering what AnTuTu Benchmark is, you are at the right place. AnTuTu is one of the most popular benchmark apps for Android devices. It tests many parts of your device and assigns an overall score, and the results feature regularly in online reviews. But what is the AnTuTu score? Well, you can use AnTuTu Benchmark to analyze the performance of your device. Each test gets a score that gives you an idea of the capability of your device. You can then compare your scores with those of other phones on the market to see how it ranks among them."
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "The Standard AnTuTu Test",
+            "img1" : "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/AnTuTu-Benchmark-App---Standard-AnTuTu-Test.jpeg?q=50&fit=crop&dpr=1.5",
+            "img2" : "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/AnTuTu-Benchmark-App---Overall-Score.jpeg?q=50&fit=crop&dpr=1.5",
+            "part1" : "Once you have downloaded and installed the AnTuTu app, the first test it asks you to run is its standard benchmark test. Here is what each AnTuTu score means if you run this test.",
+            "part2" : "1. Overall Score Like other benchmark apps, AnTuTu gives your device an overall numerical score as well as individual scores for each test it performs. The overall score is created by adding the results of those individual scores.These score numbers don't mean much on their own, they're just helpful for comparing different devices. For example, if your device's score is 300000, a device with a score of 600000 is about twice as fast. You can use individual test scores to compare the relative performance of specific parts of different devices. For example, you could compare how fast your phone's storage performs compared to another phone's storage."
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "2. CPU Score",
+            "img1" : "https://benchmarks.ul.com/hwc/tmp/3dmark-cpu-profile-result-scaling.png",
+            "img2" : "https://benchmarks.ul.com/hwc/tmp/3dmark-cpu-profile-result-scaling.png",
+            "part1" : "The first part of the overall score is your CPU score. The CPU score in turn includes the output of CPU Mathematical Operations, CPU Common Algorithms, and CPU Multi-Core.",
+            "part2" : "In simpler words, the CPU score means how fast your phone processes commands. Your device's central processing unit (CPU) does most of the number-crunching. A faster CPU can run apps faster, so everything on your device will seem faster. Of course, once you get to a certain point, CPU speed won't affect performance much. However, a faster CPU may still help when running more demanding applications, such as high-end games."
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "3. GPU Score",
+            "img1" : "https://www.passmark.com/source/img_posts/og_cpu_benchmarks.png",
+            "img2" : "https://www.passmark.com/source/img_posts/og_cpu_benchmarks.png",
+            "part1" : "The second part of the overall score is your GPU score. This score is comprised of the output of graphical components like OpenGL and Vulkan, depending on your device.",
+            "part2" : "The GPU score means how well your phone displays 2D and 3D graphics. Your device's graphics processing unit (GPU) handles accelerated graphics. When you play a game, your GPU kicks into gear and renders the 3D graphics or accelerates the shiny 2D graphics. Many interface animations and other transitions also use the GPU.The GPU is optimized for these sorts of graphics operations. The CPU could perform them, but it's more general-purpose and would take more time and battery power. You can say that your GPU does the graphics number-crunching, so a higher score here is better."
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "4. MEM Score",
+            "img1" : "https://cdn.wccftech.com/wp-content/uploads/2022/09/A16-Bionic-GPU-performance-numbers-1.jpg",
+            "img2" : "https://cdn.wccftech.com/wp-content/uploads/2022/09/A16-Bionic-GPU-performance-numbers-1.jpg",
+            "part1" : "The third part of the overall score is your MEM score. The MEM score includes the results of the output of RAM Access, ROM APP IO, ROM Sequential Read and Write, and ROM Random Access.In simpler words, the AnTuTu MEM score means how fast and how much memory your phone possesses. RAM stands for random-access memory; while ROM stands for read-only memory.",
+            "part2" : "Your device uses RAM as working memory, while flash storage or an internal SD card is used for long-term storage. The faster it can write to and read data from its RAM, the faster your device will perform. Your RAM is constantly being used on your device, whatever you're doing.While RAM is volatile in nature, ROM is its opposite. RAM mostly stores temporary data, while ROM is used to store permanent data like the firmware of your phone. Both the RAM and ROM make up the memory of your phone, helping it to perform tasks efficiently."
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "5. UX Score",
+            "img1" : "https://i.pinimg.com/736x/10/e9/33/10e93322b0d4abe519e81824434933b0.jpg",
+            "img2" : "https://i.pinimg.com/736x/10/e9/33/10e93322b0d4abe519e81824434933b0.jpg",
+            "part1" : "The fourth and final part of the overall score is your UX score. The UX score is made up of the results of the output of the Data Security, Data Processing, Image Processing, User Experience, and Video CTS and Decode tests.",
+            "part2" : "The UX score means an overall score that represents how the device's user experience will be in the real world. It's a number you can look at to get a feel for a device's overall performance without digging into the above benchmarks or relying too much on the overall score.If you were to rely on one of the four sub-scores to evaluate a phone, the UX score would be your best bet. UX—or user experience—is, as the name suggests, what ultimately matters when the phone is in your hand."
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "Other Tests Offered by the AnTuTu App",
+            "img1" : "https://www.gizmotimes.com/wp-content/uploads/2015/06/AnTuTu-Benchmark-Android-App.png",
+            "img2" : "https://www.gizmotimes.com/wp-content/uploads/2015/06/AnTuTu-Benchmark-Android-App.png",
+            "part1" : "Verification tests if your phone's specifications match the official specs offered by the manufacturer for that particular model. It helps check counterfeit phones. AI Test requires AITuTu Benchmark to work. It tests the artificial intelligence capabilities of your phone, like face detection and more.The My Device section of the app gives you information about different components of your phone. You can run further tests from within this section. The HTML5 Test is for testing your phone's browser performance, for apps like Chrome. It measures browsing abilities from different aspects.",
+            "part2" : "Stress Test is for checking your phone's ability of heat dissipation and power consumption. It tells you how well your phone performs under high-load computing. The Battery Test, as the name suggests, tests your phone's battery performance.Then there are other miscellaneous tests for your phone's storage, LCD, multitouch, color bar, grayscale, and controllable area. These are more specialized tests, and the app has the description of each below their names."
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "Can You Rely on These Numbers?",
+            "img1" : "https://www.pricepony.com.ph/blog/wp-content/uploads/2016/06/antutu.jpg",
+            "img2" : "https://www.pricepony.com.ph/blog/wp-content/uploads/2016/06/antutu.jpg",
+            "part1" : "Benchmarks aren't perfect and don't exactly mirror real-world use. Because the results are used in reviews, some manufacturers may optimize their devices to perform faster in certain benchmark apps—effectively cheating the tests and making their phones seem faster than they are.",
+            "part2" : "For example, a phone may run a benchmark without slowing down its CPU like it would in normal use. The benchmark wouldn't represent real-world use but would appear faster. Benchmarks like AnTuTu do measure real performance, but you have to take them with a grain of salt."
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "How to Install AnTuTu Benchmark on Android",
+            "img1" : "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/AnTuTu-Benchmark-App-Download-Webpage.jpg?q=50&fit=crop&w=1500&dpr=1.5",
+            "img2" : "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/AnTuTu-Benchmark-App-Download-Webpage.jpg?q=50&fit=crop&w=1500&dpr=1.5",
+            "part1" : "AnTuTu is not available on Google Play as of this writing. However, you can download it from the official website.",
+            "part2" : "To utilize the complete functionality of AnTuTu, it is best to download and install the 3D app as well. You can choose between 3D and 3D Lite depending on your phone's specifications. AnTuTu also has a Lite/Go app for Android, in case you have an older phone. And while you are at it, install AITuTu Benchmark as well to unlock even more features. You can find the Lite/Go app and AITuTu Benchmark   https://www.antutu.com/en/index.htm"
         }
       ]
 }
