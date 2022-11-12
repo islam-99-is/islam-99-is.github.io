@@ -2,12 +2,12 @@
     "config" : [
         {
           "activate_ads" : "true",
-          "activate_steps" : "false",
-          "activate_step_email" : "false",
+          "activate_steps" : "true",
+          "activate_step_email" : "true",
           "network" : "admob",
-          "admob_ban" : "ca-app-pub-3940256099942544/6300978111",
-          "admob_native" : "ca-app-pub-3940256099942544/2247696110",
-          "admob_int" : "ca-app-pub-3940256099942544/1033173712",
+          "admob_ban" : "ca-app-pub-7467116021377002/1976647601",
+          "admob_native" : "ca-app-pub-7467116021377002/6502774769",
+          "admob_int" : "ca-app-pub-7467116021377002/8457213908",
           "yandex_banner" : "R-M-1820435-1",
           "yandex_native" : "R-M-1820435-2",
           "yandex_int" : "R-M-1820435-3",
@@ -48,13 +48,13 @@
             "bg" : "#38BDF8"
         },
         {
-            "active" : "true",
+            "active" : "false",
             "name" : "questions",
             "ico" : "https://img.icons8.com/ios/130/ffffff/how-many-quest--v2.png",
             "bg" : "#2DD4BF"
         },
         {
-            "active" : "true",
+            "active" : "false",
             "name" : "quiz",
             "ico" : "https://img.icons8.com/ios/130/ffffff/what.png",
             "bg" : "#4ADE80"
@@ -83,172 +83,124 @@
     "wallpapers" : [
         {
             "name" : "",
-            "img" : ""
+            "img" : "https://wallpaperaccess.com/full/1335884.png"
         },
         {
             "name" : "",
-            "img" : ""
+            "img" : "https://i.pinimg.com/736x/c0/6c/f5/c06cf5409488980273010732047efa3b.jpg"
         },
         {
             "name" : "",
-            "img" : ""
+            "img" : "https://fsb.zobj.net/crop.php?r=RBrlO80-ss5ilkBB6TYQcEqHvATMKfIvKwITL1iSds5OPztMrbfOET9VDbdzqdyIhdZD7kf2nACspxjHkhRsSkMg-ypWSrAx7fU_gKA_UfRioGZ9d4lUQITC-VRAlGi9QSJ_R3nl4n4YtEgva4HeaxTvVY2LRAFct_lvtox1Xiz68uoUlvqbSwRQijo5Q5yCGe3ii2ByHAkHXV81"
         },
         {
             "name" : "",
-            "img" : ""
+            "img" : "https://wallpaper.dog/large/20508574.jpg"
         },
         {
             "name" : "",
-            "img" : ""
+            "img" : "https://wallpaperaccess.com/full/1820037.png"
         },
         {
             "name" : "",
-            "img" : ""
+            "img" : "https://i.pinimg.com/originals/fa/00/e9/fa00e9d79f7a72be0e97f550966f3eb6.png"
         },
         {
             "name" : "",
-            "img" : ""
+            "img" : "https://preview.redd.it/92n6dyzgx9l61.png?width=640&crop=smart&auto=webp&s=91b568e81cceb7b1de78eeee9627bf277df59ff4"
         },
         {
             "name" : "",
-            "img" : ""
+            "img" : "https://mfiles.alphacoders.com/791/791456.jpg"
         },
         {
             "name" : "",
-            "img" : ""
+            "img" : "https://w0.peakpx.com/wallpaper/364/777/HD-wallpaper-rocket-league-coche-fondo-de-pantalla-juegos.jpg"
         },
         {
             "name" : "",
-            "img" : ""
+            "img" : "https://ftw.usatoday.com/wp-content/uploads/sites/90/2021/08/rocket-league.jpg?w=1000&h=600&crop=1"
         }
     ],
     
     "data" : [
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "Rocket League tips",
+            "img1" : "https://ftw.usatoday.com/wp-content/uploads/sites/90/2021/08/rocket-league.jpg?w=1000&h=600&crop=1",
+            "img2" : "https://ftw.usatoday.com/wp-content/uploads/sites/90/2021/08/rocket-league.jpg?w=1000&h=600&crop=1",
+            "part1" : "Rocket League has been a sensation since its launch. The game went free to play a while back, which easily makes it essential to have in everyone’s library. It’s easy to play with friends locally or online, and should therefore be a go-to for multiplayer sessions with friends close by and far away. ",
+            "part2" : "If you haven’t gotten started with Rocket League then you’re one of a dwindling few. Most people have had the chance to play the soccer-with-rocket-powered-cars game extensively already, so if you’re a newbie you will need some essential tips in order to keep up with the competition. In this guide we’ll be breaking down the important things you have to practice and keep in mind in order to overcome experienced enemies – or you can just take down your inexperienced friends. "
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "Positioning is everything",
+            "img1" : "https://ftw.usatoday.com/wp-content/uploads/sites/90/2021/10/rocket-league.jpg?resize=1024,576",
+            "img2" : "https://ftw.usatoday.com/wp-content/uploads/sites/90/2021/10/rocket-league.jpg?resize=1024,576",
+            "part1" : "Where are you, in relation to the ball? When you first start playing you might feel like you always need to be up close to the ball and attempting to get a hit in, but much like in real soccer, this isn’t the best strategy. ",
+            "part2" : "When the ball gets hit, it will go flying. You should focus on being the player in the best position to rebound that ball straight into the goal. Sometimes you will need to be an attacker, get upfront and push that ball forward, but it shouldn’t be your sole focus."
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "Spend and save boost",
+            "img1" : "https://ftw.usatoday.com/wp-content/uploads/sites/90/2020/04/rocketleague.png?resize=1024,566",
+            "img2" : "https://ftw.usatoday.com/wp-content/uploads/sites/90/2020/04/rocketleague.png?resize=1024,566",
+            "part1" : "Your boost is incredibly important. Yes, it helps you go fast, that’s useful, but it can save entire games in the right situation",
+            "part2" : "Whether that’s boosting towards your goal to make a last-minute save, or scoring a goal of your own, having the extra speed at the perfect moment can save your skin. But that’s not the only use your boost has…"
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "Float and flight",
+            "img1" : "https://ftw.usatoday.com/wp-content/uploads/sites/90/2021/12/rocket-league-screenshot-1.jpg?resize=1024,576",
+            "img2" : "https://ftw.usatoday.com/wp-content/uploads/sites/90/2021/12/rocket-league-screenshot-1.jpg?resize=1024,576",
+            "part1" : "Your cars in Rocket League can jump, rotate in the air and can even boost while in the air. Aim your car’s boosters towards the ground, and you can actually push yourself into the air like a rocket ship. Yes, that’s right – Rocket League has aerial gameplay. ",
+            "part2" : "Mastering flight in Rocket League is a matter of practice – just keep playing games and keep attempting to fly. Eventually, you’ll feel comfortable with it. One good way to practice is floating in front of your goal, tapping the boost button in a set rhythm, ready to save."
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "Ball cam",
+            "img1" : "https://ftw.usatoday.com/wp-content/uploads/sites/90/2021/12/rocket-league-screenshot-7.jpg?resize=1024,576",
+            "img2" : "https://ftw.usatoday.com/wp-content/uploads/sites/90/2021/12/rocket-league-screenshot-7.jpg?resize=1024,576",
+            "part1" : "Tapping just one button in Rocket League can center your camera on the ball, allowing you to accurately follow it at all times. If you’re just starting out, using the ball cam is the best way to play, easily, as you can stay aware of what is happening at all times. ",
+            "part2" : "Staying on the ball (ha) isn’t so easy without the ball cam, in which case a small white arrow simply points towards the ball. As you get used to the game you may wish to swap between the two during play depending on what you want to do, but as a new player, stick with the ball cam for a while."
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "Flip for speed",
+            "img1" : "https://ftw.usatoday.com/wp-content/uploads/sites/90/2021/12/rocket-league-screenshot-4.jpg?resize=1024,576",
+            "img2" : "https://ftw.usatoday.com/wp-content/uploads/sites/90/2021/12/rocket-league-screenshot-4.jpg?resize=1024,576",
+            "part1" : "When rocketing across the pitch, you can reach top speed much faster – and without using your boost – by performing a tactical flip",
+            "part2" : "Power straight ahead, hold forward, and then jump, and perform a double jump. With the right timing, you’ll flip forward into the air, propelling your speed even higher and then land with your wheels on the ground, still shooting along at the same high speed."
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "Handbrake turns",
+            "img1" : "https://ftw.usatoday.com/wp-content/uploads/sites/90/2021/12/rocket-league-screenshot-5.jpg?resize=1024,576",
+            "img2" : "https://ftw.usatoday.com/wp-content/uploads/sites/90/2021/12/rocket-league-screenshot-5.jpg?resize=1024,576",
+            "part1" : "The handbrake is very useful for quick, tactical turns. You can fake out enemy drivers, or reposition for a quick pass very easily",
+            "part2" : "It’s tempting to just slam the ball against the wall, or shoot straight for the goal, speeding around the pitch in circles – but the fact is, tight movement will win most games. This is the kind of subtle control tweak that will make you a better player quickly."
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "Get a team",
+            "img1" : "https://ftw.usatoday.com/wp-content/uploads/sites/90/2021/12/rocket-league-screenshot-11.jpg?resize=1024,576",
+            "img2" : "https://ftw.usatoday.com/wp-content/uploads/sites/90/2021/12/rocket-league-screenshot-11.jpg?resize=1024,576",
+            "part1" : "Playing 1v1, against bots and with random teams online is definitely one way to improve, but if you want to feel good about racking up wins, you’ll be in a better position if you have a team before you go online",
+            "part2" : "Rocket League is free to play and crossplay, meaning you can pressure your friends to play with you regardless of what platform they’re playing on. Train them up with these tips and you’ll soon be winning matches against others online."
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "Wall crawling",
+            "img1" : "https://ftw.usatoday.com/wp-content/uploads/sites/90/2021/12/rocket-league-screenshot-9.jpg?resize=1024,576",
+            "img2" : "https://ftw.usatoday.com/wp-content/uploads/sites/90/2021/12/rocket-league-screenshot-9.jpg?resize=1024,576",
+            "part1" : "You can just drive straight onto the walls in Rocket League, which you will learn very quickly – but using them properly is another thing entirely",
+            "part2" : "Driving up the wall in an attempt to poke at the ball is one method, sure, but you can be far more intentional. You can even drive on the ceiling for a short period of time, allowing you to dive-bomb onto the pitch – and hopefully, slam the ball into the goal."
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "Extra game modes",
+            "img1" : "https://ftw.usatoday.com/wp-content/uploads/sites/90/2021/12/rocket-league-screenshot-2.jpg?resize=1024,576",
+            "img2" : "https://ftw.usatoday.com/wp-content/uploads/sites/90/2021/12/rocket-league-screenshot-2.jpg?resize=1024,576",
+            "part1" : "Rocket League‘s base game mode is the soccer variation we’ve all come to know and love, but it’s far from the only game mode you can play",
+            "part2" : "There are dozens of game modes available to play, from limited-time event modes to custom game modes. There is also a small selection of other game types. Sick of soccer? Try ice hockey or basketball. The variations on ball physics and goals change the way you have to play the game, forcing you to adapt. This is an important skill to have in any game."
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "Stay in goal",
+            "img1" : "https://ftw.usatoday.com/wp-content/uploads/sites/90/2021/12/rocket-league-screenshot-3.jpg?resize=1024,576",
+            "img2" : "https://ftw.usatoday.com/wp-content/uploads/sites/90/2021/12/rocket-league-screenshot-3.jpg?resize=1024,576",
+            "part1" : "If in doubt, stay in goal. If you’re not confident passing the ball or chasing after opponents, you can help just as well by anticipating the ball and punting it out of the goal area whenever possible",
+            "part2" : "This is hardly an intense role to play, but that doesn’t mean it’s not important. If another player on your team wants to play goalie, you can get some practice in with ball control instead. You can play Rocket League however you like – don’t feel pressured to be competitive."
+  
         }
       ]
 }
