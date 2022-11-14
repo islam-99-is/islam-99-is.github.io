@@ -66,13 +66,13 @@
             "bg" : "#2196F3"
         },
         {
-            "active" : "true",
+            "active" : "false",
             "name" : "rate",
             "ico" : "https://img.icons8.com/ios/130/ffffff/star--v1.png",
             "bg" : "#3F51B5"
         },
         {
-            "active" : "true",
+            "active" : "false",
             "name" : "gdpr",
             "ico" : "https://img.icons8.com/ios/130/ffffff/gdpr.png",
             "bg" : "#673AB7"
