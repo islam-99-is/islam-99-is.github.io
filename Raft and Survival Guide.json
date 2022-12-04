@@ -125,130 +125,74 @@
     
     "data" : [
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "Raft beginner’s guide, tips, and tricks",
+            "img1" : "https://cdn.vox-cdn.com/thumbor/nlXW8HKVQokpE4V-w0lqxDtR5z4=/0x0:1920x1080/920x613/filters:focal(807x387:1113x693):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/71004398/ss_c22b2ff5ba5609f74e61b5feaa5b7a1d7fd1dbd3.1920x1080.0.jpg",
+            "img2" : "https://cdn.vox-cdn.com/thumbor/nlXW8HKVQokpE4V-w0lqxDtR5z4=/0x0:1920x1080/920x613/filters:focal(807x387:1113x693):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/71004398/ss_c22b2ff5ba5609f74e61b5feaa5b7a1d7fd1dbd3.1920x1080.0.jpg",
+            "part1" : "Raft was just released out of early access, and as with most open-world survival games, it can be daunting to start. To help aid you on your journey, we’ve compiled some tips that we wish we knew when starting out on our tiny plank raft",
+            "part2" : " Our Raft beginner’s guide lists out tips and tricks that both new and old players may not know."
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "TAKE YOUR TIME TO BUILD YOUR RAFT AND GET MATERIALS",
+            "img1" : "https://oyster.ignimgs.com/mediawiki/apis.ign.com/raft/b/b0/Raft_-_Building_a_Raft.png?width=1280",
+            "img2" : "https://oyster.ignimgs.com/mediawiki/apis.ign.com/raft/b/b0/Raft_-_Building_a_Raft.png?width=1280",
+            "part1" : "There’s no need to rush through the story. Take your time to make the materials you need, expand your raft",
+            "part2" : "and turn it into a home. You’ll need to sail around to find basic building materials (planks, plastic, and palm leaves), so don’t worry if you need to explore more before hitting up any of the story islands."
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "REMEMBER TO GIVE ITEMS TO YOUR RESEARCH TABLE",
+            "img1" : "https://i.ytimg.com/vi/5sTVnSe3qY8/maxresdefault.jpg",
+            "img2" : "https://i.ytimg.com/vi/5sTVnSe3qY8/maxresdefault.jpg",
+            "part1" : "You need to feed one of each material to the Research Table to learn new recipes using said material",
+            "part2" : " It can be easy to forget to do this, so make sure you’re using the table as you explore new environments."
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "SEEK MATERIALS UNDERWATER AT ISLANDS",
+            "img1" : "https://cdn.vox-cdn.com/thumbor/_4AV_RNwvp83EPCSB1PaTAP10Hg=/0x0:1920x1080/920x0/filters:focal(0x0:1920x1080):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/23644443/ss_189ac1fa4505a10365bcf9c0c3ba61e7a618ae0f.1920x1080.jpg",
+            "img2" : "https://cdn.vox-cdn.com/thumbor/_4AV_RNwvp83EPCSB1PaTAP10Hg=/0x0:1920x1080/920x0/filters:focal(0x0:1920x1080):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/23644443/ss_189ac1fa4505a10365bcf9c0c3ba61e7a618ae0f.1920x1080.jpg",
+            "part1" : "Material like seaweed and scrap can be found underwater in reefs around random islands",
+            "part2" : "You’ll want to swim down to collect these must-have materials, so you’ll want to explore underwater just as much as you explore the land."
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "TAKE ADVANTAGE OF SHARK BAIT",
+            "img1" : "https://img.youtube.com/vi/BQIRQGiYUlM/sddefault.jpg",
+            "img2" : "https://img.youtube.com/vi/BQIRQGiYUlM/sddefault.jpg",
+            "part1" : "That being said, the shark that stalks your raft will attack you when it spots you underwater. You can kite the shark with a spear, but you can also use Shark Bait to take it down easily",
+            "part2" : "The shark will bite the bait, allowing you to get a free hit on it before it swims off. It will return until the bait is eaten, so you should be able to defeat the shark before the bait is gone.Once the shark is dead, you can harvest it for meat and swim around freely... until the shark respawns."
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "DON’T STAY AT RANDOM ISLANDS FOR TOO LONG",
+            "img1" : "https://gamernetwork.bbvms.com/mediaclip/4848985/pthumbnail/688/388.jpg",
+            "img2" : "https://gamernetwork.bbvms.com/mediaclip/4848985/pthumbnail/688/388.jpg",
+            "part1" : "Early on, it may be tempting to stay awhile at a random island, but you will need more planks and plastic to maintain your tools and fuel",
+            "part2" : "If you run out of clean water or cooked food, you’ll eventually die of starvation or dehydration, so you should set sail for more materials way before that happens."
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "KEEP FOOD AND DRINK ON YOU WHILE EXPLORING",
+            "img1" : "https://xboxplay.games/uploadStream/18674.jpg",
+            "img2" : "https://xboxplay.games/uploadStream/18674.jpg",
+            "part1" : "When exploring the larger story islands, make sure to bring food and drink with you. Some later islands have cooked food tucked away inside to help tide you over",
+            "part2" : "but there’s no reliable source of food and water. You won’t want to end your trip early just to trek back to the ship for food, so keep it on you."
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "FISHING IS THE KEY TO HAVING TONS OF FOOD",
+            "img1" : "https://cdn.vox-cdn.com/thumbor/dEhTI4LPZyKhjRi2xTgrTXLg1JQ=/0x0:1920x1080/920x0/filters:focal(0x0:1920x1080):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/23644448/ss_c885b2df8492951552fe4ef00ca23a81321f0bb3.1920x1080.jpg",
+            "img2" : "https://cdn.vox-cdn.com/thumbor/dEhTI4LPZyKhjRi2xTgrTXLg1JQ=/0x0:1920x1080/920x0/filters:focal(0x0:1920x1080):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/23644448/ss_c885b2df8492951552fe4ef00ca23a81321f0bb3.1920x1080.jpg",
+            "part1" : "Build a fishing rod as soon as possible, as fishing is a free source of tons of food. Slap",
+            "part2" : "any fish on the grill and you’ll be set for a long time. You’ll also need specific fish to make Shark Bait."
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "PUT YOUR PLANTERS INDOORS TO AVOID SEAGULLS",
+            "img1" : "https://gameriv.com/wp-content/uploads/2022/06/maxresdefault_11zon.jpg",
+            "img2" : "https://gameriv.com/wp-content/uploads/2022/06/maxresdefault_11zon.jpg",
+            "part1" : "Evil seagulls will eat your crops unless they’re planted inside or you have a scarecrow nearby. Scarecrows don’t keep the birds away and only bait them away for a little while before they break",
+            "part2" : " If your raft ends up too big or you’re not good at keeping tabs on those sea rats, just place your planters inside to avoid them altogether."
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "USE THE SCROLL WHEEL TO SELECT SPECIFIC AMOUNTS OF ITEMS FROM STACKS",
+            "img1" : "https://asset.vg247.com/Raft-Art-1_Chr7QSp.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/Raft-Art-1_Chr7QSp.jpg",
+            "img2" : "https://asset.vg247.com/Raft-Art-1_Chr7QSp.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/Raft-Art-1_Chr7QSp.jpg",
+            "part1" : "Though this is less of a gameplay tip and more of a quality-of-life tip, if you love proper organization,",
+            "part2" : "know that you don’t have to only take things out of the storage one-by-one or in their entirety. Using the scroll wheel, you can select the exact amount of materials to take out."
         }
       ]
 }
