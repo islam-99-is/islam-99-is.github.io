@@ -125,130 +125,81 @@
     
     "data" : [
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "What is APKPure?",
+            "img1" : "https://www.ecomsay.com/wp-content/uploads/2022/03/Is-APKPure-Safe.png",
+            "img2" : "https://www.ecomsay.com/wp-content/uploads/2022/03/Is-APKPure-Safe.png",
+            "part1" : "APKPure is a website where you can download open-source APK (Android application) files, apps, and games to run on Android devices, including phones, computers, and smartwatches. Apps available on APKPure are not vetted like those on Google Play, so you can find restricted or discontinued Android apps and files.",
+            "part2" : "Launched in 2014, APKPure is one of the oldest and most popular alternatives to Google Play, despite ongoing privacy and security concerns. APKPure hosts direct download freeware and shareware versions of Android app files in .apk and .xapk format that work on all Android-capable devices. Launched in 2014, APKPure is one of the oldest and most popular alternatives to Google Play, despite ongoing privacy and security concerns. APKPure hosts direct download freeware and shareware versions of Android app files in .apk and .xapk format that work on all Android-capable devices.Android apps can access your entire phone if you let them — and sometimes even if you don’t. Some apps can use your data or record your digital identity without your knowledge. Always encrypt your data to keep it safe, use Android app permissions smartly, and be careful which apps you download, no matter where they’re from."
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "Is APKPure Safe?",
+            "img1" : "https://signal.avg.com/hs-fs/hubfs/Blog_Content/Avg/Signal/AVG%20Signal%20Images/is_apk_pure_safe_signal/APKPure.png?width=350&name=APKPure.png",
+            "img2" : "https://signal.avg.com/hs-fs/hubfs/Blog_Content/Avg/Signal/AVG%20Signal%20Images/is_apk_pure_safe_signal/APKPure.png?width=350&name=APKPure.png",
+            "part1" : "Using APKPure — just like any unofficial app source — isn’t 100% safe and is not recommended by Google. APKPure claims to verify all apps they make available by matching each app’s digital signature to the original. But security concerns remain, and the APKPure app itself has previously been infected with malware.",
+            "part2" : "Unverified apps can be dangerous, as they can compromise your device and steal your data, so make sure your phone is secure and enhance your cybersecurity protections to stay safe. Nevertheless, despite the security threat, many APKPure fans enjoy the benefits of the service’s wide app selection, and they find the risk worth the reward."
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "Benefits of APKPure",
+            "img1" : "https://signal.avg.com/hs-fs/hubfs/Blog_Content/Avg/Signal/AVG%20Signal%20Images/is_apk_pure_safe_signal/APKPure.png?width=350&name=APKPure.png",
+            "img2" : "https://signal.avg.com/hs-fs/hubfs/Blog_Content/Avg/Signal/AVG%20Signal%20Images/is_apk_pure_safe_signal/APKPure.png?width=350&name=APKPure.png",
+            "part1" : "There are plenty of legitimate ways to use the apps and services offered by APKPure, especially if your Android device doesn’t have Google Mobile Services and can’t access the Play store. Some Android app developers and users prefer APKPure because it’s not tied to and bound by Google’s infrastructure.",
+            "part2" : "Other benefits of APKPure include the ability to download region-locked apps, access old versions of apps and games, and even get app updates sooner than you would on the Play store. But unofficial app sources like APKPure can be exploited by hackers and other cybercriminals, so wherever you download apps, follow these tips to safer browsing."
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "Bypass geo-restrictions",
+            "img1" : "https://static-sg.winudf.com/wupload/xy/aprojectadmin/6virL3Il.jpg",
+            "img2" : "https://static-sg.winudf.com/wupload/xy/aprojectadmin/6virL3Il.jpg",
+            "part1" : "APKPure lets you download apps from anywhere in the world. Some apps are region-locked for benign reasons like language preferences. Other times they may be locked because of marketability concerns, as app developers may stagger product releases to avoid market conflict. Sometimes countries themselves may censor or block apps completely due to political or other considerations.",
+            "part2" : "If you need to unblock websites or bypass geolocation restrictions, use a VPN. There are many benefits to using a VPN, especially if you live in a closed society or even if you simply want more freedom and privacy online."
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "Flexibility",
+            "img1" : "https://image.winudf.com/v2/image1/Y29tLnNlcml4b24ubWl0ZXJfc2NyZWVuXzFfMTYzNjQ3MzU1N18wNzI/screen-1.jpg?fakeurl=1&type=.webp",
+            "img2" : "https://image.winudf.com/v2/image1/Y29tLnNlcml4b24ubWl0ZXJfc2NyZWVuXzFfMTYzNjQ3MzU1N18wNzI/screen-1.jpg?fakeurl=1&type=.webp",
+            "part1" : "Android is an open-source platform, so anyone can use and develop it as they wish. But for Google to officially approve Android devices, they must be tied to the Play store through Google Mobile Services. So if a developer wants to remain independent of Google, they need access to a third-party platform such as APKPure to offer their apps and services.",
+            "part2" : "By hosting .apk and .xapk files, which APKPure claims are identical to those on the Google Play store, APKPure lets devices and developers bypass Google’s gatekeeping. This flexibility is useful for researchers and developers looking to test their services in a sandboxed environment"
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "Version history",
+            "img1" : "https://image.winudf.com/v2/image1/Y29tLnNlcml4b24ubWl0ZXJfc2NyZWVuXzBfMTYzNjQ3MzU1N18wMTU/screen-0.jpg?fakeurl=1&type=.webp",
+            "img2" : "https://image.winudf.com/v2/image1/Y29tLnNlcml4b24ubWl0ZXJfc2NyZWVuXzBfMTYzNjQ3MzU1N18wMTU/screen-0.jpg?fakeurl=1&type=.webp",
+            "part1" : "APKPure hosts both the latest and legacy versions of apps. New versions of apps can crash or appear buggy on certain devices, and app developers sometimes remove certain features that some users prefer, so the availability of previous versions is valuable. APKPure has descriptions of every app’s version history, and it lets people access the full archive.",
+            "part2" : "Apps are often updated to patch security vulnerabilities, so using older versions of apps may be risky. Sometimes apps also update and roll back privacy features due to policy changes or when an app’s popularity makes developers hungry for more data. Check out the best privacy apps for Android to see who you can trust."
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "Get updates faster",
+            "img1" : "https://alrabh.com/wp-content/uploads/2022/07/تحميل-برنامج-1.png",
+            "img2" : "https://alrabh.com/wp-content/uploads/2022/07/تحميل-برنامج-1.png",
+            "part1" : "Android app updates typically go through the Google Play store’s quality control before they’re released, which can take a while. On APKPure, these updates can be available without any delay.",
+            "part2" : "But by bypassing Google’s vetting process, updated apps downloaded on APKPure may be vulnerable to attack, like that seen in the Android webview exploit."
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "Issues with APKPure",
+            "img1" : "https://sg-res.9appsdownloading.com/sg/res/jpg/bb/87/222d3074b94337605e408c7056e4-t1v.jpg?x-oss-process=style/hq",
+            "img2" : "https://sg-res.9appsdownloading.com/sg/res/jpg/bb/87/222d3074b94337605e408c7056e4-t1v.jpg?x-oss-process=style/hq",
+            "part1" : "The same features that make APKPure attractive also open it up to a host of security issues. Besides the potential to break local laws",
+            "part2" : "or for children to download age-inappropriate apps, apps that aren’t vetted by Google can come packed with spyware — including spyware that works even when your phone is turned off."
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "Age restrictions",
+            "img1" : "https://sg-res.9appsdownloading.com/sg/res/jpg/bb/87/222d3074b94337605e408c7056e4-t1v.jpg?x-oss-process=style/hq",
+            "img2" : "https://sg-res.9appsdownloading.com/sg/res/jpg/bb/87/222d3074b94337605e408c7056e4-t1v.jpg?x-oss-process=style/hq",
+            "part1" : "Some apps come with age restrictions for inappropriate content, or due to laws in certain countries. But on APKPure, anyone can download and use age-restricted apps. Obviously, if you want to make sure the apps your kids download are safe, don’t let them use APKPure.",
+            "part2" : "Some apps engage in online tracking to target users with ads specifically engineered to command their attention — children can be particularly susceptible to this kind of targeted advertising. Apps with trackers may not get past Google’s filter, but you can still find them on APKPure. There are many risks online, so monitor your child’s app use and learn more about how to keep your children safe online."
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "App restrictions",
+            "img1" : "https://sg-res.9appsdownloading.com/sg/res/jpg/bb/87/222d3074b94337605e408c7056e4-t1v.jpg?x-oss-process=style/hq",
+            "img2" : "https://sg-res.9appsdownloading.com/sg/res/jpg/bb/87/222d3074b94337605e408c7056e4-t1v.jpg?x-oss-process=style/hq",
+            "part1" : "Sometimes, Google blocks apps from the Play store because of security concerns. Then, these rejected apps often find their way onto APKPure. Google Play Protect can detect malicious behavior in Android apps, but if you download from APKPure you’re on your own. The app might be perfectly safe — even if it’s not up to Google’s standards — but it could also be riddled with security risks.",
+            "part2" : "APK malware can steal all the information on your phone and cause major performance issues. See how to remove spyware from Android if you think you downloaded a shady app. And if you think your device has a malware infection, remove the virus from your phone immediately."
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "APKPure malware risk?",
+            "img1" : "https://sg-res.9appsdownloading.com/sg/res/jpg/bb/87/222d3074b94337605e408c7056e4-t1v.jpg?x-oss-process=style/hq",
+            "img2" : "https://sg-res.9appsdownloading.com/sg/res/jpg/bb/87/222d3074b94337605e408c7056e4-t1v.jpg?x-oss-process=style/hq",
+            "part1" : "Another APKPure virus could happen at any time, because the APKPure service doesn’t have the robust security offered by official app stores like Google Play. Unforeseen mishaps are among the many reasons you should use an adblocker. APK apps make good hiding spots for adware, because most people assume apps have gone through proper protocols before they’re released to the public.",
+            "part2" : "So, is APKPure safe? It depends. It’s not as safe as using an official app store, but no site is completely immune to malware and other cyberthreats. That’s why using the best antivirus software, such as AVG Antivirus for Android, is so important."
         }
       ]
 }
