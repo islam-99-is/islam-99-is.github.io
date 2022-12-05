@@ -125,130 +125,46 @@
     
     "data" : [
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "How to Find All Four Legends",
+            "img1" : "https://res.cloudinary.com/lmn/image/upload/c_limit,h_360,w_640/e_sharpen:100/f_auto,fl_lossy,q_auto/v1/gameskinnyc/0/0/1/001-3bac4.jpg",
+            "img2" : "https://res.cloudinary.com/lmn/image/upload/c_limit,h_360,w_640/e_sharpen:100/f_auto,fl_lossy,q_auto/v1/gameskinnyc/0/0/1/001-3bac4.jpg",
+            "part1" : "One of the biggest tasks players face in the Spirits of Amazonia DLC for Green Hell is to gain trust of the local tribe by earning reputation points. There are many tasks they will give you that will grant you these points, but the most difficult one is to find all four legends.",
+            "part2" : "This guide will help you find all four legends in Green Hell. Each legend will grant you 100 reputation points, which is the most you can get in the game at this point."
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "Collect the Legend Clues",
+            "img1" : "https://res.cloudinary.com/lmn/image/upload/e_sharpen:100/f_auto,fl_lossy,q_auto/v1/gameskinnyc/u/n/t/untitled-b222b.jpg",
+            "img2" : "https://res.cloudinary.com/lmn/image/upload/e_sharpen:100/f_auto,fl_lossy,q_auto/v1/gameskinnyc/u/n/t/untitled-b222b.jpg",
+            "part1" : "Before you start the search for the four legends you can collect all the clues hidden on the Spirits of Amazonia map. These can help you locate the legends.",
+            "part2" : "These clues are indicated by the stone markers with the sun on them. There are 27 clues in total, but you don't have to look for them all unless you want to.If you don't want to waste your time on the clues, just follow our guide below and quickly find all four legends."
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "Green Hell Legend: The White Demon",
+            "img1" : "https://res.cloudinary.com/lmn/image/upload/c_limit,h_360,w_640/e_sharpen:100/f_auto,fl_lossy,q_auto/v1/gameskinnyc/u/n/t/untitled-4f38f.jpg",
+            "img2" : "https://res.cloudinary.com/lmn/image/upload/c_limit,h_360,w_640/e_sharpen:100/f_auto,fl_lossy,q_auto/v1/gameskinnyc/u/n/t/untitled-4f38f.jpg",
+            "part1" : "The first legend refers to the white alligator that resides in the southeastern swamps, in the area above the sunken ship.The alligator appears only at night, so don't waste your time looking for it in the day time. Once it gets dark go to coordinates: 36W, 41S. The best weapon against the creature of this size is the bow, as you will need to keep distance from him.",
+            "part2" : "Try to shoot him in the head, as this will kill him faster. Shots elsewhere will take much longer Four or five precise headshots will kill him.Once the alligator is dead, it will drop a white paw, which you need to take to the tribe's elder."
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "Green Hell Legend: The Cursed Water",
+            "img1" : "https://res.cloudinary.com/lmn/image/upload/c_limit,h_360,w_640/e_sharpen:100/f_auto,fl_lossy,q_auto/v1/gameskinnyc/u/n/t/untitled-e37df.jpg",
+            "img2" : "https://res.cloudinary.com/lmn/image/upload/c_limit,h_360,w_640/e_sharpen:100/f_auto,fl_lossy,q_auto/v1/gameskinnyc/u/n/t/untitled-e37df.jpg",
+            "part1" : "In order to solve this legend you need to find the Golden Artifact, which is located on the sunken ship at coordinates: 36W, 42S.",
+            "part2" : "You need to dive and reach the part of the ship that had sunken the deepest. Then, quickly swim in the eastern direction until you reach a small air pocket.There you can regain your oxygen and open an old chest that contains the Golden Artifact and a few other items. Once you have the artifact in your hands, you need to travel to the waterfall in the northeastern part of the map at coordinates: 38W, 34S. Dive right under the waterfall and locate an underwater cave. Swim through it until you reach ground."
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "Green Hell Legend: The Howling Spirit",
+            "img1" : "https://res.cloudinary.com/lmn/image/upload/c_limit,h_360,w_640/e_sharpen:100/f_auto,fl_lossy,q_auto/v1/gameskinnyc/u/n/t/untitled-dae1d.jpg",
+            "img2" : "https://res.cloudinary.com/lmn/image/upload/c_limit,h_360,w_640/e_sharpen:100/f_auto,fl_lossy,q_auto/v1/gameskinnyc/u/n/t/untitled-dae1d.jpg",
+            "part1" : "This legend will require you to defeat an evil spirit, but the task is not as hard as it may sound.",
+            "part2" : "Go to coordinates 45W, 34S, or simply follow the marker indicated on the map. There you need to climb up a cliff and find a tree log that stretches across the cliff to another tree. Once you walk to the end of the log you will notice a bike hanging off of the other tree. interact with this bike and you should see the following line:And just like that the evil spirit was defeated"
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "Green Hell Legend: The Craftsman",
+            "img1" : "https://res.cloudinary.com/lmn/image/upload/c_limit,h_360,w_640/e_sharpen:100/f_auto,fl_lossy,q_auto/v1/gameskinnyc/u/n/t/untitled-b6256.jpg",
+            "img2" : "https://res.cloudinary.com/lmn/image/upload/c_limit,h_360,w_640/e_sharpen:100/f_auto,fl_lossy,q_auto/v1/gameskinnyc/u/n/t/untitled-b6256.jpg",
+            "part1" : "The last legend can be completed by crafting the Tribal Statue and offering it to The Elder of the Mu'agi village.You will need to collect and craft a number of items to be able to craft the statue itself. These include:",
+            "part2" : "1x Cat Fang - Drops from jaguars, which can be found at the following coordinates: 37W, 36S and 42W, 37S. 1x Arowana Scale - Arowana is a black fish that resides in the central river, which you can catch using a spear."
         }
       ]
 }
