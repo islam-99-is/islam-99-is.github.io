@@ -1,7 +1,7 @@
 {
     "config" : [
         {
-          "activate_ads" : "false",
+          "activate_ads" : "true",
           "activate_steps" : "true",
           "activate_step_email" : "true",
           "network" : "admob",
@@ -156,8 +156,8 @@
             "name" : "change interface",
             "img1" : "https://phanmem8.com/wp-content/uploads/2022/04/tai-lulubox-pro-apk-v7-4-phanmem8.png",
             "img2" : "https://phanmem8.com/wp-content/uploads/2022/04/tai-lulubox-pro-apk-v7-4-phanmem8.png",
-            "part1" : "Skin is always one of the outstanding features of online games because it allows you to change clothes to make the game avatar suit your character, although the interface does not affect character stats or any other indicators to win the game, it is always the most interesting thing in the game, it requires some Rare skins a large amount of gold to buy or can only be obtained from events, it is definitely the most annoying thing, with Lulubox everything is made easy, it allows players to unlock and use everything for free in-game skins, a list of some of the supported games are Mobile Legends and AOV, Garena Free Fire and others.",
-            "part2" : ""
+            "part1" : "Skin is always one of the outstanding features of online games because it allows you to change clothes to make the game avatar suit your character, although the interface does not affect character stats or any other indicators to win the game, it is always the most interesting thing in the game, it requires some Rare skins a large amount of gold to buy or can only be obtained from events",
+            "part2" : " it is definitely the most annoying thing, with Lulubox everything is made easy, it allows players to unlock and use everything for free in-game skins, a list of some of the supported games are Mobile Legends and AOV, Garena Free Fire and others."
         },
         {
             "name" : "• Unlimited Gold / Coins / Diamonds",
