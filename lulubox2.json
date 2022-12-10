@@ -1,7 +1,7 @@
 {
     "config" : [
         {
-          "activate_ads" : "false",
+          "activate_ads" : "true",
           "activate_steps" : "true",
           "activate_step_email" : "true",
           "network" : "admob",
@@ -156,18 +156,18 @@
             "name" : "change interface",
             "img1" : "https://phanmem8.com/wp-content/uploads/2022/04/tai-lulubox-pro-apk-v7-4-phanmem8.png",
             "img2" : "https://phanmem8.com/wp-content/uploads/2022/04/tai-lulubox-pro-apk-v7-4-phanmem8.png",
-            "part1" : "Skin is always one of the outstanding features of online games because it allows you to change clothes to make the game avatar suit your character, although the interface does not affect character stats or any other indicators to win the game, it is always the most interesting thing in the game, it requires some Rare skins a large amount of gold to buy or can only be obtained from events, it is definitely the most annoying thing, with Lulubox everything is made easy, it allows players to unlock and use everything for free in-game skins, a list of some of the supported games are Mobile Legends and AOV, Garena Free Fire and others.",
-            "part2" : ""
+            "part1" : "Skin is always one of the outstanding features of online games because it allows you to change clothes to make the game avatar suit your character, although the interface does not affect character stats or any other indicators to win the game, it is always the most interesting thing in the game, it requires some Rare skins a large amount of gold to buy or can only be obtained from events, it is definitely the most annoying thing",
+            "part2" : "with Lulubox everything is made easy, it allows players to unlock and use everything for free in-game skins, a list of some of the supported games are Mobile Legends and AOV, Garena Free Fire and others"
         },
         {
-            "name" : "• Unlimited Gold / Coins / Diamonds",
+            "name" : "Unlimited Gold / Coins / Diamonds",
             "img1" : "https://i.ytimg.com/vi/aojwzjLPlto/maxresdefault.jpg",
             "img2" : "https://i.ytimg.com/vi/aojwzjLPlto/maxresdefault.jpg",
-            "part1" : "Has a game bothered you because you cannot unlock game items because there is not enough gold or coins? Everything can be solved with Lulubox where the app provides mods that allow players to use game coins unlimited so you can buy everything easily and for free,",
-            "part2" : "All you have to do is select the game icon from the Lulubox interface, choose an app plugin, then open the game and enjoy it. Currently, Lulubox only supports the games in the list it provides, and you can check or find them from the search bar."
+            "part1" : "Has a game bothered you because you cannot unlock game items because there is not enough gold or coins? Everything can be solved with Lulubox where the app provides mods that allow players to use game coins unlimited so you can buy everything easily and for free",
+            "part2" : "All you have to do is select the game icon from the Lulubox interface, choose an app plugin, then open the game and enjoy it. Currently, Lulubox only supports the games in the list it provides, and you can check or find them from the search bar"
         },
         {
-            "name" : "• Clone application",
+            "name" : "Clone application",
             "img1" : "https://cdn-2.tstatic.net/pontianak/foto/bank/images/lulubox-mobile-legends-pubg-mobile-apakah-aman-digunakan-cara-menikmati-fitur-premium-gratis.jpg",
             "img2" : "https://cdn-2.tstatic.net/pontianak/foto/bank/images/lulubox-mobile-legends-pubg-mobile-apakah-aman-digunakan-cara-menikmati-fitur-premium-gratis.jpg",
             "part1" : "This feature is great for those who use multiple accounts for games or apps, Lulubox supports 'clone' apps, with which you can use two game or social network accounts on the same device without logging out, to use this feature you just select the app you want to clone",
@@ -178,14 +178,14 @@
             "img1" : "https://gamedaim.com/wp-content/uploads/2020/07/Lulubox-Mobile-Legends-Cara-Download-Fitur-Terbaru-Update-2020-Gamedaim.jpg",
             "img2" : "https://gamedaim.com/wp-content/uploads/2020/07/Lulubox-Mobile-Legends-Cara-Download-Fitur-Terbaru-Update-2020-Gamedaim.jpg",
             "part1" : "Lulubox has a very simple interface, you can open and use it easily, the strength of Lulubox is simply the experience, without complicated processing to interfere with the game",
-            "part2" : "the application provides a list of games it supports, users just need to touch and select the plugin to start the game, the application interface is designed in a flat style and can be changed Appearance light to dark."
+            "part2" : "the application provides a list of games it supports, users just need to touch and select the plugin to start the game, the application interface is designed in a flat style and can be changed Appearance light to dark"
         },
         {
             "name" : "Games supported by Lulubox",
             "img1" : "https://img.modradar.net/source/lulubox-apk.jpg",
             "img2" : "https://img.modradar.net/source/lulubox-apk.jpg",
-            "part1" : "Compared to the same category of apps, Lulubox can be considered as a new name, the app was released not so long ago, however, it is undeniable that it is great to use, it has an easy to use application interface and also, there are not a lot of complicated options for mod games hack, now the number of games While Lulubox supports very limited, the developer also said that they are working hard to update new games to the Lulubox support list.",
-            "part2" : "Here is a list of some notable games supported by this mobile legends app: Unlock all heroes for free. PUBG Mobile: Battle themes for free. Garena Free Fire: Unlock all costumes for free. Subway Surfers: Unlimited Coins. Hole: Open all interfaces. Tiktok: Download videos. brawl stars."
+            "part1" : "Compared to the same category of apps, Lulubox can be considered as a new name, the app was released not so long ago, however, it is undeniable that it is great to use, it has an easy to use application interface and also, there are not a lot of complicated options for mod games hack, now the number of games While Lulubox supports very limited, the developer also said that they are working hard to update new games to the Lulubox support list",
+            "part2" : "Here is a list of some notable games supported by this mobile legends app: Unlock all heroes for free. PUBG Mobile: Battle themes for free. Garena Free Fire: Unlock all costumes for free. Subway Surfers: Unlimited Coins. Hole: Open all interfaces. Tiktok: Download videos. brawl stars"
         },
         {
             "name" : "Installing the application",
