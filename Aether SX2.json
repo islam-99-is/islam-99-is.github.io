@@ -5,9 +5,9 @@
           "activate_steps" : "false",
           "activate_step_email" : "false",
           "network" : "admob",
-          "admob_ban" : "ca-app-pub-3940256099942544/6300978111",
-          "admob_native" : "ca-app-pub-3940256099942544/2247696110",
-          "admob_int" : "ca-app-pub-3940256099942544/1033173712",
+          "admob_ban" : "ca-app-pub-7467116021377002/1012282507",
+          "admob_native" : "ca-app-pub-7467116021377002/7386119166",
+          "admob_int" : "ca-app-pub-7467116021377002/1175934033",
           "yandex_banner" : "R-M-1820435-1",
           "yandex_native" : "R-M-1820435-2",
           "yandex_int" : "R-M-1820435-3",
@@ -125,130 +125,74 @@
     
     "data" : [
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "What you need to know about the best PS2 emulator for Android",
+            "img1" : "https://i.imgur.com/Fw7GsAH.jpeg",
+            "img2" : "https://www.androidauthority.com/wp-content/uploads/2022/01/AetherSX2-on-Play-Store-840w-472h.jpg.webp",
+            "part1" : "Android is a fantastic platform for emulation, as everything from Atari and the NES to PS1 and GameCube can be played on your modern smartphone. However, one of the biggest challenges in this space has been PS2 emulation, with the likes of Play and the shady DamonPS2 emulator taking a stab at the task. A new PS2 emulator landed on Android in December 2021, dubbed AetherSX2.",
+            "part2" : "You only need to try out a few games to realize that this is easily the best PS2 emulator on the platform. So what should you know about it? We’ve got you covered with our guide to the platform."
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "A brief history of AetherSX2",
+            "img1" : "https://loop.co.id/wp-content/uploads/2022/11/Aether-SX2-Apk-Mod-Download-Terbaru-Emulator-Android.jpg",
+            "img2" : "https://pbs.twimg.com/ext_tw_video_thumb/1468233646637293574/pu/img/4HQ4ifmC8floXO6O.jpg",
+            "part1" : "AetherSX2 is the brainchild of one person, a developer who goes by the handle Tahlreth. The developer actually used the PCSX2 emulator as the basis for their Android-based emulator. PCSX2 is a long-running, well-established emulator on PC, so it makes sense to take advantage of the work that has gone into this program.",
+            "part2" : "The developer of AetherSX2 got the green light to use the PCSX2 code from the developers themselves and is licensed under the LGPL license — unlike the DamonPS2 developers, who stole the code and didn’t follow the requisite license."
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "What are the AetherSX2 requirements?",
+            "img1" : "https://www.androidauthority.com/wp-content/uploads/2022/01/AetherSX2-emulator-edit-840w-472h.jpg.webp",
+            "img2" : "https://www.androidauthority.com/wp-content/uploads/2022/01/AetherSX2-emulator-edit-840w-472h.jpg.webp",
+            "part1" : "In terms of the GPU, the developer says Adreno graphics offers better performance than Mali or PowerVR GPUs found in Mediatek, HiSilicon, and older Samsung Exynos processors. However, the creator adds that you should stick to the Vulkan graphics renderer option if you’ve got a phone powered by a Mali GPU (e.g., Exynos, Kirin, or Mediatek processor), as it’s generally faster than OpenGL. However, some games might perform better with OpenGL.",
+            "part2" : "Don’t fear if you’ve got a mid-range phone, though, as performance varies from game to game. So graphically advanced 3D titles might not work on your budget device, but 2D titles might work just fine. In fact, some users report that phones with budget silicon, like the Snapdragon 665, Snapdragon 720G, Exynos 9611, and Helio G80 run some games fine — although you might need to tweak a few settings to get playable results."
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "Setting up AetherSX2",
+            "img1" : "https://www.androidauthority.com/wp-content/uploads/2021/12/AetherSX2-screenshot-2021-840w-472h.jpg.webp",
+            "img2" : "https://www.androidauthority.com/wp-content/uploads/2021/12/AetherSX2-screenshot-2021-840w-472h.jpg.webp",
+            "part1" : "Got a decently powerful phone and downloaded the app? Before you can get playing, you’ll need two things. That would be a PS2 BIOS (the firmware that came with the original console) and PS2 ROMs or ISOs. We’re not linking you to either for legal reasons, but Google is your friend. Just remember that you’ll need to own the games you’re downloading, from a legal perspective.",
+            "part2" : "AetherSX2 has a setup wizard to get things going, allowing you to set different compatibility profiles (“optimal/safe” if you have a mid-range or high-end device, “fast/unsafe” if you need a speed boost at the expense of stability), select the downloaded BIOS to use, and choose the directory containing your downloaded PS2 ROMs/ISOs.You can also navigate to the Three-line menu button > App Settings > BIOS to add the BIOS this way. Forgot to add your directory of games during the setup wizard? Then you can get this done via the Three-line menu button > App Settings > Game List > Plus icon.You’re free to use the touchscreen controls for AetherSX2, but the app also supports gamepads (e.g., Bluetooth and USB-C). We recommend a physical controller for faster-paced titles like action games, racing, and platformers. You can check out our list of the best Bluetooth controllers, but I’ve used the Razer Kishi USB-C gamepad for a battery-free experience."
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "What about real-world AetherSX2 performance?",
+            "img1" : "https://www.androidauthority.com/wp-content/uploads/2022/01/AetherSX2-with-gamepad-controller-840w-472h.jpg.webp",
+            "img2" : "https://www.androidauthority.com/wp-content/uploads/2022/01/AetherSX2-with-gamepad-controller-840w-472h.jpg.webp",
+            "part1" : "I’ve tested the emulator on the Snapdragon 8 Gen 1-powered Vivo X80 Pro, Vivo X70 Pro Plus (Snapdragon 888 Plus), the Xiaomi Mi 9T Pro (Snapdragon 855), and the Dimensity 810-equipped Poco M4 Pro. Tested titles include Ace Combat 5: Squadron Leader, Burnout 3: Takedown, Fire Pro Wrestling Returns, Gran Turismo 4, Marvel vs Capcom 2, Shadow of the Colossus, The Simpsons Hit and Run, and WWE Smackdown: Here Comes The Pain.",
+            "part2" : "The two most recent flagship phones ran all of these games at a very playable pace. Meanwhile, Xiaomi’s older flagship ran most of these games just fine, but Burnout 3 was an unplayable, slow-mo affair out of the box."
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "Tips and tricks for a better experience",
+            "img1" : "https://assets.jalantikus.com/assets/cache/0/400/tips/2021/12/06/aether-sx2-apk-febd3.jpg.webp",
+            "img2" : "https://assets.jalantikus.com/assets/cache/0/400/tips/2021/12/06/aether-sx2-apk-febd3.jpg.webp",
+            "part1" : "Being an advanced PS2 emulator, AetherSX2 can be a major challenge for smartphones. It doesn’t help that hundreds of phone models and dozens of processors are out there. Fortunately, the developer includes several features and offers plenty of tips.",
+            "part2" : "Try changing the graphics renderer from OpenGL to Vulkan, for one. The Vulkan API generally delivers a fast experience but might not deliver the best experience for all games. This leads to our next tip. In case you didn’t know, you can tap and hold on a game listing to adjust settings only for that title. This is handy if you’ve got one game that requires plenty of tweaks, while the rest of your library works just fine with minimal changes. The developer also recommends that those with slower phones try underclocking the emulated console’s CPU. This can be accomplished by visiting the Three-line Menu button > App Settings > System, then choosing the EE Cycle Rate (Underclocking) and EE Cycle Skip (Underclocking option) fields. The EE Cycle Rate should be changed to a negative number, while the Cycle Skip should be set at a positive number. Another handy tip from the horse’s mouth is to enable the Multi-Threaded VU1 option (found in the Three-line menu button > App Settings > System). This can also bring a significant speed boost but requires at least three big CPU cores. Enabling this on a phone with only two big cores could result in slower speeds."
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "How to download AetherSX2",
+            "img1" : "https://bungdus.com/wp-content/uploads/2021/12/Aether-SX2-Apk.jpg",
+            "img2" : "https://bungdus.com/wp-content/uploads/2021/12/Aether-SX2-Apk.jpg",
+            "part1" : "AetherSX2 is currently in a public alpha phase, meaning that while it's not available freely on the Google Play Store, it's not hard to test it out. Simply sign up for the alpha while logged into your Google account, or navigate to the Google Play Store listing for the app and enroll in the alpha from there.",
+            "part2" : "Given the alternatives for PlayStation 2 emulation in the past, AetherSX2 is a fantastic step forward. Its support from the PCSX2 developers also goes a long way, and we're looking forward to seeing how the emulator grows and matures in the future. I'm personally excited to see how the new Qualcomm Snapdragon 8 Gen 1 will fare. Be sure to give it a try and let us know what you think in the comments!"
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "AetherSX2 new update",
+            "img1" : "https://www.droidgamers.com/wp-content/uploads/2022/07/best-Android-ps2-emulator-1024x576.jpg",
+            "img2" : "https://www.droidgamers.com/wp-content/uploads/2022/07/best-Android-ps2-emulator-1024x576.jpg",
+            "part1" : "In the latest build of the PlayStation 2 emulator, users have noticed new options to improve performance in games. Unlike previous builds, the latest version of AetherSX2 options for more gradual resolution options. ",
+            "part2" : "To explain, in previous versions of the emulator, you could only set full increases in resolution. This means that resolution differences were simply: 1x, 2x, 3x, 4x and 5x. But no longer. In the latest update, you’ll now be able to choose from more resolution options. For example, you’ll now be able to slightly boost resolution to 1.5x instead of all the way up to 2x. This granular resolution feature has been positively received by the committee. But why is this feature so important to the current state of PS2 emulation? "
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "THE WEATHER IS GOING TO BE GREAT.",
+            "img1" : "https://i.imgur.com/Fw7GsAH.jpeg",
+            "img2" : "https://i.imgur.com/Fw7GsAH.jpeg",
+            "part1" : "In addition to the complaining about greedy, moany fans, Tahlreth explained that more updates are coming to AetherSX2. The emulator has been successful in early access, but development isn’t over.",
+            "part2" : "The future will be a big deal. Moreover, a lot of fixes will be coming to solve a number of problems.These issues range from games to general bugs. After all, emulator development doesn’t really finish."
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "Free, If You Don’t Mind Investing Time",
+            "img1" : "https://image.winudf.com/v2/image/b3JnLmthdGFuYS5wcHNzcHAua2lkc2dhbWVzLnBzcGdhbWVzX3NjcmVlbl8wXzE1MzM1NDI0MzJfMDY0/screen-0.jpg?fakeurl=1&type=.webp",
+            "img2" : "https://image.winudf.com/v2/image/b3JnLmthdGFuYS5wcHNzcHAua2lkc2dhbWVzLnBzcGdhbWVzX3NjcmVlbl8wXzE1MzM1NDI0MzJfMDY0/screen-0.jpg?fakeurl=1&type=.webp",
+            "part1" : "The AetherSX2 emulator is a free PlayStation 2 emulator for ARM Android devices. While developed as a hobby project with zero profit motive, it’s an impressive project with a huge number of options. ",
+            "part2" : "You can grab AetherSX2 emulator via Google Play, though keep in mind that it’s not going to work right out of the box. You’ll need to dump a BIOS from your own console. There are plenty of resources on how to get it done, but be prepared to be in for the long haul."
         }
       ]
 }
