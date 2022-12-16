@@ -2,12 +2,12 @@
     "config" : [
         {
           "activate_ads" : "true",
-          "activate_steps" : "false",
-          "activate_step_email" : "false",
+          "activate_steps" : "true",
+          "activate_step_email" : "true",
           "network" : "admob",
-          "admob_ban" : "ca-app-pub-3940256099942544/6300978111",
-          "admob_native" : "ca-app-pub-3940256099942544/2247696110",
-          "admob_int" : "ca-app-pub-3940256099942544/1033173712",
+          "admob_ban" : "ca-app-pub-7467116021377002/2071031549",
+          "admob_native" : "ca-app-pub-7467116021377002/4238293219",
+          "admob_int" : "ca-app-pub-7467116021377002/9700742578",
           "yandex_banner" : "R-M-1820435-1",
           "yandex_native" : "R-M-1820435-2",
           "yandex_int" : "R-M-1820435-3",
@@ -125,130 +125,53 @@
     
     "data" : [
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "ChatGPT Tutorial",
+            "img1" : "https://s32659.pcdn.co/wp-content/uploads/2022/12/how-to-use-ChatGPT-cover.jpg.webp",
+            "img2" : "https://s32659.pcdn.co/wp-content/uploads/2022/12/how-to-use-ChatGPT-cover.jpg.webp",
+            "part1" : "There’s a new artificial intelligence chatbot in town. ChatGPT has taken the internet by storm. People have been using it to compose music, understand complex topics, make jokes, write movie scripts, and even debug computer codes. Such is the bot’s popularity; it took only five days to score its first million users.",
+            "part2" : "So what’s all the fuss about? This detailed tutorial explains precisely how to use ChatGPT. But before we delve into the details, let’s first consider what ChatGPT is and what’s causing the huge buzz surrounding the latest AI tool."
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "What is ChatGPT?",
+            "img1" : "https://s32659.pcdn.co/wp-content/uploads/2022/12/how-to-use-ChatGPT-what-850x478.jpg.webp",
+            "img2" : "https://s32659.pcdn.co/wp-content/uploads/2022/12/how-to-use-ChatGPT-what-850x478.jpg.webp",
+            "part1" : "ChatGPT is an AI chatbot developed by OpenAI, a research firm based in San Francisco. It is a language learning model compatible with both supervised and reinforcement machine learning techniques. Unlike most other chatbots, ChatGPT relies on a vast and complex learning model. It can understand your messages’ meaning and context and generate human-like responses.",
+            "part2" : "ChatGPT is still in its early phases. The prototype was made available to the public on Nov. 30, 2022. That said, it is already showing potential as a multi-utility AI tool. As well as idea development, gameplay, scriptwriting, and more, you can also use the tool to chat about any topic of your interest. "
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "How to use ChatGPT",
+            "img1" : "https://s32659.pcdn.co/wp-content/uploads/2022/12/how-to-use-ChatGPT-how-850x478.jpg.webp",
+            "img2" : "https://s32659.pcdn.co/wp-content/uploads/2022/12/how-to-use-ChatGPT-how-850x478.jpg.webp",
+            "part1" : "To start using ChatGPT, you must be 18 or above and have an OpenAI account. The chatbot is currently available for free, and the sign-up process is relatively straightforward. Here’s how you do it:",
+            "part2" : "Step 1 Go to the OpenAI website and click on the Try ChatGPT button. You will find the Try option toward the top of the website interface."
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "Step 2",
+            "img1" : "https://lh6.googleusercontent.com/dO2oIzxEL08dbb6D4_HI3ecE7c3XK8P-McmFKJEwKnwxFy4zjlwX3KktW_Cc02JHmkmF8Q-5nMNEyYvFonTI0cCzdMKLK_ZpDAZ1d_gu8-309zGpI7lEwVuVaWlUdPdMkQYpYCgksCAfxQ-oLqb4-9e86ObPAV3FI6QEoXisLfLcRkzlOjY4GuBlKpb3LA",
+            "img2" : "https://lh6.googleusercontent.com/dO2oIzxEL08dbb6D4_HI3ecE7c3XK8P-McmFKJEwKnwxFy4zjlwX3KktW_Cc02JHmkmF8Q-5nMNEyYvFonTI0cCzdMKLK_ZpDAZ1d_gu8-309zGpI7lEwVuVaWlUdPdMkQYpYCgksCAfxQ-oLqb4-9e86ObPAV3FI6QEoXisLfLcRkzlOjY4GuBlKpb3LA",
+            "part1" : "Up next, you will be asked to log in or sign up. If you do not already have an OpenAI account, sign up using your email address",
+            "part2" : "You may also have to share your mobile number before you’re let in. "
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "Step 3",
+            "img1" : "https://lh6.googleusercontent.com/FeK9XIjwlnuYHqXgv2rCMBZ0sAGX16pPW4TCQHz-iURx_cavsqIfJgDuxtUUSopdN4O8YQVP1hlUYin5t85HYoQkR6euijdnD_91lkDq-Y8QKP-q-sRYC3r6N6mGA1Ro9oJ_81Yhktdp6IhG3fCturL4NjZ4xJciK4mHM5yiGF5djSFq68Z5xQLpz0yyZg",
+            "img2" : "https://lh6.googleusercontent.com/FeK9XIjwlnuYHqXgv2rCMBZ0sAGX16pPW4TCQHz-iURx_cavsqIfJgDuxtUUSopdN4O8YQVP1hlUYin5t85HYoQkR6euijdnD_91lkDq-Y8QKP-q-sRYC3r6N6mGA1Ro9oJ_81Yhktdp6IhG3fCturL4NjZ4xJciK4mHM5yiGF5djSFq68Z5xQLpz0yyZg",
+            "part1" : "Once you’re in, you will be greeted with a few standard disclaimers. These include a notice that AI trainers may review your interaction with ChatGPT to evaluate the system’s performance. You might want to skim these disclaimers for a general overview of what to expect.",
+            "part2" : "Now, you can start interacting with ChatGPT. Find the message box toward the bottom of the interface to begin a conversation. "
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "Step 4",
+            "img1" : "https://lh3.googleusercontent.com/TshqUzCkSwG3Mb4g6RTnL7P1Lqoab1pAg6-ZCw3gTU3-A6zMQ9e39e6b8Yrg3E6PUBpSRGJZCk_8edbiDP5tR28C3tbCE-VnUsUFTQIxlNWijURxTnRNUYgrn3OvYrGghmaPnfU_EAw05DS8B5SBkmZXKPeASYRkGWBAeTzWfwZuJA-MKF_ubARery7lbw",
+            "img2" : "https://lh3.googleusercontent.com/TshqUzCkSwG3Mb4g6RTnL7P1Lqoab1pAg6-ZCw3gTU3-A6zMQ9e39e6b8Yrg3E6PUBpSRGJZCk_8edbiDP5tR28C3tbCE-VnUsUFTQIxlNWijURxTnRNUYgrn3OvYrGghmaPnfU_EAw05DS8B5SBkmZXKPeASYRkGWBAeTzWfwZuJA-MKF_ubARery7lbw",
+            "part1" : "ChatGPT will generate a response quickly. As a starting point, we asked a simple question: “What is Bitcoin?” The bot took about five seconds to come up with a response (see fig. below",
+            "part2" : "We liked how the explanation was to the point and easy to understand. If you are unhappy with the response, you could hit the button Try Again. The bot will then try to answer you differently."
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "Step 5",
+            "img1" : "https://lh6.googleusercontent.com/1SoqqZJMB4RMrUjQreNuSuAbJYGxShkicWG-vbhA-sqsjzxjdW1TmAa7Ot9mEYeUHVlPlO2KWTHbgQPo8yz0Kkwex1cyoUD5A3XmVEwRD6ks1-gl1CK16rlmPEsDPrqzR4dGPF1zFS-LK54nK1F1OLKaM-VG_3rDsOrYzm0tQa0l5aGgDfJLj-RDnyncnA",
+            "img2" : "https://lh6.googleusercontent.com/1SoqqZJMB4RMrUjQreNuSuAbJYGxShkicWG-vbhA-sqsjzxjdW1TmAa7Ot9mEYeUHVlPlO2KWTHbgQPo8yz0Kkwex1cyoUD5A3XmVEwRD6ks1-gl1CK16rlmPEsDPrqzR4dGPF1zFS-LK54nK1F1OLKaM-VG_3rDsOrYzm0tQa0l5aGgDfJLj-RDnyncnA",
+            "part1" : "You may continue the conversation by replying to ChatGPT’s messages using the message box.",
+            "part2" : "Or you can also click on the “New Thread” button on the left sidebar to reset the current conversation and start a new one.Based on the limited time we spent chatting with the bot, it does a decent job with human-like responses. You can’t really tell that you are talking with an AI unless, of course, you know it already. Although perhaps the lack of typos and the faster typing speed could raise some suspicion! You could also use ChatGPT to write or debut programming codes. Or, you could even write (or borrow ideas for) movie scripts. We tried out a script idea for a horror movie where Keanu Reeves plays the ghost of John Wick. This is the result:  "
         }
       ]
 }
