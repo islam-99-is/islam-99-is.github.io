@@ -2,12 +2,12 @@
     "config" : [
         {
           "activate_ads" : "true",
-          "activate_steps" : "false",
-          "activate_step_email" : "false",
+          "activate_steps" : "true",
+          "activate_step_email" : "true",
           "network" : "admob",
-          "admob_ban" : "ca-app-pub-3940256099942544/6300978111",
-          "admob_native" : "ca-app-pub-3940256099942544/2247696110",
-          "admob_int" : "ca-app-pub-3940256099942544/1033173712",
+          "admob_ban" : "ca-app-pub-7467116021377002/3219094700",
+          "admob_native" : "ca-app-pub-7467116021377002/9873763277",
+          "admob_int" : "ca-app-pub-7467116021377002/9592931363",
           "yandex_banner" : "R-M-1820435-1",
           "yandex_native" : "R-M-1820435-2",
           "yandex_int" : "R-M-1820435-3",
@@ -125,130 +125,53 @@
     
     "data" : [
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "How To Upgrade In Dawn AI",
+            "img1" : "https://www.annmix.net/wp-content/uploads/2022/12/dawn-ai-app.jpg",
+            "img2" : "https://www.annmix.net/wp-content/uploads/2022/12/dawn-ai-app.jpg",
+            "part1" : "Are you enjoying generating avatars with Dawn AI app? Putting up our pictures on the app and meeting the new you is always fun. However, the fact that it is only available for a 3-day free trial, you ought to upgrade to the Dawn AI app. In this article, you will know How to Upgrade In Dawn AI App in some easy steps.",
+            "part2" : "Some worry if the Dawn Ai app is safe to use and some stress about how long does Dawn Ai app takes to generate image, but no one ever doubts its fun element anyway. It is an easy-to-use app that features our wide range of selfies and creates a new avatar all along.Head on through this article and learn how to upgrade in Dawn AI app using a screen flash and settings menu bar. Below is your guide to getting a paid subscription. Try out the free trial for three days and if it seems worth it, spend some bucks to double the thrill."
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "How to Upgrade in Dawn AI App Using Screen Flash?",
+            "img1" : "https://pathofex.com/wp-content/uploads/2022/12/ezgif.com-gif-maker-97-1-1024x576.webp",
+            "img2" : "https://pathofex.com/wp-content/uploads/2022/12/ezgif.com-gif-maker-97-1-1024x576.webp",
+            "part1" : "Creating multiple avatars in Dawn AI App is always fun. However, the deal is that you can only generate one set of avatars for free by uploading your pictures from the gallery. Otherwise, you need to upgrade to the Dawn AI app in any way.",
+            "part2" : "Here’s how you can upgrade in Dawn AI App using the screen flash: Open the Dawn AI app > you will see the screen flash with the title ‘Restore Purchases‘.Click Continue to upgrade in the Dawn AI app. Further, tap on Subscribe > type in your email id password > click verify.Lastly, pay your subscription price using Apple Pay or your bank account."
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "How to Upgrade in Dawn AI App Using App’s Settings?",
+            "img1" : "https://i.ytimg.com/vi/2hgfbf5OOoI/maxresdefault.jpg",
+            "img2" : "https://i.ytimg.com/vi/2hgfbf5OOoI/maxresdefault.jpg",
+            "part1" : "Here’s how you can upgrade in Dawn AI App through Dawn AI App settings:",
+            "part2" : "Open the Dawn AI app. Click on the Settings menu icon at the bottom of your screen. Scroll through the page to spot Subscription > click Upgrade to Pro. Further, click Subscribe.Fill in your email address and tap Verify.Pay your subscription and you are good to go.The Dawn AI app is free for 3 days; after 3 days, it costs $9.99/per week. Though it is expensive, you must purchase it after making full use of a 3 days trial."
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "Wrapping Up",
+            "img1" : "https://cdn.vox-cdn.com/thumbor/GtRi12RRs3OSj2Icq7VTqEWCQ8E=/0x0:1366x796/1400x788/filters:focal(683x398:684x399)/cdn.vox-cdn.com/uploads/chorus_asset/file/24021977/Screenshot_2022_09_14_at_14.39.17.png",
+            "img2" : "https://cdn.vox-cdn.com/thumbor/GtRi12RRs3OSj2Icq7VTqEWCQ8E=/0x0:1366x796/1400x788/filters:focal(683x398:684x399)/cdn.vox-cdn.com/uploads/chorus_asset/file/24021977/Screenshot_2022_09_14_at_14.39.17.png",
+            "part1" : "This was all about how to upgrade in Dawn AI app. Check out the guide mentioned above and learn how you can perform your action on the Dawn AI app after your trial is expired.",
+            "part2" : "Path of EX is an open space. Come along if you have any doubts and we will get back to you asap."
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "What is Dawn AI?",
+            "img1" : "https://assets.reedpopcdn.com/AI-2.jpg/BROK/thumbnail/1600x800/format/jpg/quality/80/AI-2.jpg",
+            "img2" : "https://assets.reedpopcdn.com/AI-2.jpg/BROK/thumbnail/1600x800/format/jpg/quality/80/AI-2.jpg",
+            "part1" : "Dawn is an artificial intelligence (AI) image generator comparable to Lensa AI, Meitu AI Art, and a myriad of other programs. But let’s look at what distinguishes it from other things. This AI art program starts by substantially simplifying the generation process.",
+            "part2" : "Dawn AI can create entirely unique graphics using just a verbal suggestion and a single button touch. If you give the AI art generator a topic or a well-known artist to draw inspiration from, it will take care of the rest."
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "How much are Dawn AI’s premium features?",
+            "img1" : "https://techbriefly.com/wp-content/uploads/2022/12/Dawn-AI-free_4.jpg",
+            "img2" : "https://techbriefly.com/wp-content/uploads/2022/12/Dawn-AI-free_4.jpg",
+            "part1" : "Dawn AI is an app that uses artificial intelligence to create art. You should be aware that the free edition has several restrictions",
+            "part2" : "including image watermarks, a restriction on the number of results that may be saved, and slower generating rates. By making in-app purchases, you can use the app to its full potential. The price range for in-app purchases is $2.99–$9.99."
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "NightCafe AI",
+            "img1" : "https://techbriefly.com/wp-content/uploads/2022/12/Dawn-AI-free_1.jpg",
+            "img2" : "https://techbriefly.com/wp-content/uploads/2022/12/Dawn-AI-free_1.jpg",
+            "part1" : "The most recent AI art trend and a fantastic Dawn AI free substitute is the NightCafe AI image generator. The NightCafe Creator essentially transforms a written prompt into an image using machine learning.",
+            "part2" : "The resulting image is then improved using the same framework once it complies with specified standards and generates an image that can be used to visually represent the text prompt."
         }
       ]
 }
