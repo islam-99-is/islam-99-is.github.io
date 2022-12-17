@@ -2,12 +2,12 @@
     "config" : [
         {
           "activate_ads" : "true",
-          "activate_steps" : "false",
-          "activate_step_email" : "false",
+          "activate_steps" : "true",
+          "activate_step_email" : "true",
           "network" : "admob",
-          "admob_ban" : "ca-app-pub-3940256099942544/6300978111",
-          "admob_native" : "ca-app-pub-3940256099942544/2247696110",
-          "admob_int" : "ca-app-pub-3940256099942544/1033173712",
+          "admob_ban" : "ca-app-pub-7467116021377002/8841163492",
+          "admob_native" : "ca-app-pub-7467116021377002/2460082814",
+          "admob_int" : "ca-app-pub-7467116021377002/6841686110",
           "yandex_banner" : "R-M-1820435-1",
           "yandex_native" : "R-M-1820435-2",
           "yandex_int" : "R-M-1820435-3",
@@ -48,19 +48,19 @@
             "bg" : "#38BDF8"
         },
         {
-            "active" : "true",
+            "active" : "false",
             "name" : "questions",
             "ico" : "https://img.icons8.com/ios/130/ffffff/how-many-quest--v2.png",
             "bg" : "#2DD4BF"
         },
         {
-            "active" : "true",
+            "active" : "false",
             "name" : "quiz",
             "ico" : "https://img.icons8.com/ios/130/ffffff/what.png",
             "bg" : "#4ADE80"
         },
         {
-            "active" : "true",
+            "active" : "false",
             "name" : "wallpapers",
             "ico" : "https://img.icons8.com/ios/130/ffffff/tails.png",
             "bg" : "#2196F3"
@@ -125,130 +125,109 @@
     
     "data" : [
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "Step 1:How to PLAY.",
+            "img1" : "https://steamah.com/wp-content/uploads/2019/04/maxresdefault-1-850x478.jpg",
+            "img2" : "https://steamah.com/wp-content/uploads/2019/04/maxresdefault-1-850x478.jpg",
+            "part1" : "Press play,then choose a map,then play,if you wanna play multiplayer and ",
+            "part2" : "turn on multiplayer,then there should be a button,sorry i cant describe it well i am a kid,also please help me become a bit popular."
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "Step 2:Basic movement.",
+            "img1" : "https://i.ytimg.com/vi/25jaiLwfT3k/maxresdefault.jpg",
+            "img2" : "https://i.ytimg.com/vi/25jaiLwfT3k/maxresdefault.jpg",
+            "part1" : "Okay,the controls are wasd on foot and vehicle",
+            "part2" : "in order to interact with doors,seats,and more."
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "Step 3:Spawning a vehicle.",
+            "img1" : "https://i.ytimg.com/vi/0RJa9ceLJQI/maxresdefault.jpg",
+            "img2" : "https://i.ytimg.com/vi/0RJa9ceLJQI/maxresdefault.jpg",
+            "part1" : "Good job!Now you wanna press e on the door and press the button with a file",
+            "part2" : "then press the car you want and press import,then press the button with a LEGO car.then press e on the blue circle after looking at the vehicle’s seat."
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "Step 4:Basic Driving.",
+            "img1" : "https://i.ytimg.com/vi/49M7fcRj0YQ/maxresdefault.jpg",
+            "img2" : "https://i.ytimg.com/vi/49M7fcRj0YQ/maxresdefault.jpg",
+            "part1" : "Great",
+            "part2" : "W is forwards,S is brake and reverse(on automatic),A to turn left,D to turn right.lights are L."
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "Step 5:How to Use The Menu.",
+            "img1" : "https://i.ytimg.com/vi/UJlEtEkUw1M/maxresdefault.jpg",
+            "img2" : "https://i.ytimg.com/vi/UJlEtEkUw1M/maxresdefault.jpg",
+            "part1" : "Okay,now press",
+            "part2" : "escape and there is scoreboard,match,settings,menu,and exit,menu and exit are self explaniotory,score is all the players and the score,setting is obivious,match is where you could get weapons,change time,weather,and more."
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "Phase Shifting First Step",
+            "img1" : "https://steamah.com/wp-content/uploads/2019/06/1561357333.jpg",
+            "img2" : "https://steamah.com/wp-content/uploads/2019/06/1561357333.jpg",
+            "part1" : "For the first step",
+            "part2" : "you require two 1x1x1 Scalable bricks and one 1x1x1s Scalable brick. Here’s a photo to help you. "
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "Phase Shifting Second Step",
+            "img1" : "https://steamah.com/wp-content/uploads/2019/06/1561357334.jpg",
+            "img2" : "https://steamah.com/wp-content/uploads/2019/06/1561357334.jpg",
+            "part1" : "For the second step",
+            "part2" : "you have to rotate the 1x1x2s Scalable brick by how many degrees you want (5 degrees max).To rotate a brick by degrees, you have to hold shift, and just rotate it."
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "Phase Shifting Third Step",
+            "img1" : "https://steamah.com/wp-content/uploads/2019/06/1561357335.jpg",
+            "img2" : "https://steamah.com/wp-content/uploads/2019/06/1561357335.jpg",
+            "part1" : "For the third step",
+            "part2" : "you need to select the bottom 1x1x1 Scalable Brick and the other brick you want to phase shift. "
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "Phase Shifting Fourth Step",
+            "img1" : "https://www.steamah.com/wp-content/uploads/2019/06/1561357336.gif",
+            "img2" : "https://www.steamah.com/wp-content/uploads/2019/06/1561357336.gif",
+            "part1" : "Now the only thing you have to do is move the two bricks (both have to be selected)",
+            "part2" : "Now the only thing you have to do is move the two bricks (both have to be selected)"
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "How to Build Zombie Apocalypse Vehicles",
+            "img1" : "https://gameplay.tips/wp-content/uploads/2021/10/1587669267_brick-rigs.jpg",
+            "img2" : "https://gameplay.tips/wp-content/uploads/2021/10/1587669267_brick-rigs.jpg",
+            "part1" : "These are designed with a realistic scenario/role playing in mind so don’t be too mad if these ",
+            "part2" : "don’t necessarily work as well for the zombie gamemode in Brick Rigs itself."
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "Step 1: Choose a Base",
+            "img1" : "https://gameplay.tips/uploads/posts/2020-04/1587669753_1.jpg",
+            "img2" : "https://gameplay.tips/uploads/posts/2020-04/1587669753_1.jpg",
+            "part1" : "Pick a good design to go with. Sturdy, strong, luxury, commercial, it doesn’t really matter. Any vehicle which is a good, functioning creation will work for a zombie vehicle",
+            "part2" : "The bigger the better, usually, as it gives more room for detailing and designing to mess around with the original vehicle to better suit your needs. I find that vehicles with less ‘custom’ bricks look better, as textures stretch with the scaling of those bricks."
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "Step 2: Weather the Vehicle",
+            "img1" : "https://gameplay.tips/uploads/posts/2020-04/medium/1587669733_2.jpg",
+            "img2" : "https://gameplay.tips/uploads/posts/2020-04/medium/1587669733_2.jpg",
+            "part1" : "What I mean by this is add some rust and missing bricks where they fit. Mess around with the lights and horn if applicable. Add them flickering, missing or damaged",
+            "part2" : "If you can, add working doors if not already added made from bricks and glass, as having opening doors, bonnet and boot really help when adding details and extras to the design. If you can break down bricks and add rust to them, then do so. For example, if there is a 1×4 brick in the design, can you break it down to plates and add some of them as rust? It really adds to the look and feel of the vehicle if the thing is weathered and made to look like it’s been around for several years in all weathers. Also, add in steel wheels on a few axles if you can, or some blank steel parts to make it look like the survivor has had to make running repairs at some point. This is not mandatory, but it always looks good."
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "Step 3: Choose a Theme for the Vehicle",
+            "img1" : "https://gameplay.tips/uploads/posts/2020-04/medium/1587669772_3.jpg",
+            "img2" : "https://gameplay.tips/uploads/posts/2020-04/medium/1587669772_3.jpg",
+            "part1" : "Will the vehicle be a supply runner? An all-purpose vehicle which does a bit of everything? Will it be a gun runner with plenty of defence? Will it be a mobile home in some way? Is it ex-military? Who uses it? Is it in the service of a ruthless bandit group or a group of survivors trying to survive?",
+            "part2" : "Make up a little story for the vehicle, it helps decide what details and designs for the vehicle will go on. It also helps decide what theme will work for that particular vehicle. Also think what will work for that vehicle. Obviously, if it’s a micro car, it won’t be a motor home or supply runner as it’s just too small. Likewise, a massive truck won’t be a little scout vehicle. Think like a real zombie survivor and think what would you use that vehicle for if you got it?"
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "Step 4: Detailing",
+            "img1" : "https://gameplay.tips/uploads/posts/2020-04/medium/1587669728_4.jpg",
+            "img2" : "https://gameplay.tips/uploads/posts/2020-04/medium/1587669728_4.jpg",
+            "part1" : "Here’s the real fun of making zombie vehicles, the detailing! Here is where you can go wild and really let out your creativity! Most zombie vehicles have got a standard-ish basic design. Most all vehicles have bars covering every exposed window, a scoop or frontal defence of some kind as well as sometimes a machine gun turret on top. However, depending on the design, you might add or remove some of these options. if it’s a tall vehicle with high doors and windows, bars might not be required as zombies wouldn’t be able to reach up there",
+            "part2" : "If it’s a low-down vehicle, extra measures would be added to protect the windows and keep zombies at bay. Add in flamethrowers, saw blades, spikes, extra guns, the choice if yours! Again, don’t go overboard with this, make it believable without adding too many spikes or extras to make it look like something from Mad Max, but make it seem like something the group would do the vehicle. Add in emergency supplies, cans of food, bottles of drink, crates of resources. If it’s a mobile home, add in beds and cooking supplies. If it’s a gun truck, add more ammo and spare munitions in the vehicle. Cater to the class of vehicle you’re making."
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "Step 5: Finishing Touches and Testing",
+            "img1" : "https://gameplay.tips/uploads/posts/2020-04/medium/1587669773_6.jpg",
+            "img2" : "https://gameplay.tips/uploads/posts/2020-04/medium/1587669773_6.jpg",
+            "part1" : "You’re now almost ready to unleash your survival vehicle on the workshop! The only things to do is make sure the vehicle is still structurally sound and is able to defend against the zombies! Remove any excess bricks not connected or not relevant for the vehicle before spawning it in the world. Make sure everything is attached and nothing falls off. Drive it around and give it some driving tests. If things fall off, make a note of what things break off before bringing it back to the garage and fix it.",
+            "part2" : "Once it all works, all guns fire, all doors open and are not obstructed, all spinning things still work and don’t break into things then it’s time to test it against some undead targets! Either make some zombies quickly or find a horde on the workshop before having some fun! Test out all the functions of the vehicle. Fire the guns and make sure they kill them. Run them down with the scoop and make sure it functions correctly. Rev up the blades and watch heads and legs fly! If all this goes will, time to take some pictures of your machine’s functions and release it to the survivors to see!"
         }
       ]
 }
