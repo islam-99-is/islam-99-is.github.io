@@ -125,46 +125,48 @@
     
     "data" : [
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
+            "name" : "PlayMods App Introduction",
+            "img1" : "https://resource.playmods.net/prd/image/a897f51a-31f5-a37b-c50a-6c4fe250273a.png-articleDetailwebp",
+            "img2" : "https://resource.playmods.net/prd/image/a897f51a-31f5-a37b-c50a-6c4fe250273a.png-articleDetailwebp",
+            "part1" : "PlayMods is a platform with almost every game and app you could ever want to download, with tens of thousands of modded games and apps. Users can also play many games for free!",
+            "part2" : "PlayMods mobile App supports the following languages: English, Italian, Turkish, Indonesian, Thai, Chinese, Arabic, Spanish, Portuguese, etc. PlayMods updates games and apps every day, allowing users to experience the latest versions at all times."
+        },
+        {
+            "name" : "Share Mod Games With Other Users",
+            "img1" : "https://resource.playmods.net/prd/image/d850dbf6-591d-7fd5-b70b-1f1d1add3dd3.png-articleDetailwebp",
+            "img2" : "https://resource.playmods.net/prd/image/d850dbf6-591d-7fd5-b70b-1f1d1add3dd3.png-articleDetailwebp",
+            "part1" : "PlayMods provides users with tons of mods for popular games. The current popular ones are Toca Life World, Minecraft, Melon Playground,",
+            "part2" : "and so on. Users can share these popular mod games with their friends or play with them."
+        },
+        {
+            "name" : "Game Library with Thousands",
+            "img1" : "https://resource.playmods.net/prd/image/46f9913f-4620-6103-bbf5-6d9dbbdde40b.png-articleDetailwebp",
+            "img2" : "https://resource.playmods.net/prd/image/46f9913f-4620-6103-bbf5-6d9dbbdde40b.png-articleDetailwebp",
+            "part1" : "PlayMods provides users with a huge collection of games, including all the hottest games of the moment. All games are tested and guarantee the smoothness of the game",
+            "part2" : "Playmods will also recommend games suitable for each user through articles and related games every day.Users can view the most popular games at the moment in PlayMods's popular game rankings and keep up with the current fashion trends. Playmods always provides users with the latest version of the game, don't miss it!"
+        },
+        {
+            "name" : "Toca Tool",
+            "img1" : "https://resource.playmods.net/prd/image/df6d223e-443f-cdf3-c77c-cfb316bd2041.png-articleDetailwebp",
+            "img2" : "https://resource.playmods.net/prd/image/df6d223e-443f-cdf3-c77c-cfb316bd2041.png-articleDetailwebp",
+            "part1" : "The Toca tool can be found in . Toca Tools provides Toca players with tools for saving, Toca world map analysis, game strategy, and item searching.",
             "part2" : ""
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "Cloud Archive",
+            "img1" : "https://resource.playmods.net/prd/image/00b92a39-84ab-8e52-32fa-88cae32bd362.jpg-articleDetailwebp",
+            "img2" : "https://resource.playmods.net/prd/image/00b92a39-84ab-8e52-32fa-88cae32bd362.jpg-articleDetailwebp",
+            "part1" : "Toca World cloud archive can be activated after binding the PlayMods account. After archiving, players don't have to worry about errors in game archive content after exiting the game. The data will be permanently archived, and there will be a chance to be selected and displayed in the archives of famous generals, and become the guy everyone wants to emulate.",
+            "part2" : "When using other people's archives, all local archives will be overwritten, so please ensure that the local archives have been uploaded to the cloud to ensure that the local archives will not be lost."
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "Apk/Xapk Installer",
+            "img1" : "https://resource.playmods.net/prd/image/0637e0ee-3bf2-1380-13ea-e5b18611fceb.png-articleDetailwebp",
+            "img2" : "https://resource.playmods.net/prd/image/0637e0ee-3bf2-1380-13ea-e5b18611fceb.png-articleDetailwebp",
+            "part1" : "PlayMods provides Xapk/Apk Installer to you. Usually when you download an xapk file, you can't install it directly on your phone.",
+            "part2" : "With PlayMods installer tool, you can easily install apps with xapk extentions. Simply click on the " Install", and the app will be installed automatically!
+
+"
         },
         {
             "name" : "",
