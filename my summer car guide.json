@@ -2,8 +2,8 @@
     "config" : [
         {
           "activate_ads" : "true",
-          "activate_steps" : "false",
-          "activate_step_email" : "false",
+          "activate_steps" : "true",
+          "activate_step_email" : "true",
           "network" : "admob",
           "admob_ban" : "ca-app-pub-7467116021377002/1387138284",
           "admob_native" : "ca-app-pub-7467116021377002/3531716202",
@@ -125,28 +125,28 @@
     
     "data" : [
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "MY SUMMER CAR BUILD GUIDE",
+            "img1" : "https://i.ytimg.com/vi/9VpVuR_y_5M/sddefault.jpg",
+            "img2" : "https://i.ytimg.com/vi/9VpVuR_y_5M/sddefault.jpg",
+            "part1" : "Woah, hold on. Before heading straight for the garage and getting greasy, there are a few things you should probably do first. First of all, it’s worth bearing in mind that MSC has a permadeath mechanic in place, thus doubling this to become a survival game.It means that you need to take care of your in-game player. They too have basic requirements such as having to eat, drink and get some sleep. For our My Summer Car guide, it won’t be enough to just build the Satsuma and ignore this.If you do that, then the player could die, and you’ll have to start all over. Besides, you’re going to need to head to town and get some parts to finish that build, anyway. So, be sure to get enough food and drink to keep you stocked up while you’re there.",
+            "part2" : "So, before we get into anything else, you’re going to want a van. In the most recent updates of the game, the van – a Hayosiko Pace – will spawn by Uncle Kesseli. Toivo Kesseli is the player’s uncle, and you can find his house near yours.You’ll be prompted and hinted about Uncle Kesseli’s van through a note that the player’s parents left on the fridge. Here, the game tells you that you can borrow Uncle Kesseli’s van. However, once you get in the van, a time will count down to tell you how much time you have left before it needs to be returned."
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "MY SUMMER CAR MAP",
+            "img1" : "https://i.ytimg.com/vi/Y-k09oulWPI/maxresdefault.jpg",
+            "img2" : "https://i.ytimg.com/vi/Y-k09oulWPI/maxresdefault.jpg",
+            "part1" : "You’re going to need a vehicle to haul back anything you buy in the town. It would be prudent as well, that before you continue on our My Summer Car guide, you should get a few jerrycans. There’s a black diesel canister in the barn, and there’s a green gas can by the back left corner of the garage.",
+            "part2" : "Bring along both. Now, let’s get in the van and head into town. Hopefully, you’ve gotten used to the game’s controls by now. After this, you can start by driving down the dirt path.Just after a set of railroad tracks, there should be a three-way intersection at the end of this dirt path that leads to the player’s house. Turn left, and follow this road until you read a four-way intersection.Now, take a right, and you should end up by a paved road, which is the game’s highway. Turn left and get onto the highway. Keep driving, and then take the fourth left-hand side exit in order to reach the game’s main town and urbanized area, Peräjärvi."
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "WHAT ARE YOU SUPPOSED TO BUY FROM TEIMO’S SHOP?",
+            "img1" : "https://www.games-manuals.com/wp-content/uploads/2022/01/My-Summer-Car-231.jpg",
+            "img2" : "https://www.games-manuals.com/wp-content/uploads/2022/01/My-Summer-Car-231.jpg",
+            "part1" : "If we take a glance of your garage at (the player’s) home, then there should already be a few parts that are ready and waiting to be fitted on the Satsuma. Most of the other bits and pieces, however, need to be acquired in the game. It could be easily bought from Teimo’s shop and a few other locations. However, certain parts could instead be found for free. One example is how you can find the starter wheels for your car by the Abandoned Mansion.",
+            "part2" : "Still, much of our My Summer Car guide will hinge on buying these parts from Teimo’s shop. So, be sure to have enough money on hand. If you don’t, then you could complete a few jobs and tasks to earn markka, or ‘mk’, as the local currency is called. It’s for this reason why we’ve recommended taking the van to town, as it could fit more stuff in there than some other vehicles."
         },
         {
-            "name" : "",
+            "name" : "ANYTHING ELSE YOU NEED TO GET?",
             "img1" : "",
             "img2" : "",
             "part1" : "",
