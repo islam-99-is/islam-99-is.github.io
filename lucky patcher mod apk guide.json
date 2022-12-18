@@ -125,130 +125,74 @@
     
     "data" : [
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "How to Use Lucky Patcher on Android",
+            "img1" : "https://i0.wp.com/ugtechmag.com/wp-content/uploads/2019/04/word-image-14.png?fit=1330%2C770&ssl=1",
+            "img2" : "https://i0.wp.com/ugtechmag.com/wp-content/uploads/2019/04/word-image-14.png?fit=1330%2C770&ssl=1",
+            "part1" : "This wikiHow teaches you how to use Lucky Patcher on an Android phone. Lucky Patcher allows you to modify apps to remove license verification",
+            "part2" : " remove Google ads, install custom patches, change permissions, and create custom APK files. You'll need to have a rooted Android in order to modify the apps on your phone using Lucky Patcher"
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "Root your Android device",
+            "img1" : "https://www.wikihow.com/images/thumb/b/b6/Use-Lucky-Patcher-on-Android-Step-2.jpg/aid9947637-v4-728px-Use-Lucky-Patcher-on-Android-Step-2.jpg.webp",
+            "img2" : "https://www.wikihow.com/images/thumb/b/b6/Use-Lucky-Patcher-on-Android-Step-2.jpg/aid9947637-v4-728px-Use-Lucky-Patcher-on-Android-Step-2.jpg.webp",
+            "part1" : "You'll need to have a rooted Android phone before you can modify apps with Lucky Patcher. Rooting is different for each Android device and can potentially harm your phone as well as void your warranty",
+            "part2" : "Make sure you follow the most up to date guide for your specific phone and proceed with extreme caution Read Root an Android Without a PC for more information"
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "Open Lucky Patcher",
+            "img1" : "https://www.wikihow.com/images/thumb/6/64/Use-Lucky-Patcher-on-Android-Step-3.jpg/aid9947637-v4-728px-Use-Lucky-Patcher-on-Android-Step-3.jpg.webp",
+            "img2" : "https://www.wikihow.com/images/thumb/6/64/Use-Lucky-Patcher-on-Android-Step-3.jpg/aid9947637-v4-728px-Use-Lucky-Patcher-on-Android-Step-3.jpg.webp",
+            "part1" : "It's the app that has an icon of a yellow smiley emoji. After the app opens, you will see a list of installed apps on your phone.",
+            "part2" : "It's the app that has an icon of a yellow smiley emoji. After the app opens, you will see a list of installed apps on your phone."
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "Tap an app",
+            "img1" : "https://www.wikihow.com/images/thumb/b/bd/Use-Lucky-Patcher-on-Android-Step-4.jpg/aid9947637-v4-728px-Use-Lucky-Patcher-on-Android-Step-4.jpg.webp",
+            "img2" : "https://www.wikihow.com/images/thumb/b/bd/Use-Lucky-Patcher-on-Android-Step-4.jpg/aid9947637-v4-728px-Use-Lucky-Patcher-on-Android-Step-4.jpg.webp",
+            "part1" : "This is an app you want to remove a license verification from. You will see a menu of different options.",
+            "part2" : "This is an app you want to remove a license verification from. You will see a menu of different options"
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "Tap Menu of Patches",
+            "img1" : "https://www.wikihow.com/images/thumb/2/22/Use-Lucky-Patcher-on-Android-Step-5.jpg/aid9947637-v4-728px-Use-Lucky-Patcher-on-Android-Step-5.jpg.webp",
+            "img2" : "https://www.wikihow.com/images/thumb/2/22/Use-Lucky-Patcher-on-Android-Step-5.jpg/aid9947637-v4-728px-Use-Lucky-Patcher-on-Android-Step-5.jpg.webp",
+            "part1" : "You will see a list of patches that can be applied to the app.",
+            "part2" : "You will see a list of patches that can be applied to the app."
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "Tap Remove License Verification",
+            "img1" : "https://www.wikihow.com/images/thumb/c/c7/Use-Lucky-Patcher-on-Android-Step-6.jpg/aid9947637-v4-728px-Use-Lucky-Patcher-on-Android-Step-6.jpg.webp",
+            "img2" : "https://www.wikihow.com/images/thumb/c/c7/Use-Lucky-Patcher-on-Android-Step-6.jpg/aid9947637-v4-728px-Use-Lucky-Patcher-on-Android-Step-6.jpg.webp",
+            "part1" : "You will see a menu of different patches for removing the license verification.",
+            "part2" : "You will see a menu of different patches for removing the license verification."
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "Tap the patch you want to use",
+            "img1" : "https://www.wikihow.com/images/thumb/8/88/Use-Lucky-Patcher-on-Android-Step-7.jpg/aid9947637-v4-728px-Use-Lucky-Patcher-on-Android-Step-7.jpg.webp",
+            "img2" : "https://www.wikihow.com/images/thumb/8/88/Use-Lucky-Patcher-on-Android-Step-7.jpg/aid9947637-v4-728px-Use-Lucky-Patcher-on-Android-Step-7.jpg.webp",
+            "part1" : "There is a checkbox next to the different patches you can use. Tap the checkbox to select the patch you want to use.",
+            "part2" : "There is a checkbox next to the different patches you can use. Tap the checkbox to select the patch you want to use."
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "How to crack apps with Lucky Patcher?",
+            "img1" : "https://miro.medium.com/max/750/1*1KBs8FEKazSj6j1jKooRBg.jpeg",
+            "img2" : "https://miro.medium.com/max/750/1*1KBs8FEKazSj6j1jKooRBg.jpeg",
+            "part1" : "Previously you had to root your Android device (which entails having access to the root directory, where the operating system is installed) before using Lucky Patcher.",
+            "part2" : "although it's always recommended to root your device since it provides greater flexibility. If you want to your device, check out this article."
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "How does Lucky Patcher Apk works?",
+            "img1" : "https://trxct.com/uploads/2020/02/lucky-patcher-apk-free-download.jpg",
+            "img2" : "https://trxct.com/uploads/2020/02/lucky-patcher-apk-free-download.jpg",
+            "part1" : "Lucky Patcher app helps users in modifying apps and games. Most of the time, mod apps are not available for some apps. In that case you can create you own mod easily with Lucky patcher. Just accept all requirements and install this app properly on your device. You can read the requirements section below. Lucky patcher helps you change and bypass the app settings.",
+            "part2" : "There are many patches or mods already present on Lucky patcher apps for some of the famous mod apps. You just have to download that patch and give all permissions to rewrite and use data to the Lucky patcher app. It will automatically modify the apps without much hard work."
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "Features of Lucky Patcher App:",
+            "img1" : "https://i.ytimg.com/vi/qkwOs9phjrY/maxresdefault.jpg",
+            "img2" : "https://i.ytimg.com/vi/qkwOs9phjrY/maxresdefault.jpg",
+            "part1" : "Some apps have licence verification where they ask for specific permissions. If you don’t want to share your data like active location or your device data usage, camera or microphone usage, then you can crack those permissions",
+            "part2" : "You can multi-patch an app with one click if the lucky patcher has data of that app. Change app verification and permissions easily with Lucky patcher apk."
         }
       ]
 }
