@@ -147,108 +147,38 @@
         },
         {
             "name" : "ANYTHING ELSE YOU NEED TO GET?",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "img1" : "https://i.ytimg.com/vi/q1C0mXo9Hw8/sddefault.jpg",
+            "img2" : "https://i.ytimg.com/vi/q1C0mXo9Hw8/sddefault.jpg",
+            "part1" : "Those parts that we highlighted above are absolutely necessary for you to properly build the Satsuma to completion. But as we’ve noted so far in our My Summer Car guide, there’s more you should get.",
+            "part2" : "For starters, you’ll need to spend money on paying for gasoline and diesel that you’ve just pumped up. While you’re at Teimo’s, remember the bodily essentials. Sausages are the most efficient food item when it comes to filling up your hunger bar. Beer is the best liquid in the game, cigarettes should help your character relieve stress in a pinch. Buy as much as you think is necessary before packing up the van and heading back home."
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "JUST BEFORE YOU START WITH BUILDING THE SATSUMA…",
+            "img1" : "https://i.ytimg.com/vi/GlTdUDtDpEo/maxresdefault.jpg",
+            "img2" : "https://i.ytimg.com/vi/GlTdUDtDpEo/maxresdefault.jpg",
+            "part1" : "There are a couple more tips and tricks for our My Summer Car guide before we get to building the Satsuma. Firstly, you should know that MSC also has a damage system for your car and its many parts.",
+            "part2" : "Some components will get damaged over time and necessitate a replacement. Most of these ‘damageable’ parts that you’ll get at the start of the game are almost always in near-critical condition. You could have these parts delivered and serviced at the Fleetari repair shop.This is a cheaper way to get them back to running order. However, we’ve found that it’s best to just go ahead and buy these parts completely brand new from Fleetari’s. Though more expensive, it will relieve a huge sore point later on as you now technically have more robust components that won’t have to be replaced so soon."
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "WHAT DO YOU NEED TO DO TO BUILD THE SATSUMA?",
+            "img1" : "https://i.ytimg.com/vi/C6H2-Q_iAHw/maxresdefault.jpg",
+            "img2" : "https://i.ytimg.com/vi/C6H2-Q_iAHw/maxresdefault.jpg",
+            "part1" : "At this stage in our My Summer Car guide, we should have everything that we need parts-wise to rebuild your Datsun. This includes the bits and bobs that spawn naturally by the player’s home or garage, as well as the things that we bought or picked up along the way.",
+            "part2" : "As we mentioned much earlier, the car building aspect of MSC is actually very realistic, and almost simulator-like in feel. You need to individually pick up every single component, and align them in place before bolting them on.There are a whole lot of different parts that require attaching, from the engine, chassis, and so on. For our My Summer Car guide, we’ll take a closer look at all the individual items on the Satsuma that you’ll have to put together. We’ll even let you know how many nuts or bolts, as well as their sizes that are important for that particular part. So, if we use the term “2x10mm”, this means that if you want to put them together, you need 2 bolts or nuts, with the 10mm spanner or ratchet."
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "MY SUMMER CAR CHASSIS",
+            "img1" : "https://i.ytimg.com/vi/m_3YhsxRrfU/sddefault.jpg",
+            "img2" : "https://i.ytimg.com/vi/m_3YhsxRrfU/sddefault.jpg",
+            "part1" : "Once you’ve completed the engine part of our My Summer Car guide, it’s time to get to the chassis. You should consider jacking the car off the ground using the floor jack. Or, you could (carefully) push the car into the garage, where you can work on it from the pit.",
+            "part2" : "Before we get into completing the rest of the bodywork, it would be helpful to lift the engine out of the Satsuma. Once you’ve already completed assembling the engine, you can attach the main block to a hoist (2x10mm). Once the chassis is done and ready, you can then very slowly lower the finished engine back in."
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "MY SUMMER CAR HOW TO ORDER PARTS",
+            "img1" : "https://i.ytimg.com/vi/7Ee7pXtm7go/maxresdefault.jpg",
+            "img2" : "https://i.ytimg.com/vi/7Ee7pXtm7go/maxresdefault.jpg",
+            "part1" : "If you need to order parts for My Summer Car, head over to the garage, and you should be able to find the AMIS Catalog. Otherwise, there are other such magazines or catalogs elsewhere around the map, like at Fleetari’s workshop",
+            "part2" : "These might contain other unique parts that you can’t order from the AMIS Catalog, but the latter should contain most of what you need. To order a part, browse around the catalog and find the part(s) you need. Then, click on a particular part and this will fill in an order form. Once you’re done, click on the ‘TILAA NYT!’ button (aka Order Now!), and an envelope will spawn. Next up, take this envelope to the main town, and place it in the mailbox next to the store. Soon, a clerk informs you that the parts are in, and you can pick them up."
         }
       ]
 }
