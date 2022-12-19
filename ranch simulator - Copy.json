@@ -125,130 +125,60 @@
     
     "data" : [
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "Go Hunting to Make Money Fast",
+            "img1" : "https://cdn.akamai.steamstatic.com/steam/apps/1119730/ss_378e2f7721f0764a7a175b84838f11d2974e4c76.1920x1080.jpg?t=1669912023",
+            "img2" : "https://cdn.akamai.steamstatic.com/steam/apps/1119730/ss_378e2f7721f0764a7a175b84838f11d2974e4c76.1920x1080.jpg?t=1669912023",
+            "part1" : "This might not be the easiest method when starting out the game, as bears tend to not be overly keen on being killed, they tend to put up a fight, but if you make sure you have enough ammunition and are able to take them out safely, their meat and pelt will bring in a fair profit.",
+            "part2" : "If you have money left over after completing the incredibly detailed tutorial at the start of the game, go over to the store and make sure to purchase some ammunition for your weapon which your Grandfather left for you as the last thing you want is to run out with a 600 lbs bear charging towards you."
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "Beginner Tips (Work in progress)",
+            "img1" : "https://steamlists.com/wp-content/uploads/2021/07/ranch-simulator-beginners-gameplay-tips-ang-tutorial-cooking-guide-0-steamlists-com-456546.jpg",
+            "img2" : "https://steamlists.com/wp-content/uploads/2021/07/ranch-simulator-beginners-gameplay-tips-ang-tutorial-cooking-guide-0-steamlists-com-456546.jpg",
+            "part1" : "All wild animals you kill create Wild Meat. (you get other meats from animals you raise at your ranch, Pork, Beef and Chickens)",
+            "part2" : "You can milk your cows at 8am and again at 4pm."
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "Cooking",
+            "img1" : "https://steamlists.com/wp-content/uploads/2021/07/Ranch-Simulator-Beginners-Gameplay-Tips-ang-Tutorial-Cooking-Guide-steamlists-com.jpg",
+            "img2" : "https://steamlists.com/wp-content/uploads/2021/07/Ranch-Simulator-Beginners-Gameplay-Tips-ang-Tutorial-Cooking-Guide-steamlists-com.jpg",
+            "part1" : "Place both the grinder and sausage maker on a table or counter. You then need to pick up a cooking pan, and you will see a green area for the pan in front of the grinder,",
+            "part2" : "With pan in place grab one piece of Pork, Beef or chicken (cannot use Wild Meat) and point to grinder then hit E to add meat to grinder, then turn the crank to grind or Hit E one more time to start grinding if electric.For the grinder and sausage maker, I started out with the manual ones to start (just because of cost) then when I could afford the electric I got those. The electric ones make the task easier. (the manual ones you need to spin the crank, kind of like the well for water but not as hard as the well is to spin. NOTE: you use a bucket to milk the cows, (get the bigger metal one and it will hold 7 units of milk from each cow. The milk jug will hold 42 units total). Once you milk a cow pour the bucket into the milk jug (tall milk container in store). You can pickup milk jug and point to either the pan with ground meat or an empty pan to get the option to add milk. Sausage uses 2 milk units and cheese uses 7 units."
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "Hunter Meat Wagon",
+            "img1" : "https://steamlists.com/wp-content/uploads/2021/07/16_Ranch-Simulator-Beginners-Gameplay-Tips-ang-Tutorial-Cooking-Guide-steamlists-com.jpg",
+            "img2" : "https://steamlists.com/wp-content/uploads/2021/07/16_Ranch-Simulator-Beginners-Gameplay-Tips-ang-Tutorial-Cooking-Guide-steamlists-com.jpg",
+            "part1" : "HUNTERS MEAT WAGON (not needed as much now (due to coolers) but early game it helps a ton)",
+            "part2" : "Start by adding planks to the outer edges of rack, front of plank goes on the front rack bar…."
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "Ranch Sim Map with route",
+            "img1" : "https://steamlists.com/wp-content/uploads/2021/07/21_Ranch-Simulator-Beginners-Gameplay-Tips-ang-Tutorial-Cooking-Guide-steamlists-com.jpg",
+            "img2" : "https://steamlists.com/wp-content/uploads/2021/07/21_Ranch-Simulator-Beginners-Gameplay-Tips-ang-Tutorial-Cooking-Guide-steamlists-com.jpg",
+            "part1" : "Black line is main route from home to burger place to sell. Yellow line is route going home (I stop for fuel every time)Green circle is area to drive to for Deer Red circle is area to drive to for Bear",
+            "part2" : "The area that has both a bear and deer you will not find the deer at times, this would be because it was killed by the bear. I have come across the bear chasing the deer here as well.You may notice the first area of the black route has more little dots. The is because I will go there if I have time (before dark) after return home and on first day I go to this spot and 2nd spot for meat before going to gas station on tutorial."
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "How to Use the Sausage Stuffer in Ranch Sim",
+            "img1" : "https://static.filehorse.com/screenshots/games/ranch-simulator-screenshot-02.png",
+            "img2" : "https://static.filehorse.com/screenshots/games/ranch-simulator-screenshot-02.png",
+            "part1" : "Choose the meat you want to make sausages with. Again, you can use pork, chicken, or beef. This time, grind the meat in the Meat Grinder, but instead of pressing E to remove the product from the pan, choose to take the pan with you by pressing right-click.",
+            "part2" : "Head over to your Sausage Stuffer and press E to place the meat inside. Once the process has finished, you can pick up your raw sausages and hang them in your drying room in Ranch Simulator."
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "Food Special Multiplier",
+            "img1" : "https://i.ytimg.com/vi/J8VYfwqUtlo/maxresdefault.jpg",
+            "img2" : "https://i.ytimg.com/vi/J8VYfwqUtlo/maxresdefault.jpg",
+            "part1" : "From hunting to building an animal farm, it takes time to gather your meats and so you want to get the most out of it. If you enter the burger joint, you will be presented with 3 options of meat, and a multiplier that will give you more money for the weight of the meat in comparison to the General store. However, often the multiplier is just not much, or the meat you have with you is not on special.",
+            "part2" : "You will need a car with all the meat you are hoping to sell, preferably a lump of more expensive meat, or as much as possible of a single meat option (i.e wild meat)."
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "Earn more money on Animal Products for Ranch Simulator",
+            "img1" : "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/clans//35446468/4ea999b3972eb3403aec361cb489c43baa9a8f25.jpg",
+            "img2" : "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/clans//35446468/4ea999b3972eb3403aec361cb489c43baa9a8f25.jpg",
+            "part1" : "Although it may take a little bit more effort, processing your food into products can be sold for more at the General Store",
+            "part2" : "The effort that it takes to process the food is worth the profit received. The four products available at this stage are meatballs, sausages, curd, and cheese. In the future, there will be more products to be processed."
         }
       ]
 }
