@@ -125,130 +125,53 @@
     
     "data" : [
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "What is Magisk Manager?",
+            "img1" : "https://magiskroot.net/wp-content/uploads/2019/02/allow-from-this-source-option.webp",
+            "img2" : "https://magiskroot.net/wp-content/uploads/2019/02/allow-from-this-source-option.webp",
+            "part1" : "Magisk Manager is an Android app that will help you to Manage the Systemless Modules and Root Privileges. topjohnwu is the developer of the app, and he is a senior member of XDA forums. Why is it so popular now? Because so many modules are developing day by day for this Magisk Manager app that will help you to pass google Safetynet check.",
+            "part2" : "Some of the play store apps don’t allow to run on the rooted devices these days. Those apps follow the Safetynet check and allow the users after passing Google’s SafetyNet API. You may face this situation while using banking applications, Pokemon Go, and Netflix. To run those kinds of application, you need the Magisk Manager app if you have a rooted device. By enabling the magisk hide on the app, you would able to run whatever application you need, which cannot work on rooted devices."
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "How to Download Magisk Manager Latest Version",
+            "img1" : "https://magiskroot.net/wp-content/uploads/2019/02/install-magisk-manager-apk.webp",
+            "img2" : "https://magiskroot.net/wp-content/uploads/2019/02/install-magisk-manager-apk.webp",
+            "part1" : "Step 1. Download the Magisk Manager app from the below link. Sadly this app was removed from the PlayStore because it violates the community guidelines of Google.",
+            "part2" : "Step 2. I am assuming that you have not enabled ‘Unknown Sources’ yet in the system settings. Step 3. Install Magisk Manager APK, which you have downloaded from the above link. Then a pop up says you need to enable Unknown Sources. Tap on the settings Step 4. Scroll down to find the Unknown Sources and Toggle it. Step 5. Go back and again. Install the Magisk Manager app. Step 6. It would take less than one minute to complete the installation process and Open the Manager.Step 7. If your device already rooted with SuperSu, then use the manager app to hide root or other stuff. Or if you want to root with Magisk Su binary, then follow the below steps."
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "How to Root Android with Magisk Su?",
+            "img1" : "https://magiskroot.net/wp-content/uploads/2019/02/flash-magisk-su-via-twrp.webp",
+            "img2" : "https://magiskroot.net/wp-content/uploads/2019/02/flash-magisk-su-via-twrp.webp",
+            "part1" : "Note:- There is a chance to stuck at bootloop or anything else with your phone after installation. So, I recommended you to download the Uninstaller flashable zip file along with the Below one. (No Need Now)",
+            "part2" : "Step 1. Download the latest Magisk v23 APK from the below link Step 2. The primary requirement is you have Custom Recovery Installed on your device before proceeding further. Boot your device into Custom recovery (I am Using TWRP). Step 3. Please tap on the Install button on the Home of TWRP and Select the Magisk.zip file from the Directory where you have stored it. Step 4. Then swipe the Install button. That’s it. Step 5. After that, Reboot your Android device and open the Magisk Manager to confirm that you have root access or not. If everything is fine, then I would suggest you to know how to download available modules from the repo. Below is the step by step process to learn more."
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "How to Download and Install Modules",
+            "img1" : "https://magiskroot.net/wp-content/uploads/2019/02/install-magisk-root-on-android.webp",
+            "img2" : "https://magiskroot.net/wp-content/uploads/2019/02/install-magisk-root-on-android.webp",
+            "part1" : "Step 1. Open the Magisk Manager app and drag the menu from left to right.",
+            "part2" : "Step 2. You can see the download section. Click on it and search for the module that you want from the library.Step 3. After choosing the module, Tap on Download Icon, as you can see from the below screenshot. Step 4. A pop up asks you to download or install the module. Here are two ways to install it on your android device. Step 5. It will automatically download and flash the Module on magisk manager app and then reboot the device to activate the module."
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "How to Use Magisk Hide",
+            "img1" : "https://magiskroot.net/wp-content/uploads/2019/02/download-magisk-modules.webp",
+            "img2" : "https://magiskroot.net/wp-content/uploads/2019/02/download-magisk-modules.webp",
+            "part1" : "Step 1. Open the magisk manager app and click on the menu icon on the top left corner.Step 2. Now, you can see the Settings option.",
+            "part2" : "Step 3. Click on settings and scroll down until you find the Magisk Hide. Toggle it. Again open a menu, and this time select Magisk Hide option. Step 4. By going through that option, you will able to hide the root access to the particular app."
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "How to Uninstall MagiskSu Completely",
+            "img1" : "https://magiskroot.net/wp-content/uploads/2019/02/flash-magisk-module-via-magisk-manager.webp",
+            "img2" : "https://magiskroot.net/wp-content/uploads/2019/02/flash-magisk-module-via-magisk-manager.webp",
+            "part1" : "Step 1. Open Magisk Manager app, and you can see the uninstall button at the bottom of the home.Do you want to unroot the phone? If yes, then proceed by tapping the Uninstall button.",
+            "part2" : "Step 2. Still, Want to Continue. Just Tap on Complete Uninstall button that will remove the Su binary and All the modules you have installed."
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "Conclusion",
+            "img1" : "https://magiskroot.net/wp-content/uploads/2019/02/set-magisk-hide.webp",
+            "img2" : "https://magiskroot.net/wp-content/uploads/2019/02/set-magisk-hide.webp",
+            "part1" : "Magic Mask is the best alternative for the Chainfire’s Supersu in the aspects of a Safetynet check. The major advantage is that you can run the applications which do not run on rooted devices and Google Safetynet check.",
+            "part2" : "Share this article with your friends and comment below if you feel any difficulty."
         }
       ]
 }
