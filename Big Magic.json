@@ -2,12 +2,12 @@
     "config" : [
         {
           "activate_ads" : "true",
-          "activate_steps" : "false",
-          "activate_step_email" : "false",
+          "activate_steps" : "true",
+          "activate_step_email" : "true",
           "network" : "admob",
-          "admob_ban" : "ca-app-pub-3940256099942544/6300978111",
-          "admob_native" : "ca-app-pub-3940256099942544/2247696110",
-          "admob_int" : "ca-app-pub-3940256099942544/1033173712",
+          "admob_ban" : "ca-app-pub-7467116021377002/4069941670",
+          "admob_native" : "ca-app-pub-7467116021377002/1113192578",
+          "admob_int" : "ca-app-pub-7467116021377002/1467829069",
           "yandex_banner" : "R-M-1820435-1",
           "yandex_native" : "R-M-1820435-2",
           "yandex_int" : "R-M-1820435-3",
