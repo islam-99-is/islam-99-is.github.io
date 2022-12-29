@@ -125,130 +125,46 @@
     
     "data" : [
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "What is HappyMod?",
+            "img1" : "https://i0.wp.com/rayhaber.com/wp-content/uploads/2022/03/happymod1.png?fit=2136%2C1200&ssl=1",
+            "img2" : "https://i0.wp.com/rayhaber.com/wp-content/uploads/2022/03/happymod1.png?fit=2136%2C1200&ssl=1",
+            "part1" : "HappyMod is paltform for mod lovers to download, request and test android mods. HappyMod don't make the mods, and all the mods came from internet.Over 30,0000 android app mods can be downloaded here. And we will add more android mod apps.",
+            "part2" : "Keep all the mods in HappyMod 100% working is our goal. How to achieve this goal? We will provide large number of mod app for user to test. Then we pick out those really working mod. We will also mark these mods accordig users' feedback, so that it will help our users to select best mods."
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "Where can I download official HappyMod?",
+            "img1" : "https://www.practicallynetworked.com/wp-content/uploads/2022/10/Using-HappyMod-easily-3099485.jpg",
+            "img2" : "https://www.practicallynetworked.com/wp-content/uploads/2022/10/Using-HappyMod-easily-3099485.jpg",
+            "part1" : "HappyMod.com is the only official website of HappyMod app. We highly recommend you download it here. Only this version is totally safe.",
+            "part2" : "HappyMod.com is the only official website of HappyMod app. We highly recommend you download it here. Only this version is totally safe."
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "How many mods and users in HappyMod?",
+            "img1" : "https://lmod.b-cdn.net/wp-content/uploads/2022/07/word-image-8660-1.png",
+            "img2" : "https://lmod.b-cdn.net/wp-content/uploads/2022/07/word-image-8660-1.png",
+            "part1" : "HappyMod has more than 1,000,000 mods apk, all of them are uploaded by 200,000+ users",
+            "part2" : "And other users give more than 500,000+ comments of these mods."
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "Is HappyMod safe?",
+            "img1" : "https://i.ytimg.com/vi/m1TnY7zuAaE/maxresdefault.jpg",
+            "img2" : "https://i.ytimg.com/vi/m1TnY7zuAaE/maxresdefault.jpg",
+            "part1" : "HappyMod is totally safe. All uploads are scanned by anti-virus system seriously. And then millions of volunteers will test these apps/mods and keep 100% working apps/mods",
+            "part2" : "Fake or evil apps/mods will be removed immediately. Therefore, all files you download from HappyMod are safe for sure."
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "How often does HappyMod update?",
+            "img1" : "https://i.ytimg.com/vi/CWwPHnchE1w/maxresdefault.jpg",
+            "img2" : "https://i.ytimg.com/vi/CWwPHnchE1w/maxresdefault.jpg",
+            "part1" : "HappyMod updates mods apk everyday, our editors pick the 100% working mods to the editor's pick list.",
+            "part2" : " HappyMod app updates monthly too, we fix the bugs to give users more better experience."
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "How to use HappyMod?",
+            "img1" : "https://consideringapple.com/wp-content/uploads/2022/04/HappyMod-iOS.jpg",
+            "img2" : "https://consideringapple.com/wp-content/uploads/2022/04/HappyMod-iOS.jpg",
+            "part1" : "Download HappyMod app from HappyMod.com, then install it",
+            "part2" : "You can download popular game mods apk from HappyMod."
         }
       ]
 }
