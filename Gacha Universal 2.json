@@ -1,0 +1,212 @@
+{
+    "config" : [
+        {
+          "activate_ads" : "true",
+          "activate_steps" : "true",
+          "activate_step_email" : "true",
+          "network" : "admob",
+          "admob_ban" : "ca-app-pub-7467116021377002/5661552499",
+          "admob_native" : "ca-app-pub-7467116021377002/9409225819",
+          "admob_int" : "ca-app-pub-7467116021377002/5469980805",
+          "yandex_banner" : "R-M-1820435-1",
+          "yandex_native" : "R-M-1820435-2",
+          "yandex_int" : "R-M-1820435-3",
+          "max_ban" : "ceda1a6dd62a0502",
+          "max_int" : "3805b3b693717700",
+          "max_native" : "9e27ff985bda79be",
+          "face_banner": "IMG_16_9_APP_INSTALL#5352092381549612_5352094308216086",
+          "face_interstital": "IMG_16_9_APP_INSTALL#5352092381549612_5352095061549344",
+          "face_native": "IMG_16_9_APP_INSTALL#5352092381549612_5352094618216055",
+          "face_mrec": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+          "ironsource_key": "12c959ebd"
+        }
+    ],
+    
+    "menu" : [
+        {
+            "active" : "true",
+            "name" : "Guide Tips",
+            "ico" : "",
+            "bg" : "#FB923C"
+        },
+        {
+            "active" : "true",
+            "name" : "puzzle",
+            "ico" : "https://img.icons8.com/ios/130/ffffff/puzzle.png",
+            "bg" : "#FBBF24"
+        },
+        {
+            "active" : "true",
+            "name" : "spinner",
+            "ico" : "https://img.icons8.com/ios/130/ffffff/rgb-circle-1.png",
+            "bg" : "#A3E635"
+        },
+        {
+            "active" : "true",
+            "name" : "scratch",
+            "ico" : "https://img.icons8.com/ios/130/ffffff/erase-image.png",
+            "bg" : "#38BDF8"
+        },
+        {
+            "active" : "true",
+            "name" : "questions",
+            "ico" : "https://img.icons8.com/ios/130/ffffff/how-many-quest--v2.png",
+            "bg" : "#2DD4BF"
+        },
+        {
+            "active" : "true",
+            "name" : "quiz",
+            "ico" : "https://img.icons8.com/ios/130/ffffff/what.png",
+            "bg" : "#4ADE80"
+        },
+        {
+            "active" : "true",
+            "name" : "wallpapers",
+            "ico" : "https://img.icons8.com/ios/130/ffffff/tails.png",
+            "bg" : "#2196F3"
+        },
+        {
+            "active" : "true",
+            "name" : "rate",
+            "ico" : "https://img.icons8.com/ios/130/ffffff/star--v1.png",
+            "bg" : "#3F51B5"
+        },
+        {
+            "active" : "true",
+            "name" : "gdpr",
+            "ico" : "https://img.icons8.com/ios/130/ffffff/gdpr.png",
+            "bg" : "#673AB7"
+        }
+
+    ],
+
+    "wallpapers" : [
+        {
+            "name" : "",
+            "img" : ""
+        },
+        {
+            "name" : "",
+            "img" : ""
+        },
+        {
+            "name" : "",
+            "img" : ""
+        },
+        {
+            "name" : "",
+            "img" : ""
+        },
+        {
+            "name" : "",
+            "img" : ""
+        },
+        {
+            "name" : "",
+            "img" : ""
+        },
+        {
+            "name" : "",
+            "img" : ""
+        },
+        {
+            "name" : "",
+            "img" : ""
+        },
+        {
+            "name" : "",
+            "img" : ""
+        },
+        {
+            "name" : "",
+            "img" : ""
+        }
+    ],
+    
+    "data" : [
+        {
+            "name" : "What is Gacha Life?",
+            "img1" : "https://www.internetmatters.org/wp-content/uploads/2020/11/Gacha-600x375.jpg",
+            "img2" : "https://www.internetmatters.org/wp-content/uploads/2020/11/Gacha-600x375.jpg",
+            "part1" : "Gacha Life is a roleplaying video game that allows users to create and customise anime-style characters on a mobile device. The word ‘gacha’ refers to small toys in Japan that can be bought from vending machines and come in tiny capsules.",
+            "part2" : "A demo version can be played on PC while the full version is played on a mobile device. It allows children and young people to roleplay as characters, creating stories of their own imagination, and it is most popular among older children and pre-teens."
+        },
+        {
+            "name" : "How does it work?",
+            "img1" : "https://static.gameloop.com/img/b246ff12b77bffcf461ba5927b0f27f8.jpg",
+            "img2" : "https://static.gameloop.com/img/b246ff12b77bffcf461ba5927b0f27f8.jpg",
+            "part1" : "Users can choose different outfits and accessories for their characters to wear and can customise parts of their appearance like their hair and eyes",
+            "part2" : "They can choose from 8 mini-games to play or can create scenes in Studio Mode and become ‘friends’ with non-player characters (NPCs). Some users may upload their Gacha Life stories onto other platforms to share with others."
+        },
+        {
+            "name" : "Is it safe for children?",
+            "img1" : "https://www.commonsensemedia.org/sites/default/files/styles/social_share_image/public/screenshots/csm-app/gachalife1.jpg",
+            "img2" : "https://www.commonsensemedia.org/sites/default/files/styles/social_share_image/public/screenshots/csm-app/gachalife1.jpg",
+            "part1" : "The Gacha Life app has been given an age-rating of 9+ on the Apple App Store and Everyone on the Google Play Store. Parents should be aware of the chat feature, access to in-app purchases and in-game ads. Ensure you have disabled in-app purchases to limit spending.",
+            "part2" : "In some instances, concerns were raised about incidents of strangers requesting underage age users to verify their age by sending inappropriate images of themselves. So, it’s important to have conversations with your child about what they do online and who they talk to. This will help them develop their critical thinking of what is and is not acceptable. It’s important they understand when to flag something to an appropriate adult should they get such requests."
+        },
+        {
+            "name" : "What is Gacha Heat?",
+            "img1" : "https://wisegeek.ru/kartinki/aac/1001-1300/1075-2.jpg",
+            "img2" : "https://wisegeek.ru/kartinki/aac/1001-1300/1075-2.jpg",
+            "part1" : "Gacha Heat is content generated by users of Gacha Life who upload the content on social media platforms like TikTok and YouTube. The content is inappropriate and offensive, and it goes beyond stories within Gacha Life gameplay. This content may include sexual violence and other sexual subject matter or may feature age-inappropriate relationships that normalise abusive behaviours.",
+            "part2" : "It is problematic because of its use of characters and art from the Gacha Life mobile video game. Children or young people could view these videos on social media apps, thinking it’s appropriate for them when they’re not. Make sure to check what they are watching and see how you can support them if they stumble across inappropriate content with our advice hub."
+        },
+        {
+            "name" : "How to enter a promo code?",
+            "img1" : "https://wisegeek.ru/kartinki/aac/1001-1300/1075-1.jpg",
+            "img2" : "https://wisegeek.ru/kartinki/aac/1001-1300/1075-1.jpg",
+            "part1" : "The developers have provided the opportunity for additional gifts for players",
+            "part2" : "You can enter the code if you enter the Options menu from the Home screen. There is a Redeem Promo Code button. By clicking on it, you must enter 9 digits."
+        },
+        {
+            "name" : "How do I dress up/customize my characters?",
+            "img1" : "https://sg-res.9appsdownloading.com/sg/res/jpg/4d/4a/b97d3f5553e79f3e065d92dd2936-qln2.jpg?x-oss-process=style/hq",
+            "img2" : "https://sg-res.9appsdownloading.com/sg/res/jpg/4d/4a/b97d3f5553e79f3e065d92dd2936-qln2.jpg?x-oss-process=style/hq",
+            "part1" : "At the beginning of the game, you have been given 8 character slots to dress up your characters. At the right side of the screen, there are multiple options to dress up your character such as:",
+            "part2" : "Presets – This is where you can select from a variety of characters. Body – You can change the character’s gender, change the skin color, height, and type of blush. You can also change the color presets of your character or tap the ‘Random Color’ to let the game randomize the colors for your character. Tap the ‘Random All’ to let the game choose the whole customization for you.You can also change the background of your character by tapping ‘BG’ from the home menu. Tap the ‘zoom’ button to zoom in your character."
+        },
+        {
+            "name" : "Use the studio mode",
+            "img1" : "https://gaming-vault.com/wp-content/uploads/2018/12/48395469_335015230673718_8409313487578202112_n-768x432.jpg",
+            "img2" : "https://gaming-vault.com/wp-content/uploads/2018/12/48395469_335015230673718_8409313487578202112_n-768x432.jpg",
+            "part1" : "Another feature the game has that you can use is the studio mode (Tap the ‘Studio’ button from the home menu). This is where you can include multiple characters from your 8 character slots into one scene. To include a character into the scene, tap any of the character icons below and they will be shown on the scene",
+            "part2" : "You can also tap the ‘BG’ button to change the background, tap the ‘Props’ button to include props or tap the ‘Chat’ button to include chat bubbles for your characters. If you want to remove all the characters from the scene, tap the ‘Remove All’ button. Make sure to tap the ‘Saves’ button to save the scene once you are happy with the result."
+        },
+        {
+            "name" : "How do I earn Gems?",
+            "img1" : "https://gaming-vault.com/wp-content/uploads/2018/12/48406297_264650994175535_7412539431732641792_n-768x432.jpg",
+            "img2" : "https://gaming-vault.com/wp-content/uploads/2018/12/48406297_264650994175535_7412539431732641792_n-768x432.jpg",
+            "part1" : "There are multiple ways to earn Gems. The first way is by tapping the ‘Gifts’ button from the home menu which includes simple missions like subscribing their youtube channel or follow them on Twitch. Completing them will reward you with a total of 900 Gems.",
+            "part2" : "The second way is by watching video ads (Tap the ‘Watch Ad’ from the home menu) which will reward you with 10-150 Gems. Take note that after watching an ad, the ‘Watch Ad’ button will show after a few minutes. There is an exploit that I found that allows you to watch video ads without waiting for a long time. All you have to do is just restart the app and the ‘Watch Ad’ button will show after a few seconds."
+        },
+        {
+            "name" : "How do I restore my Stamina?",
+            "img1" : "https://gaming-vault.com/wp-content/uploads/2018/12/49065969_2096604783985009_2506781177256345600_n-768x432.jpg",
+            "img2" : "https://gaming-vault.com/wp-content/uploads/2018/12/49065969_2096604783985009_2506781177256345600_n-768x432.jpg",
+            "part1" : "From the home menu, tap ‘Gacha’. This is where you can roll the Gacha using Gems to obtain gifts for your NPCs but also restore your stamina",
+            "part2" : "I recommend rolling the Ten Gacha as you will have a higher chance of obtaining high rarity gifts and restore more stamina."
+        },
+        {
+            "name" : "Chat with other players!",
+            "img1" : "https://play-lh.googleusercontent.com/ZF_XDcO2OcLb4RPj8ZDdTOmH35mAnFEAfU36SkorkLLQWTu1Nq0T_RqhublYGk-76g",
+            "img2" : "https://play-lh.googleusercontent.com/ZF_XDcO2OcLb4RPj8ZDdTOmH35mAnFEAfU36SkorkLLQWTu1Nq0T_RqhublYGk-76g",
+            "part1" : "When you have reached level 10, you will gain access to the chat room (Home menu->Chat). This is where you can chat with other players and send emotes",
+            "part2" : "You can also change channels if you want by tapping the ‘Change Channel’ button. Who knows, you might be able to make new friends while chatting."
+        },
+        {
+            "name" : "Learn To Level Up In Gacha Life",
+            "img1" : "https://melmagazine.com/wp-content/uploads/2020/08/gacha_life_sex_videos.jpg",
+            "img2" : "https://melmagazine.com/wp-content/uploads/2020/08/gacha_life_sex_videos.jpg",
+            "part1" : "Raising the friendship level of characters in Gacha Life increases the main level of the player. And, you get access to other functions such as gift, quiz, unlock the new character, import and export in the profile section, and fast travel.",
+            "part2" : "In the footer menu, tap the life button. This will take you to the life mode where you can interact with the characters; talk to them, ask questions, play quiz, gift them gacha items, etc. to raise the friendship level."
+        },
+        {
+            "name" : "Gacha For Gifts & Stamina",
+            "img1" : "https://www.levelwinner.com/wp-content/uploads/2018/11/gacha-life-guide-1000x562-1.webp",
+            "img2" : "https://www.levelwinner.com/wp-content/uploads/2018/11/gacha-life-guide-1000x562-1.webp",
+            "part1" : "Gift Items and stamina can be obtained by spending gems on gacha. There are two options available in the gacha menu;",
+            "part2" : "single gacha – draws x1 item, ten gacha – x10 draws. You can obtain 1-star to 6-star items. Higher the rarity of gift items, the more friendship XP the character gets to reach the next level."
+        }
+      ]
+}
