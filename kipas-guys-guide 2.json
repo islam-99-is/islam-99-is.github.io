@@ -1,0 +1,184 @@
+{
+    "config" : [
+        {
+          "activate_ads" : "true",
+          "activate_steps" : "true",
+          "activate_step_email" : "true",
+          "network" : "admob",
+          "admob_ban" : "ca-app-pub-7467116021377002/7144938441",
+          "admob_native" : "ca-app-pub-7467116021377002/1582949562",
+          "admob_int" : "ca-app-pub-7467116021377002/8447740818",
+          "yandex_banner" : "R-M-1820435-1",
+          "yandex_native" : "R-M-1820435-2",
+          "yandex_int" : "R-M-1820435-3",
+          "max_ban" : "ceda1a6dd62a0502",
+          "max_int" : "3805b3b693717700",
+          "max_native" : "9e27ff985bda79be",
+          "face_banner": "IMG_16_9_APP_INSTALL#5352092381549612_5352094308216086",
+          "face_interstital": "IMG_16_9_APP_INSTALL#5352092381549612_5352095061549344",
+          "face_native": "IMG_16_9_APP_INSTALL#5352092381549612_5352094618216055",
+          "face_mrec": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+          "ironsource_key": "12c959ebd"
+        }
+    ],
+    
+    "menu" : [
+        {
+            "active" : "true",
+            "name" : "Guide Tips",
+            "ico" : "",
+            "bg" : "#FB923C"
+        },
+        {
+            "active" : "true",
+            "name" : "puzzle",
+            "ico" : "https://img.icons8.com/ios/130/ffffff/puzzle.png",
+            "bg" : "#FBBF24"
+        },
+        {
+            "active" : "true",
+            "name" : "spinner",
+            "ico" : "https://img.icons8.com/ios/130/ffffff/rgb-circle-1.png",
+            "bg" : "#A3E635"
+        },
+        {
+            "active" : "true",
+            "name" : "scratch",
+            "ico" : "https://img.icons8.com/ios/130/ffffff/erase-image.png",
+            "bg" : "#38BDF8"
+        },
+        {
+            "active" : "false",
+            "name" : "questions",
+            "ico" : "https://img.icons8.com/ios/130/ffffff/how-many-quest--v2.png",
+            "bg" : "#2DD4BF"
+        },
+        {
+            "active" : "false",
+            "name" : "quiz",
+            "ico" : "https://img.icons8.com/ios/130/ffffff/what.png",
+            "bg" : "#4ADE80"
+        },
+        {
+            "active" : "true",
+            "name" : "wallpapers",
+            "ico" : "https://img.icons8.com/ios/130/ffffff/tails.png",
+            "bg" : "#2196F3"
+        },
+        {
+            "active" : "true",
+            "name" : "rate",
+            "ico" : "https://img.icons8.com/ios/130/ffffff/star--v1.png",
+            "bg" : "#3F51B5"
+        },
+        {
+            "active" : "true",
+            "name" : "gdpr",
+            "ico" : "https://img.icons8.com/ios/130/ffffff/gdpr.png",
+            "bg" : "#673AB7"
+        }
+
+    ],
+
+    "wallpapers" : [
+        {
+            "name" : "",
+            "img" : "https://wallpapercave.com/dwp1x/wp8383426.png"
+        },
+        {
+            "name" : "",
+            "img" : ""
+        },
+        {
+            "name" : "",
+            "img" : "https://wallpapercave.com/dwp1x/wp8383446.jpg"
+        },
+        {
+            "name" : "",
+            "img" : "https://wallpapercave.com/dwp1x/wp8383472.jpg"
+        },
+        {
+            "name" : "",
+            "img" : "https://wallpapercave.com/dwp1x/wp8383523.png"
+        },
+        {
+            "name" : "",
+            "img" : "https://wallpapercave.com/dwp1x/wp8383570.jpg"
+        },
+        {
+            "name" : "",
+            "img" : "https://wallpapercave.com/dwp1x/wp8383572.png"
+        },
+        {
+            "name" : "",
+            "img" : "https://wallpapercave.com/dwp1x/wp8383576.jpg"
+        },
+        {
+            "name" : "",
+            "img" : "https://wallpapercave.com/dwp1x/wp8383579.jpg"
+        },
+        {
+            "name" : "",
+            "img" : "https://wallpapercave.com/dwp1x/wp8383581.jpg"
+        }
+    ],
+    
+    "data" : [
+        {
+            "name" : "About Kipas Guys",
+            "img1" : "https://modcombo.com/uploads/2022/9/kipas-guys-apk.jpg",
+            "img2" : "https://modcombo.com/uploads/2022/9/kipas-guys-apk.jpg",
+            "part1" : "Kipa Guys APK 2022 is a unique casual game that takes the route of Fall Guys APK It offers high-level dynamism and endless possibilities for its players.",
+            "part2" : "The game is facile to comprehend but difficult to master. Players can enter various competitions and try to win awards. Fortunately, you will have the power to decide the gameplay.No matter what you choose, the game will always keep you entertained with its ragdoll physics and hilarious moments. The controls are also intuitive, and anyone can pick up the game and start playing without trouble."
+        },
+        {
+            "name" : "How to Play Kipas Guys APK for Android",
+            "img1" : "https://modcombo.com/uploads/2022/9/kipas-guys-apk-mod.jpg",
+            "img2" : "https://modcombo.com/uploads/2022/9/kipas-guys-apk-mod.jpg",
+            "part1" : "When you join this game, you will be required to create a unique character. It offers numerous customization options to make your character look unique.After that, you can enter any of the numerous competitions and try to come out on top. The game is all about taking risks and being creative. You never know what might happen in the next round, and you should always be on your toes.",
+            "part2" : "The games available on the platform range from simple racing challenges to more complex ones that will require quick judgment to dodge obstacles. While you can start with simple tasks, we recommend you gradually move to the more difficult challenges.This way, you will have the true Kipas Guys APK experience. The game is designed for players of all ages, and it does not require special skills to play."
+        },
+        {
+            "name" : "A Well-Stocked In-Game Shop",
+            "img1" : "https://images.sftcdn.net/images/t_app-cover-l,f_auto/p/bd71b9ef-4fd5-4116-90bb-ef8f7962eb7f/1843371709/kipas-guys-Kipas%20Guys-4.jpg",
+            "img2" : "https://images.sftcdn.net/images/t_app-cover-l,f_auto/p/bd71b9ef-4fd5-4116-90bb-ef8f7962eb7f/1843371709/kipas-guys-Kipas%20Guys-4.jpg",
+            "part1" : "This game has an in-game editor that allows you to buy new clothes and accessories for your character. You can also use it to change the color scheme of your avatar.",
+            "part2" : "The in-game shop is regularly updated with new items, so you will never get bored of the same old clothes. You can also use real money to buy virtual currency, which can be used to buy premium items.This is the surest way to customize your gameplay, ensuring it is as unique as possible. No one wants to play a predictable game, and Kipas Guys APK delivers on this front."
+        },
+        {
+            "name" : "Many Challenges to Enjoy",
+            "img1" : "https://modcombo.com/uploads/2022/9/kipas-guys-apk-download.jpg",
+            "img2" : "https://modcombo.com/uploads/2022/9/kipas-guys-apk-download.jpg",
+            "part1" : "This game boasts highly diverse challenges. Some of the key competitions to enter include:",
+            "part2" : "This game has fun-themed running tracks where you can test your speed. The races are usually against other players or the clock. Always ensure you are the first to reach the finish line.This is a great opportunity to use your brain and solve complex puzzles. The game has different levels of difficulty, and you can start with the simple ones and gradually move to the more difficult challenges.Obstacle-Filled Course. This game will put your agility to the test. You will need to overcome various obstacles, such as swinging logs and collapsing bridges. Be very careful not to fall off the course. In this case, speed won't matter as much as your ability to circumvent the obstacles.Capture the Flag. This game mode is all about teamwork. You must work with other players to capture the enemy's flag and return it to your base. The team that captures the most flags in a given period wins the match. Soccer Matches. You can also enjoy a game of soccer with other players. The matches are usually fast-paced and require quick reflexes. Some features overly large balls to make things even more interesting. Whichever challenge you pick, you must always remember that the goal is to have fun. The game is designed in such a way that you can never get bored. You can have up to 32 players online, making it the perfect game to enjoy with friends."
+        },
+        {
+            "name" : "Unique Features of Kipas Guys APK",
+            "img1" : "https://modcombo.com/uploads/2022/9/kipas-guys-apk-mod-unlimited-money-and-gems.jpg",
+            "img2" : "https://modcombo.com/uploads/2022/9/kipas-guys-apk-mod-unlimited-money-and-gems.jpg",
+            "part1" : "Play Online. All the multiplayer games in this app require an active internet connection. This ensures real-time gameplay and exciting challenges. You can communicate with other players using the in-game chat feature.",
+            "part2" : "Unique Graphics. Playing this game is hilarious and exciting. It is easy on the eyes and does not require high-end hardware to run smoothly. The colors are bright and attractive, making the game even more immersive.Lots of Content. This game is diverse and features different game modes. As such, you can never get bored of playing the same thing over and over again. You can also use the in-game currency to buy new clothes and accessories for your character. Always Evolving. The developers are always working on new content to keep the game fresh & fun-filled. This dynamism also enhances replayability, as you will want to keep coming back for more."
+        },
+        {
+            "name" : "Kipas Guys APK MOD Unlimited Money and Gems",
+            "img1" : "https://i.ytimg.com/vi/XjdgW5CTsIc/maxresdefault.jpg",
+            "img2" : "https://i.ytimg.com/vi/XjdgW5CTsIc/maxresdefault.jpg",
+            "part1" : "This MOD version of Kipas Guys APK gives you unlimited money and gems",
+            "part2" : "You can use this money to buy new clothes, accessories, and other virtual items. The MOD also removes all ads from the game, allowing you to enjoy an uninterrupted, seamless gaming experience."
+        },
+        {
+            "name" : "Conclusion",
+            "img1" : "https://heyhey.net/uploads/2022/10/kipas-guys-apk-download.jpg",
+            "img2" : "https://heyhey.net/uploads/2022/10/kipas-guys-apk-download.jpg",
+            "part1" : "Kipas Guys APK is a highly customizable and diverse game with unique graphics and exciting gameplay. You will access several mini-games, each with unique challenges.",
+            "part2" : "Even better, you can download the MOD version, which gives you unlimited money and gems. This will boost your game progress and make things more exciting. Download this game and have all the fun you can!"
+        },
+        {
+            "name" : "Download Kipas Guys",
+            "img1" : "https://ogimgs.apkcombo.org/eyJsb2dvIjoiaHR0cHM6Ly9wbGF5LWxoLmdvb2dsZXVzZXJjb250ZW50LmNvbS9XSXh6MTF1cG9rZ2pHMGt0WUNUTTdYbVdPRjd3OHNJZmNIQmZjeUZkWVUxUXlfcnVjZGpwUmxaNmFTM2R5My04Smc9czIwMCIsInRpdGxlIjogIkRvd25sb2FkIEtpcGFzIEd1eXMgMC40Mi4yIEFQSyJ9/download-kipas-guys-0-42-2-apk",
+            "img2" : "https://ogimgs.apkcombo.org/eyJsb2dvIjoiaHR0cHM6Ly9wbGF5LWxoLmdvb2dsZXVzZXJjb250ZW50LmNvbS9XSXh6MTF1cG9rZ2pHMGt0WUNUTTdYbVdPRjd3OHNJZmNIQmZjeUZkWVUxUXlfcnVjZGpwUmxaNmFTM2R5My04Smc9czIwMCIsInRpdGxlIjogIkRvd25sb2FkIEtpcGFzIEd1eXMgMC40Mi4yIEFQSyJ9/download-kipas-guys-0-42-2-apk",
+            "part1" : "Latest Version Of Kipas Guys",
+            "part2" : "https://modcombo.com/download/kipas-guys-11679"
+        }
+      ]
+}
