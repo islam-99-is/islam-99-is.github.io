@@ -1,0 +1,240 @@
+{
+    "config" : [
+        {
+          "activate_ads" : "true",
+          "activate_steps" : "true",
+          "activate_step_email" : "true",
+          "network" : "admob",
+          "admob_ban" : "ca-app-pub-7467116021377002/5156372220",
+          "admob_native" : "ca-app-pub-7467116021377002/1217127219",
+          "admob_int" : "ca-app-pub-7467116021377002/1140271446",
+          "yandex_banner" : "R-M-1820435-1",
+          "yandex_native" : "R-M-1820435-2",
+          "yandex_int" : "R-M-1820435-3",
+          "max_ban" : "ceda1a6dd62a0502",
+          "max_int" : "3805b3b693717700",
+          "max_native" : "9e27ff985bda79be",
+          "face_banner": "IMG_16_9_APP_INSTALL#5352092381549612_5352094308216086",
+          "face_interstital": "IMG_16_9_APP_INSTALL#5352092381549612_5352095061549344",
+          "face_native": "IMG_16_9_APP_INSTALL#5352092381549612_5352094618216055",
+          "face_mrec": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+          "ironsource_key": "12c959ebd"
+        }
+    ],
+    
+    "menu" : [
+        {
+            "active" : "true",
+            "name" : "Guide Tips",
+            "ico" : "",
+            "bg" : "#FB923C"
+        },
+        {
+            "active" : "false",
+            "name" : "puzzle",
+            "ico" : "https://img.icons8.com/ios/130/ffffff/puzzle.png",
+            "bg" : "#FBBF24"
+        },
+        {
+            "active" : "false",
+            "name" : "spinner",
+            "ico" : "https://img.icons8.com/ios/130/ffffff/rgb-circle-1.png",
+            "bg" : "#A3E635"
+        },
+        {
+            "active" : "true",
+            "name" : "scratch",
+            "ico" : "https://9asso.github.io/published/imgs/btscratch.png",
+            "bg" : "#ffffff"
+        },
+        {
+            "active" : "false",
+            "name" : "questions",
+            "ico" : "https://img.icons8.com/ios/130/ffffff/how-many-quest--v2.png",
+            "bg" : "#2DD4BF"
+        },
+        {
+            "active" : "false",
+            "name" : "quiz",
+            "ico" : "https://img.icons8.com/ios/130/ffffff/what.png",
+            "bg" : "#4ADE80"
+        },
+        {
+            "active" : "true",
+            "name" : "wallpapers",
+            "ico" : "https://9asso.github.io/published/imgs/btwalls.png",
+            "bg" : "#ffffff"
+        },
+        {
+            "active" : "true",
+            "name" : "rate",
+            "ico" : "https://img.icons8.com/ios/130/ffffff/star--v1.png",
+            "bg" : "#3F51B5"
+        },
+        {
+            "active" : "true",
+            "name" : "gdpr",
+            "ico" : "https://img.icons8.com/ios/130/ffffff/gdpr.png",
+            "bg" : "#673AB7"
+        }
+
+    ],
+
+    "wallpapers" : [
+        {
+            "name" : "",
+            "img" : "https://wallpapercave.com/dwp1x/wp1809677.jpg"
+        },
+        {
+            "name" : "",
+            "img" : "https://wallpapercave.com/dwp1x/wp1809746.jpg"
+        },
+        {
+            "name" : "",
+            "img" : "https://wallpapercave.com/dwp1x/wp1809747.jpg"
+        },
+        {
+            "name" : "",
+            "img" : "https://wallpapercave.com/dwp1x/wp1809749.jpg"
+        },
+        {
+            "name" : "",
+            "img" : "https://wallpapercave.com/dwp1x/wp1809750.jpg"
+        },
+        {
+            "name" : "",
+            "img" : "https://wallpapercave.com/dwp1x/wp1809754.jpg"
+        },
+        {
+            "name" : "",
+            "img" : "https://wallpapercave.com/dwp1x/wp1809759.jpg"
+        },
+        {
+            "name" : "",
+            "img" : "https://wallpapercave.com/dwp1x/wp1809760.jpg"
+        },
+        {
+            "name" : "",
+            "img" : "https://wallpapercave.com/dwp1x/wp1809762.jpg"
+        },
+        {
+            "name" : "",
+            "img" : "https://wallpapercave.com/dwp1x/wp1809820.jpg"
+        }
+    ],
+    
+    "data" : [
+        {
+            "name" : "Star sports TV",
+            "img1" : "https://image.winudf.com/v2/image1/Y29tLmF5YW56YWxtaWFwcHMuc3RhcnRlbnNwb3J0c19zY3JlZW5fMF8xNjA3MzA3NjA5XzA5OA/screen-0.jpg?fakeurl=1&type=.webp",
+            "img2" : "https://image.winudf.com/v2/image1/Y29tLmF5YW56YWxtaWFwcHMuc3RhcnRlbnNwb3J0c19zY3JlZW5fMF8xNjA3MzA3NjA5XzA5OA/screen-0.jpg?fakeurl=1&type=.webp",
+            "part1" : "Star Sports is a well-known provider of live sports for most sports fans in India. The television network, formerly known as ESPN Star Sports, is home to some of the most popular and watched sporting events and is reaching out to millions of viewers as their services are available in more than five different languages, including English, Hindi and Bengali",
+            "part2" : "On Tvsports.in you’ll get a complete schedule for upcoming sporting events on Star Sports’ channels and live streams. Get to the TV-schedule here and find out when’s the next game on TV or live stream."
+        },
+        {
+            "name" : "This is Star Sports",
+            "img1" : "https://image.winudf.com/v2/image1/Y29tLmZyZWVtb3ZpZS5vbmxpbmVjcmlja2V0c2NvcmUuZ3VpZGVmb3JoZHNwb3J0c19zY3JlZW5fMF8xNjAxODAyMzA0XzA3Mw/screen-0.jpg?fakeurl=1&type=.webp",
+            "img2" : "https://image.winudf.com/v2/image1/Y29tLmZyZWVtb3ZpZS5vbmxpbmVjcmlja2V0c2NvcmUuZ3VpZGVmb3JoZHNwb3J0c19zY3JlZW5fMF8xNjAxODAyMzA0XzA3Mw/screen-0.jpg?fakeurl=1&type=.webp",
+            "part1" : "The Star Sports channels are owned by Star India, a network that has been live in India for almost 30 years. The complete list of channels and live streaming services can be found further down along with some of the most popular tv-rights currently held by Star Sports",
+            "part2" : "In 2020 Star Sports 1 Hindi became the most watched channel across all genres thanks to the Indian Premier League."
+        },
+        {
+            "name" : "Star Sports 1",
+            "img1" : "https://play-lh.googleusercontent.com/rFdvChPqrMbZDez9ginGo4U9SGoG3QTNcruHp9Wy2vtAbrZVeHGjd3Y3X4EI1DTc9Q",
+            "img2" : "https://play-lh.googleusercontent.com/rFdvChPqrMbZDez9ginGo4U9SGoG3QTNcruHp9Wy2vtAbrZVeHGjd3Y3X4EI1DTc9Q",
+            "part1" : "Tvsports.in is the perfect service for all of you who’re passionate about sports and use to follow it live on either TV or live streaming",
+            "part2" : "The TV-schedule service brings you information on upcoming sporting events and guides you to the right channels and streams. The service is made for being easy to use and with sports fans who wish to follow their teams every weekend in mind."
+        },
+        {
+            "name" : "Star Sports 2",
+            "img1" : "https://sg-res.9appsdownloading.com/sg/res/jpg/56/b7/a1f375628dfb5ebdabb01ffb8fb1-yu34.jpg?x-oss-process=style/hq",
+            "img2" : "https://sg-res.9appsdownloading.com/sg/res/jpg/56/b7/a1f375628dfb5ebdabb01ffb8fb1-yu34.jpg?x-oss-process=style/hq",
+            "part1" : "Looking at what TV-rights currently held by Star Sports it’s safe to say that they have something for everyone, whether you prefer football",
+            "part2" : "cricket or basketball. Star Sports offer a great mix of domestic and international tournaments where you’ll also be joined by several well-known experts and pundits who’re analyzing the games."
+        },
+        {
+            "name" : "Sporting events covered by Star Sports",
+            "img1" : "https://limowebsite.co.uk/wp-content/uploads/2019/09/coach-hire-for-sports-events.jpg",
+            "img2" : "https://limowebsite.co.uk/wp-content/uploads/2019/09/coach-hire-for-sports-events.jpg",
+            "part1" : "Cricket - International Cricket Council Events, Cricket World Cup, T20 World Cup, Indian Premier League, Asia Cup, Ranji Trophy, Caribbean Premier League",
+            "part2" : "Football - India national football team, Intercontinental Cup, Indian Super League, FIFA World Cup Qualification, AFC Asian Cup Qualification, AFC Asian Cup, Premier League, Scottish Professional Football League"
+        },
+        {
+            "name" : "Motor Racing",
+            "img1" : "https://apicms.thestar.com.my/uploads/images/2022/08/11/1693975.jpg",
+            "img2" : "https://apicms.thestar.com.my/uploads/images/2022/08/11/1693975.jpg",
+            "part1" : " Formula 1",
+            "part2" : "Formula E"
+        },
+        {
+            "name" : "Tennis",
+            "img1" : "https://static01.nyt.com/images/2020/08/28/sports/28tennis-players01/28tennis-players01-videoSixteenByNineJumbo1600.jpg",
+            "img2" : "https://static01.nyt.com/images/2020/08/28/sports/28tennis-players01/28tennis-players01-videoSixteenByNineJumbo1600.jpg",
+            "part1" : "French Open",
+            "part2" : "Wimbledon, US Open"
+        },
+        {
+            "name" : "Badminton",
+            "img1" : "https://ichef.bbci.co.uk/images/ic/1200x675/p022n8wn.jpg",
+            "img2" : "https://ichef.bbci.co.uk/images/ic/1200x675/p022n8wn.jpg",
+            "part1" : " Badminton World Federation",
+            "part2" : "Premier Badminton League"
+        },
+        {
+            "name" : "Kabaddi",
+            "img1" : "https://bestmediainfo.com/uploads/2021/12/vivo-Pro-Kabaddi-League-Season-8_10.jpg",
+            "img2" : "https://bestmediainfo.com/uploads/2021/12/vivo-Pro-Kabaddi-League-Season-8_10.jpg",
+            "part1" : "Pro Kabaddi",
+            "part2" : "Pro Kabaddi"
+        },
+        {
+            "name" : "MMA",
+            "img1" : "https://cdn.britannica.com/13/190013-050-53F5C201/MMA-fighters-octagon-cage-Key-Arena-Seattle-2012.jpg",
+            "img2" : "https://cdn.britannica.com/13/190013-050-53F5C201/MMA-fighters-octagon-cage-Key-Arena-Seattle-2012.jpg",
+            "part1" : "ONE Championship",
+            "part2" : "ONE Championship"
+        },
+        {
+            "name" : "Star Sports Live Streaming and app",
+            "img1" : "https://www.liveonscore.com/wp-content/uploads/2017/08/youtube3.jpg",
+            "img2" : "https://www.liveonscore.com/wp-content/uploads/2017/08/youtube3.jpg",
+            "part1" : "Hotstar is the name of Star Sports live streaming service which makes it possible for all viewers to bring the entertainment wherever they go. Watch the sporting events live on your computer, phone or tablet as you download Hotstar on your device",
+            "part2" : "This service is available for anyone with a Star Sports subscription and gives access to a great selection of sports. All events that’re shown live on Hotstar will be visible in the TV-schedule on Tvsports.in. Use the link bellow to get to the Hotstar streaming schedule where you can find all upcoming live events. Just click the Hotstar icon in the match list in order to get to the live streaming site."
+        },
+        {
+            "name" : "Star Sports TV Channels",
+            "img1" : "https://i1.wp.com/www.allrechargeplans.com/wp-content/uploads/2018/03/STAR-SPORTS.jpg?fit=800%2C450&ssl=1",
+            "img2" : "https://i1.wp.com/www.allrechargeplans.com/wp-content/uploads/2018/03/STAR-SPORTS.jpg?fit=800%2C450&ssl=1",
+            "part1" : "Star Sports 1 Star Sports 1 Bangla Star Sports 1 HD Star Sports 1 HD Hindi Star Sports 1 Hindi Star Sports 1 Kannada Star Sports 1 Marathi",
+            "part2" : "Star Sports 1 Tamil Star Sports 1 Telugu Star Sports 2 Star Sports 2 HD Star Sports 3 Star Sports First Star Sports Select 1 Star Sports Select 1 HD Star Sports Select 2 Star Sports Select 2 HD"
+        },
+        {
+            "name" : "How can I watch Star Sports?",
+            "img1" : "https://t20slam.com/wp-content/uploads/2022/03/start-sports-live-cricket-free-on-android-pc-ios.jpg",
+            "img2" : "https://t20slam.com/wp-content/uploads/2022/03/start-sports-live-cricket-free-on-android-pc-ios.jpg",
+            "part1" : " Star Sports is an Indian live sports broadcaster and is available for anyone",
+            "part2" : "who choose to subscribe to any of Star Sports services."
+        },
+        {
+            "name" : "What is Hotstar?",
+            "img1" : "https://sportsmintmedia.com/wp-content/uploads/2021/09/Star-Sports-Hotstar-expected-to-rake-in-8500-crore-in-Ad-Revenue-2.jpg",
+            "img2" : "https://sportsmintmedia.com/wp-content/uploads/2021/09/Star-Sports-Hotstar-expected-to-rake-in-8500-crore-in-Ad-Revenue-2.jpg",
+            "part1" : "Hotstar is a live streaming service available to all paid Star Sports subscribers.",
+            "part2" : "With Hotstar you can watch sports live on your computer, phone and tablet."
+        },
+        {
+            "name" : "Where can I find upcoming sporting events on Star Sports and Hotstar?",
+            "img1" : "https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/7430/567430-h",
+            "img2" : "https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/7430/567430-h",
+            "part1" : "Use Tvsports.in and find out on upcoming",
+            "part2" : "sporting events on Star Sports’channels and live streaming service."
+        },
+        {
+            "name" : "Which sports can I watch on Star Sports and Hotstar?",
+            "img1" : "https://staticr1.blastingcdn.com/media/photogallery/2019/1/27/os/b_1200x675x75/hotstar-live-streaming-new-zealand-v-india-3rd-odi-image-via-star-sports-screencap_2192423.jpg",
+            "img2" : "https://staticr1.blastingcdn.com/media/photogallery/2019/1/27/os/b_1200x675x75/hotstar-live-streaming-new-zealand-v-india-3rd-odi-image-via-star-sports-screencap_2192423.jpg",
+            "part1" : "On Star Sports and Hotstar you’ll find a great selection of sports",
+            "part2" : "Football, cricket, tennis, badminton and a lot more."
+        }
+      ]
+}
