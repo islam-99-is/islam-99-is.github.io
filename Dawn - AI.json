@@ -1,7 +1,7 @@
 {
     "config" : [
         {
-          "activate_ads" : "true",
+          "activate_ads" : "false",
           "activate_steps" : "true",
           "activate_step_email" : "true",
           "network" : "admob",
