@@ -1,0 +1,23 @@
+{
+  
+    "myads": {
+		
+	  "_status_reward": "ADMOB",
+	  "_status_banner_native": "ADMOB",
+	  "_admob_app_id": "ca-app-pub-4411494203157465~2489613141",
+	  "_admob_reward": "ca-app-pub-4411494203157465/3611123126",
+      "_admob_banner": "ca-app-pub-4411494203157465/4349489726",
+      "_admob_Native": "ca-app-pub-4411494203157465/6592509682",
+	  "_applovin_banner": "296685bbed39d4f9",
+      "_applovin_reward": "3ece17d5a85411f6",
+	  "_maxNative": "4b3b3d32a7a2e7d1",
+      "_test_mode": "yes",
+      "_unityGameID": "4710101",
+	  "_ironsource": "1632ba565",
+	  "_gameUrl": "https://poki.com/en/g/jollyworld?gdlvl=Qquyb2uGDHPLv2wjPB_Gj",
+	  "_currency_name": "points",
+      "_currency_cost": "20"
+      
+    }
+  
+}
