@@ -1,4 +1,4 @@
-{
+{q
     "config" : [
         {
           "activate_ads" : "false",
@@ -125,7 +125,7 @@
     
     "data" : [
         {
-            "name" : "",
+            "name" : "What is Nicoo?",
             "img1" : "",
             "img2" : "",
             "part1" : "",
