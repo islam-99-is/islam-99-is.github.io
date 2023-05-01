@@ -30,37 +30,37 @@
             "bg" : "#FB923C"
         },
         {
-            "active" : "true",
+            "active" : "false",
             "name" : "puzzle",
             "ico" : "https://img.icons8.com/ios/130/ffffff/puzzle.png",
             "bg" : "#FBBF24"
         },
         {
-            "active" : "true",
+            "active" : "false",
             "name" : "spinner",
             "ico" : "https://img.icons8.com/ios/130/ffffff/rgb-circle-1.png",
             "bg" : "#A3E635"
         },
         {
-            "active" : "true",
+            "active" : "false",
             "name" : "scratch",
             "ico" : "https://img.icons8.com/ios/130/ffffff/erase-image.png",
             "bg" : "#38BDF8"
         },
         {
-            "active" : "true",
+            "active" : "false",
             "name" : "questions",
             "ico" : "https://img.icons8.com/ios/130/ffffff/how-many-quest--v2.png",
             "bg" : "#2DD4BF"
         },
         {
-            "active" : "true",
+            "active" : "false",
             "name" : "quiz",
             "ico" : "https://img.icons8.com/ios/130/ffffff/what.png",
             "bg" : "#4ADE80"
         },
         {
-            "active" : "true",
+            "active" : "false",
             "name" : "wallpapers",
             "ico" : "https://img.icons8.com/ios/130/ffffff/tails.png",
             "bg" : "#2196F3"
@@ -125,130 +125,32 @@
     
     "data" : [
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "Couscous is a North African",
+            "img1" : "https://i0.wp.com/www.onceuponachef.com/images/2016/10/Perfect-Couscous.jpg?resize=760%2C503&ssl=1",
+            "img2" : "https://i0.wp.com/www.onceuponachef.com/images/2016/10/Perfect-Couscous.jpg?resize=760%2C503&ssl=1",
+            "part1" : "Couscous is a North African dish made from tiny steamed balls of semolina flour. Though we think of it and cook it as a grain, it is actually a type of pasta. Traditional couscous is steamed in a special double-chambered cooking vessel called a couscousière. It is a multi-step, time-consuming process",
+            "part2" : "However, in the States, the instant variety of couscous is much more prevalent. Because it is partially pre-cooked, it cooks in just 5 minutes, making it one of the easiest, fastest, most versatile side dishes you can have make — much quicker than rice or mashed potatoes. The cooking instructions on the back of the box make fine couscous, but this recipe shows how to take it up a notch."
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "STEP-BY-STEP INSTRUCTIONS",
+            "img1" : "https://www.jessicagavin.com/wp-content/uploads/2019/03/mediterranean-couscous-salad-2-1200.jpg",
+            "img2" : "https://www.jessicagavin.com/wp-content/uploads/2019/03/mediterranean-couscous-salad-2-1200.jpg",
+            "part1" : "To start, bring the cooking liquid (preferably a flavorful chicken or vegetable broth) to a boil in a medium pot. Add a drizzle of olive oil, a pat of butter, and a little salt.",
+            "part2" : "Next, add the couscous. (I use 1-3/4 cups liquid to 1-1/2 cups couscous.) Take the pan off the heat, cover, and let the couscous steam for 5 minutes. When you lift the lid, the grains will appear flat in an even layer. Use a fork to fluff it up and break up the clumps for light and fluffy couscous."
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "INSTRUCTIONS",
+            "img1" : "https://www.onceuponachef.com/images/2016/10/Perfect-Couscous.jpg",
+            "img2" : "https://www.onceuponachef.com/images/2016/10/Perfect-Couscous.jpg",
+            "part1" : "In a medium saucepan, bring the water (or broth), salt, butter",
+            "part2" : "and oil to a boil. Stir in the couscous, cover tightly with a lid, and remove from heat. Let the couscous steam for 5 minutes. Use a fork to fluff the couscous and break up any clumps. Serve warm."
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "My Favorite One-Skillet Chicken Dinner",
+            "img1" : "https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_4:3/k%2Farchive%2F0a89f40a16e755007763ab2a520aae8f04f7769c",
+            "img2" : "https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_4:3/k%2Farchive%2F0a89f40a16e755007763ab2a520aae8f04f7769c",
+            "part1" : "Chicken thighs are my forever go-to protein, and eggplant, tomato, and couscous are some of my favorite ingredients, so I decided to combine them all together for the ultimate one-skillet dinner.",
+            "part2" : "You’ll start by searing the chicken thighs on both sides until the skin is brown and crispy. Then, sauté shallot and garlic until fragrant, add tomato paste and spices, then toss in the eggplant, crushed tomatoes, and chicken broth. Lastly, add the couscous to the pan, layer the chicken thighs on top, and cover and cook until the couscous is al dente and the chicken is cooked through. Now that’s a dinner win."
         }
       ]
 }
