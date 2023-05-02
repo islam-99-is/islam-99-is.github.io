@@ -19,6 +19,8 @@
           "face_native": "IMG_16_9_APP_INSTALL#5352092381549612_5352094618216055",
           "face_mrec": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
           "ironsource_key": "12c959ebd"
+          "cpa_img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQgLb_jegoW0TjYVL7GjI1w7hI6re75uvhytCeCgcb&s",
+          "cpa_url" : "https://play.google.com/store/apps/details?id=com.instagram.android"
         }
     ],
     
@@ -30,37 +32,37 @@
             "bg" : "#FB923C"
         },
         {
-            "active" : "true",
+            "active" : "false",
             "name" : "puzzle",
             "ico" : "https://img.icons8.com/ios/130/ffffff/puzzle.png",
             "bg" : "#FBBF24"
         },
         {
-            "active" : "true",
+            "active" : "false",
             "name" : "spinner",
             "ico" : "https://img.icons8.com/ios/130/ffffff/rgb-circle-1.png",
             "bg" : "#A3E635"
         },
         {
-            "active" : "true",
+            "active" : "false",
             "name" : "scratch",
             "ico" : "https://img.icons8.com/ios/130/ffffff/erase-image.png",
             "bg" : "#38BDF8"
         },
         {
-            "active" : "true",
+            "active" : "false",
             "name" : "questions",
             "ico" : "https://img.icons8.com/ios/130/ffffff/how-many-quest--v2.png",
             "bg" : "#2DD4BF"
         },
         {
-            "active" : "true",
+            "active" : "false",
             "name" : "quiz",
             "ico" : "https://img.icons8.com/ios/130/ffffff/what.png",
             "bg" : "#4ADE80"
         },
         {
-            "active" : "true",
+            "active" : "false",
             "name" : "wallpapers",
             "ico" : "https://img.icons8.com/ios/130/ffffff/tails.png",
             "bg" : "#2196F3"
@@ -125,130 +127,32 @@
     
     "data" : [
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "Recipes for Observing Ramadan",
+            "img1" : "https://static01.nyt.com/images/2020/03/11/dining/31Ramadan-Roundup-topart/merlin_169211892_aad6eff1-2659-451c-9405-f50fce820228-superJumbo.jpg?quality=75&auto=webp",
+            "img2" : "https://static01.nyt.com/images/2020/03/11/dining/31Ramadan-Roundup-topart/merlin_169211892_aad6eff1-2659-451c-9405-f50fce820228-superJumbo.jpg?quality=75&auto=webp",
+            "part1" : "With the holiest month in the Islamic calendar right around the corner, plans for suhoor and iftar meals, which bookend long days of fasting, are well underway across the globe",
+            "part2" : "Below is just a sampling of recipes often found on tables across cultures and countries throughout the holiday, which begins on March 22 in the United States and comes to a close with Eid al-Fitr on April 21. Some are savory, others are sweet, but all are sure to satisfy."
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "1. Hilib Sambuus (Fried Beef Dumplings)",
+            "img1" : "https://static01.nyt.com/images/2023/03/22/multimedia/31RAMADAN-Roundup-sambuus/20RAMADANrex3-sambuus-cblv-superJumbo.jpg?quality=75&auto=webp",
+            "img2" : "https://static01.nyt.com/images/2023/03/22/multimedia/31RAMADAN-Roundup-sambuus/20RAMADANrex3-sambuus-cblv-superJumbo.jpg?quality=75&auto=webp",
+            "part1" : "While chicken, tuna and other seafood variations of these samosa-related Somali fried dumplings exist, Ifrah F. Ahmed uses a more common spiced ground beef filing in her recipe",
+            "part2" : "She also utilizes store-bought tortillas for the wrappers rather than making pastry from scratch, a welcome shortcut during large Ramadan meal preparations. A side of basbaas cagaar, a green hot sauce that comes together in 10 minutes, is a must."
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "2. Carrot Maqluba",
+            "img1" : "https://static01.nyt.com/images/2021/04/07/dining/31Ramadan-roundup-Maqlubeh/merlin_185308044_d86614f1-5f30-4124-9d83-85da702bbed9-superJumbo.jpg?quality=75&auto=webp",
+            "img2" : "https://static01.nyt.com/images/2021/04/07/dining/31Ramadan-roundup-Maqlubeh/merlin_185308044_d86614f1-5f30-4124-9d83-85da702bbed9-superJumbo.jpg?quality=75&auto=webp",
+            "part1" : "A traditional Palestinian dish, this striking mound of turmeric-tinged rice, tender meat and slivered carrots comes together in a single pot in one hour, making it a suitable option for concluding a day’s fasting",
+            "part2" : "Reem Kassis’s version streamlines the often time-consuming recipe by opting for boneless rib-eye steak and good-quality store-bought broth."
         },
         {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "name" : "3. Fatima’s Fingers (Tunisian Egg Rolls)",
+            "img1" : "https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_4:3/k%2Farchive%2F0a89f40a16e755007763ab2a520aae8f04f7769c",
+            "img2" : "https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_4:3/k%2Farchive%2F0a89f40a16e755007763ab2a520aae8f04f7769c",
+            "part1" : "While many versions of these delicate fried pastries can be found across North Africa and the Middle East, they are usually made with malsouka pastry sheets",
+            "part2" : "In this version, which Jamel Charouel adapted from his father, spring roll wrappers are used to encase a ras el hanout-spiced chicken and potato filling."
         }
       ]
 }
