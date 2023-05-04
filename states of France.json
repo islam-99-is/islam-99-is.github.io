@@ -30,37 +30,37 @@
             "bg" : "#FB923C"
         },
         {
-            "active" : "true",
+            "active" : "false",
             "name" : "puzzle",
             "ico" : "https://img.icons8.com/ios/130/ffffff/puzzle.png",
             "bg" : "#FBBF24"
         },
         {
-            "active" : "true",
+            "active" : "false",
             "name" : "spinner",
             "ico" : "https://img.icons8.com/ios/130/ffffff/rgb-circle-1.png",
             "bg" : "#A3E635"
         },
         {
-            "active" : "true",
+            "active" : "false",
             "name" : "scratch",
             "ico" : "https://img.icons8.com/ios/130/ffffff/erase-image.png",
             "bg" : "#38BDF8"
         },
         {
-            "active" : "true",
+            "active" : "false",
             "name" : "questions",
             "ico" : "https://img.icons8.com/ios/130/ffffff/how-many-quest--v2.png",
             "bg" : "#2DD4BF"
         },
         {
-            "active" : "true",
+            "active" : "false",
             "name" : "quiz",
             "ico" : "https://img.icons8.com/ios/130/ffffff/what.png",
             "bg" : "#4ADE80"
         },
         {
-            "active" : "true",
+            "active" : "false",
             "name" : "wallpapers",
             "ico" : "https://img.icons8.com/ios/130/ffffff/tails.png",
             "bg" : "#2196F3"
@@ -125,130 +125,46 @@
     
     "data" : [
         {
-            "name" : "",
+            "name" : "Prevention of torture",
             "img1" : "",
             "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "part1" : "The European Committee for the prevention of torture visits places of detention",
+            "part2" : "(for juvenile or immigration detainees, police stations, psychiatric hospitals) in order to assess how persons deprived of their liberty are treated."
         },
         {
-            "name" : "",
+            "name" : "Fight against racism",
             "img1" : "",
             "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "part1" : "The European Commission against Racism and Intolerance (ECRI) is an independent monitoring body which provides member",
+            "part2" : "States with concrete and practical advice on how to tackle problems of racism and intolerance in their country."
         },
         {
-            "name" : "",
+            "name" : "Protection of social rights",
             "img1" : "",
             "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "part1" : "The European Social Charter is a Council of Europe treaty which guarantees social and economic human rights. It was adopted in 1961 and revised in 1996",
+            "part2" : "The European Committee of Social Rights rules on the conformity of the situation in States with the European Social Charter, the 1988 Additional Protocol and the Revised European Social Charter."
         },
         {
-            "name" : "",
+            "name" : "Protection of minorities",
             "img1" : "",
             "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "part1" : "The Framework Convention for the Protection of National Minorities provides for a monitoring system to evaluate how the treaty is implemented in State Parties",
+            "part2" : "An advisory Committee adopts recommendations to improve minority protection. France has not signed the Convention."
         },
         {
-            "name" : "",
+            "name" : "Fight against corruption",
             "img1" : "",
             "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "part1" : "The Group of States against Corruption (GRECO) monitors member states' compliance with the Council of Europe anti-corruption",
+            "part2" : "standards with the objective to improve the capacity of its members to fight corruption."
         },
         {
-            "name" : "",
+            "name" : "Democracy through Law",
             "img1" : "",
             "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
-        },
-        {
-            "name" : "",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "",
-            "part2" : ""
+            "part1" : "he European Commission for Democracy through Law - the Venice Commission - is an advisory body on constitutional matters which plays a leading role in the adoption ",
+            "part2" : "of constitutions that conform to the standards of Europe's constitutional heritage"
         }
       ]
 }
