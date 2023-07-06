@@ -2,13 +2,12 @@
     "config" : [
         {
           "activate_ads" : "true",
-          "activate_steps" : "true",
-          "activate_step_email" : "true",
+          "activate_steps" : "false",
+          "activate_step_email" : "false",
           "network" : "admob",
           "admob_ban" : "ca-app-pub-3940256099942544/6300978111",
           "admob_native" : "ca-app-pub-3940256099942544/2247696110",
           "admob_int" : "ca-app-pub-3940256099942544/1033173712",
-          "admob_open" : "ca-app-pub-3940256099942544/3419835294",
           "yandex_banner" : "R-M-1820435-1",
           "yandex_native" : "R-M-1820435-2",
           "yandex_int" : "R-M-1820435-3",
@@ -19,15 +18,13 @@
           "face_interstital": "IMG_16_9_APP_INSTALL#5352092381549612_5352095061549344",
           "face_native": "IMG_16_9_APP_INSTALL#5352092381549612_5352094618216055",
           "face_mrec": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-          "ironsource_key": "12c959ebd",
-          "cpa_img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQgLb_jegoW0TjYVL7GjI1w7hI6re75uvhytCeCgcb&s",
-          "cpa_url" : "https://play.google.com/store/apps/details?id=com.instagram.android"
+          "ironsource_key": "12c959ebd"
         }
     ],
     
     "menu" : [
         {
-            "active" : "true",
+            "active" : "false",
             "name" : "Guide Tips",
             "ico" : "",
             "bg" : "#FB923C"
@@ -39,13 +36,13 @@
             "bg" : "#FBBF24"
         },
         {
-            "active" : "true",
+            "active" : "false",
             "name" : "spinner",
             "ico" : "https://img.icons8.com/ios/130/ffffff/rgb-circle-1.png",
             "bg" : "#A3E635"
         },
         {
-            "active" : "true",
+            "active" : "false",
             "name" : "scratch",
             "ico" : "https://img.icons8.com/ios/130/ffffff/erase-image.png",
             "bg" : "#38BDF8"
@@ -63,7 +60,7 @@
             "bg" : "#4ADE80"
         },
         {
-            "active" : "true",
+            "active" : "false",
             "name" : "wallpapers",
             "ico" : "https://img.icons8.com/ios/130/ffffff/tails.png",
             "bg" : "#2196F3"
@@ -86,102 +83,60 @@
     "wallpapers" : [
         {
             "name" : "",
-            "img" : "https://wallpapercave.com/dwp1x/wp6540054.png"
+            "img" : ""
         },
         {
             "name" : "",
-            "img" : "https://wallpapercave.com/dwp1x/wp6540068.png"
+            "img" : ""
         },
         {
             "name" : "",
-            "img" : "https://wallpapercave.com/dwp1x/wp6540085.png"
+            "img" : ""
         },
         {
             "name" : "",
-            "img" : "https://wallpapercave.com/dwp1x/wp6540112.png"
+            "img" : ""
         },
         {
             "name" : "",
-            "img" : "https://wallpapercave.com/dwp1x/wp5606717.png"
+            "img" : ""
         },
         {
             "name" : "",
-            "img" : "https://wallpapercave.com/dwp1x/wp6540123.png"
+            "img" : ""
         },
         {
             "name" : "",
-            "img" : "https://wallpapercave.com/dwp1x/wp6540133.jpg"
+            "img" : ""
         },
         {
             "name" : "",
-            "img" : "https://wallpapercave.com/dwp1x/wp6540135.jpg"
+            "img" : ""
         },
         {
             "name" : "",
-            "img" : "https://wallpapercave.com/dwp1x/wp6540139.jpg"
+            "img" : ""
         },
         {
             "name" : "",
-            "img" : "https://wallpapercave.com/dwp1x/wp6540143.png"
+            "img" : ""
         }
     ],
     
     "data" : [
         {
-            "name" : "Beginner Tips For BeamNG.drive",
-            "img1" : "https://wallpapercave.com/dwp1x/wp6540054.png",
-            "img2" : "https://wallpapercave.com/dwp1x/wp6540054.png",
-            "part1" : "This racing game offers a unique take on the genre, but can be tricky for newcomers. Here are a few tips for players starting out.",
-            "part2" : "BeamNG.drive is a racing and vehicle simulation game, all about — as to be expected — driving and handling cars. Many fans of racing games enjoy BeamNG.drive due to the way it realistically handles crashes and damages to the vehicles. Of course, though, there are some people who have no idea what they are getting into when it comes to what the game has to offer. The controls are considered tricky to get used to, and some gameplay aspects are unlike other racing games. To help those just diving into this title, here are some beginner tips for players to learn about before they fully take the plunge into BeamNG.drive and start driving around with their cars."
+            "name" : "",
+            "img1" : "",
+            "img2" : "",
+            "part1" : "",
+            "part2" : ""
         },
         {
-            "name" : "Use a Controller",
-            "img1" : "https://wallpapercave.com/dwp1x/wp6540068.png",
-            "img2" : "https://wallpapercave.com/dwp1x/wp6540068.png",
-            "part1" : "A lot of new players' struggles in BeamNG.drive come down to the strange and sometimes downright janky controls. The keyboard controls are not the greatest to deal with, and a player may find it frustrating.",
-            "part2" : "Luckily, other players have figured out that a lot of these problems can be fixed by using a regular console controller. Once the player maps their buttons to the actual controller, it will be much easier to play. Controls will be more fluid, and the player will not have to actively hunt and remember which key to press at which times."
-        },
-        {
-            "name" : "Get Used To The Controls",
-            "img1" : "https://wallpapercave.com/dwp1x/wp6540085.png",
-            "img2" : "https://wallpapercave.com/dwp1x/wp6540085.png",
-            "part1" : "As mentioned above, this is considered the biggest hurdle among many BeamNG.drive players. Once gamers start to get familiar with the controls, they will realize that there are a lot of buttons and controls to get used to. It will take a little while for a player to figure out which buttons do what in this racing game, but once they do, it will feel like second nature to them.",
-            "part2" : "There are a lot of inputs in BeamNG.drive for a player to get used to. One button could change the physics of what they are driving. Another one, for example, could switch out what car the player is using in the middle of driving. It may take some trial and error to get used to them all."
-        },
-        {
-            "name" : "Start In Free Roam Mode",
-            "img1" : "https://wallpapercave.com/dwp1x/wp6540112.png",
-            "img2" : "https://wallpapercave.com/dwp1x/wp6540112.png",
-            "part1" : "Free roam is, essentially, the open-world mode of BeamNG.drive. This means that there are no time trials, the player is not racing against anyone, and they are allowed to explore the map to their heart's content.",
-            "part2" : "Free roam mode will be a great way for the player to get acquainted with the controls of the game. The player will be able to play at their own leisure, and see which buttons cause what to happen. It is essentially the sandbox mode of the game, and gives players an opportunity to learn the mechanics."
-        },
-        {
-            "name" : "Use The Replay And Reload Functions",
-            "img1" : "https://wallpapercave.com/dwp1x/wp5606717.png",
-            "img2" : "https://wallpapercave.com/dwp1x/wp5606717.png",
-            "part1" : "There are two functions that players may not realize are incredibly useful when it comes to trying out different things in BeamNG.drive, and getting their simulation just right. These two functions are the Retry Scenario and Reload Vehicle options.",
-            "part2" : "Because a player will often be retrying their simulation after one wrong move or not being able to make a turn just right, both of these functions will be incredibly useful for them. On top of this, a player can simply switch out their car at will whenever they want to try something new."
-        },
-        {
-            "name" : "Change Vehicles To Play Around",
-            "img1" : "https://wallpapercave.com/dwp1x/wp6540123.png",
-            "img2" : "https://wallpapercave.com/dwp1x/wp6540123.png",
-            "part1" : "Like most other racing games, each vehicle that a player can use in the game runs differently. Perhaps one car is heavier but handles better, while another car is lighter and faster but trades off with severe difficulty in making turns.",
-            "part2" : "A player should not simply lock themselves into having one car only. Although some cars can mesh better with players than other cars, it is still a good idea to try and branch out and test out the other cars, even if it is for a brief moment or two."
-        },
-        {
-            "name" : "Try Out Slow Motion",
-            "img1" : "https://wallpapercave.com/dwp1x/wp6540133.jpg",
-            "img2" : "https://wallpapercave.com/dwp1x/wp6540133.jpg",
-            "part1" : "Slow motion is a rather interesting concept, and not one that is often explored in racing games, which sets BeamNG.drive apart from the masses. A player may think it is counterintuitive for a racing game to have slow motion. However, it is interesting to play around with to see how a player does a certain turn, and so on.",
-            "part2" : "The player can enable slow motion in order to squeeze into tight spaces and drive with more accuracy. After the player is done, they can enable real time as easily as they turned on slow motion."
-        },
-        {
-            "name" : "Try Out Time Trials",
-            "img1" : "https://wallpapercave.com/dwp1x/wp6540135.jpg",
-            "img2" : "https://wallpapercave.com/dwp1x/wp6540135.jpg",
-            "part1" : "After getting a good feel of the controls in BeamNG.drive and being able to drive a car with pretty good accuracy, a player might be interested in trying out time trials. Time trials are a good challenge for a player who wants to improve their skills quickly.",
-            "part2" : "Time trials will have the player racing against enemies and attempting to get to the finish line before they do. One of the main goals is to beat the player's previous record, as beating their old record will be a great way to see how much they have improved over time."
+            "name" : "",
+            "img1" : "",
+            "img2" : "",
+            "part1" : "",
+            "part2" : ""
         }
       ]
 }
