@@ -1,13 +1,14 @@
 {
     "config" : [
         {
-          "activate_ads" : "false",
+          "activate_ads" : "true",
           "activate_steps" : "true",
           "activate_step_email" : "true",
           "network" : "admob",
-          "admob_ban" : "ca-app-pub-7467116021377002/2384822935",
-          "admob_native" : "ca-app-pub-7467116021377002/7235740650",
-          "admob_int" : "ca-app-pub-7467116021377002/1071741267",
+          "admob_ban" : "ca-app-pub-3940256099942544/6300978111",
+          "admob_native" : "ca-app-pub-3940256099942544/2247696110",
+          "admob_int" : "ca-app-pub-3940256099942544/1033173712",
+          "admob_open" : "ca-app-pub-3940256099942544/3419835294",
           "yandex_banner" : "R-M-1820435-1",
           "yandex_native" : "R-M-1820435-2",
           "yandex_int" : "R-M-1820435-3",
@@ -18,7 +19,9 @@
           "face_interstital": "IMG_16_9_APP_INSTALL#5352092381549612_5352095061549344",
           "face_native": "IMG_16_9_APP_INSTALL#5352092381549612_5352094618216055",
           "face_mrec": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-          "ironsource_key": "12c959ebd"
+          "ironsource_key": "12c959ebd",
+          "cpa_img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQgLb_jegoW0TjYVL7GjI1w7hI6re75uvhytCeCgcb&s",
+          "cpa_url" : "https://play.google.com/store/apps/details?id=com.instagram.android"
         }
     ],
     
