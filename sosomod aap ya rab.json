@@ -1,14 +1,14 @@
-{Q
+{
     "config" : [
         {
           "activate_ads" : "true",
           "activate_steps" : "true",
           "activate_step_email" : "true",
           "network" : "admob",
-          "admob_ban" : "ca-app-pub-7467116021377002/4336693341",
-          "admob_native" : "ca-app-pub-7467116021377002/9205876644",
-          "admob_int" : "ca-app-pub-7467116021377002/2832039982",
-          "admob_open" : "ca-app-pub-7467116021377002/2365136121",
+          "admob_ban" : "ca-app-pub-7467116021377002/5969339211",
+          "admob_native" : "ca-app-pub-7467116021377002/5777767526",
+          "admob_int" : "ca-app-pub-7467116021377002/4081542475",
+          "admob_open" : "ca-app-pub-7467116021377002/7829215792",
           "yandex_banner" : "R-M-1820435-1",
           "yandex_native" : "R-M-1820435-2",
           "yandex_int" : "R-M-1820435-3",
