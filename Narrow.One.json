@@ -1,6 +1,6 @@
 {
   
-    "myads": {
+    "Isb_myads": {
 		
 	  "_status_reward": "ADMOB",
 	  "_status_banner_native": "ADMOB",
@@ -11,7 +11,7 @@
 	  "_applovin_banner": "296685bbed39d4f9",
       "_applovin_reward": "3ece17d5a85411f6",
 	  "_maxNative": "4b3b3d32a7a2e7d1",
-      "_test_mode": "yes",
+      "_test_mode": "no",
       "_unityGameID": "4710101",
 	  "_ironsource": "1632ba565",
 	  "_gameUrl": "https://poki.com/fr/g/narrow-one#fullscreen",
