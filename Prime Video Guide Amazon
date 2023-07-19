@@ -1,0 +1,194 @@
+{
+    "config" : [
+        {
+          "activate_ads" : "true",
+          "activate_steps" : "true",
+          "activate_step_email" : "true",
+          "network" : "admob",
+          "admob_ban" : "ca-app-pub-7467116021377002/2171959777",
+          "admob_native" : "ca-app-pub-7467116021377002/6633948961",
+          "admob_int" : "ca-app-pub-7467116021377002/6984985520",
+          "admob_open" : "ca-app-pub-7467116021377002/1980388086",
+          "yandex_banner" : "R-M-1820435-1",
+          "yandex_native" : "R-M-1820435-2",
+          "yandex_int" : "R-M-1820435-3",
+          "max_ban" : "ceda1a6dd62a0502",
+          "max_int" : "3805b3b693717700",
+          "max_native" : "9e27ff985bda79be",
+          "face_banner": "IMG_16_9_APP_INSTALL#5352092381549612_5352094308216086",
+          "face_interstital": "IMG_16_9_APP_INSTALL#5352092381549612_5352095061549344",
+          "face_native": "IMG_16_9_APP_INSTALL#5352092381549612_5352094618216055",
+          "face_mrec": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+          "ironsource_key": "12c959ebd",
+          "cpa_img" : "https://a.poki.com/cdn-cgi/image/quality=78,width=1200,height=600,f=auto/opengraph/3/categories/minecraft.png",
+          "cpa_url" : "https://play.google.com/store/apps/developer?id=Games+Of+Day"
+        }
+    ],
+    
+    "menu" : [
+        {
+            "active" : "true",
+            "name" : "Guide Tips",
+            "ico" : "",
+            "bg" : "#FB923C"
+        },
+        {
+            "active" : "true",
+            "name" : "puzzle",
+            "ico" : "https://img.icons8.com/ios/130/ffffff/puzzle.png",
+            "bg" : "#FBBF24"
+        },
+        {
+            "active" : "true",
+            "name" : "spinner",
+            "ico" : "https://img.icons8.com/ios/130/ffffff/rgb-circle-1.png",
+            "bg" : "#A3E635"
+        },
+        {
+            "active" : "true",
+            "name" : "scratch",
+            "ico" : "https://img.icons8.com/ios/130/ffffff/erase-image.png",
+            "bg" : "#38BDF8"
+        },
+        {
+            "active" : "true",
+            "name" : "questions",
+            "ico" : "https://img.icons8.com/ios/130/ffffff/how-many-quest--v2.png",
+            "bg" : "#2DD4BF"
+        },
+        {
+            "active" : "true",
+            "name" : "quiz",
+            "ico" : "https://img.icons8.com/ios/130/ffffff/what.png",
+            "bg" : "#4ADE80"
+        },
+        {
+            "active" : "true",
+            "name" : "wallpapers",
+            "ico" : "https://img.icons8.com/ios/130/ffffff/tails.png",
+            "bg" : "#2196F3"
+        },
+        {
+            "active" : "true",
+            "name" : "rate",
+            "ico" : "https://img.icons8.com/ios/130/ffffff/star--v1.png",
+            "bg" : "#3F51B5"
+        },
+        {
+            "active" : "true",
+            "name" : "gdpr",
+            "ico" : "https://img.icons8.com/ios/130/ffffff/gdpr.png",
+            "bg" : "#673AB7"
+        }
+
+    ],
+
+    "wallpapers" : [
+        {
+            "name" : "",
+            "img" : ""
+        },
+        {
+            "name" : "",
+            "img" : ""
+        },
+        {
+            "name" : "",
+            "img" : ""
+        },
+        {
+            "name" : "",
+            "img" : ""
+        },
+        {
+            "name" : "",
+            "img" : ""
+        },
+        {
+            "name" : "",
+            "img" : ""
+        },
+        {
+            "name" : "",
+            "img" : ""
+        },
+        {
+            "name" : "",
+            "img" : ""
+        },
+        {
+            "name" : "",
+            "img" : ""
+        },
+        {
+            "name" : "",
+            "img" : ""
+        }
+    ],
+    
+    "data" : [
+        {
+            "name" : "How to watch Amazon Prime Video on TV",
+            "img1" : "https://i0.wp.com/allthingsdigitaladvertising.com/wp-content/uploads/2022/07/Amazon-Prime-Video-homepage-featured-image.png?fit=1200%2C628&ssl=1",
+            "img2" : "https://i0.wp.com/allthingsdigitaladvertising.com/wp-content/uploads/2022/07/Amazon-Prime-Video-homepage-featured-image.png?fit=1200%2C628&ssl=1",
+            "part1" : "Amazon's streaming service Amazon Video - or Amazon Prime Video - is the main global rival to Netflix, and like its peer it offers TV shows and movies to watch instantly on an internet-connected device.",
+            "part2" : "Amazon invests fortunes in original TV content, and also covers sports exclusive to the platform, so you need a subscription to access them. If you want to watch those - or any of the thousands of other programmes or films - this is all that you need to know, including how to get it on your TV."
+        },
+        {
+            "name" : "What is Amazon Video and how much does it cost?",
+            "img1" : "https://www.cloudwards.net/wp-content/uploads/2022/09/How-to-Watch-Prime-Video.png",
+            "img2" : "https://www.cloudwards.net/wp-content/uploads/2022/09/How-to-Watch-Prime-Video.png",
+            "part1" : "Amazon Video is the name given to Amazon's TV show and movie streaming application and service available on multiple devices. It comprises two elements: there are thousands of films and TV box-sets to rent or purchase digitally, which you pay for on an ad hoc basis; there is also Amazon Prime Video, a subscription service that offers thousands of other TV shows and movies to watch as part of Prime membership.",
+            "part2" : "Prime content is clearly marked as such, and much of the TV programming available is homegrown. Amazon Originals is the name of the many series made by Amazon itself, plus localised exclusives, such as Vikings and Mr Robot, that might be screened on TV in the US but are first available to Prime members in the UK, for example."
+        },
+        {
+            "name" : "How to watch Amazon Prime Video on your TV",
+            "img1" : "https://i.ytimg.com/vi/K4U51_1CWFo/maxresdefault.jpg",
+            "img2" : "https://i.ytimg.com/vi/K4U51_1CWFo/maxresdefault.jpg",
+            "part1" : "Amazon Video apps are available for many Smart TVs from multiple manufacturers. These include, but are not exclusive to, TVs from LG, Panasonic, Samsung and Sony. You just need to download the app onto your set, open it, enter your Amazon account details and away you go.",
+            "part2" : "Many TVs are also able to playback 4K HDR content too, with some supporting Dolby Atmos. You can find compatible models here."
+        },
+        {
+            "name" : "How to watch Amazon Prime Video on a set-top box or streaming stick",
+            "img1" : "https://image.winudf.com/v2/image1/Y29tLmFtYXppbmdwcmltZXZpZGVvLnByaW1ldmlkZW8udmlkZW9zdHJlYW0uc3RyZWFtLnZpZGVvLnByaW1ldmlkZW9ndWlkZV9zY3JlZW5fMF8xNTkyMTEzODAyXzA1MA/screen-0.webp?fakeurl=1&type=.webp",
+            "img2" : "https://image.winudf.com/v2/image1/Y29tLmFtYXppbmdwcmltZXZpZGVvLnByaW1ldmlkZW8udmlkZW9zdHJlYW0uc3RyZWFtLnZpZGVvLnByaW1ldmlkZW9ndWlkZV9zY3JlZW5fMF8xNTkyMTEzODAyXzA1MA/screen-0.webp?fakeurl=1&type=.webp",
+            "part1" : "Amazon Video apps are also available for a selection of set-top boxes and this is generally the cheapest and easiest way to watch Amazon Video on your TV.",
+            "part2" : "Amazon's own streaming devices - the Amazon Fire TV Stick - have access hard baked into their operating systems, so you see the content as part of the home screen menus and search results. They are compatible with Alexa and offer a direct route to Amazon content. Amazon Prime Video is also available on common streaming sticks and boxes:"
+        },
+        {
+            "name" : "How to watch Amazon Prime Video on a games console",
+            "img1" : "https://i.pcmag.com/imagery/reviews/02dIsBiVpmVTMeXkrKxWy0W-32..v1594065279.png",
+            "img2" : "https://i.pcmag.com/imagery/reviews/02dIsBiVpmVTMeXkrKxWy0W-32..v1594065279.png",
+            "part1" : "There are Amazon Prime Video apps for all the major consoles: PS4, PS5, Xbox One and Xbox Series X/S. On all devices, you just need to navigate using a gamepad or optional dedicated remote control. There is no support on Nintendo Switch.",
+            "part2" : ""
+        },
+        {
+            "name" : "How to watch Amazon Prime Video on a smartphone or tablet",
+            "img1" : "https://assets.isu.pub/document-structure/230506070207-a90eedc73adb04bb681797a0076f9858/v1/7a9fe28677288b0a3cce7d0151336db2.jpeg",
+            "img2" : "https://assets.isu.pub/document-structure/230506070207-a90eedc73adb04bb681797a0076f9858/v1/7a9fe28677288b0a3cce7d0151336db2.jpeg",
+            "part1" : "Android and iOS devices, such as iPhone and iPad, have their own Amazon Video apps, available from the respective app stores. Naturally, Amazon also fully supports all of its own Fire tablets. They all have the content accessible from a dedicated section of Fire OS.",
+            "part2" : ""
+        },
+        {
+            "name" : "How to watch Amazon Prime Video on a PC or Mac",
+            "img1" : "https://i.ytimg.com/vi/iZ13E4EwI3k/maxresdefault.jpg",
+            "img2" : "https://i.ytimg.com/vi/iZ13E4EwI3k/maxresdefault.jpg",
+            "part1" : "Amazon Video content, Prime or otherwise, can be viewed on a PC or Mac through an internet browser. Just head to the Amazon Video section of its website and you can choose between Prime shows and movies or the retailer's digital video store. Video played on a computer can be viewed in either SD or HD, but will only have stereo sound.",
+            "part2" : ""
+        },
+        {
+            "name" : "Does Amazon Video offer downloads?",
+            "img1" : "https://i.ytimg.com/vi/iZ13E4EwI3k/maxresdefault.jpg",
+            "img2" : "https://i.ytimg.com/vi/iZ13E4EwI3k/maxresdefault.jpg",
+            "part1" : "Rentals and purchases through Amazon Video can be downloaded, as well as a lot of the subscription covered content on Amazon Prime Video. Just head to the content you want to download on a mobile device and hit the download button.",
+            "part2" : ""
+        },
+        {
+            "name" : "What broadband speed do I need for Amazon Video?",
+            "img1" : "https://i.ytimg.com/vi/iZ13E4EwI3k/maxresdefault.jpg",
+            "img2" : "https://i.ytimg.com/vi/iZ13E4EwI3k/maxresdefault.jpg",
+            "part1" : "Amazon streams video using adaptive bitrate technology, which adapts the image quality depending on your device and internet connection. Its subscription includes 4K Ultra HD streaming. You also need to be able to attain decent broadband speeds. These are the minimum broadband speeds that are recommended for different resolutions:",
+            "part2" : ""
+        }
+      ]
+}
