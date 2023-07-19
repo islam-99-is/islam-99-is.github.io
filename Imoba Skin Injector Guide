@@ -1,0 +1,208 @@
+{
+    "config" : [
+        {
+          "activate_ads" : "true",
+          "activate_steps" : "true",
+          "activate_step_email" : "true",
+          "network" : "admob",
+          "admob_ban" : "ca-app-pub-7467116021377002/3007309542",
+          "admob_native" : "ca-app-pub-7467116021377002/2091234576",
+          "admob_int" : "ca-app-pub-7467116021377002/3404316242",
+          "admob_open" : "ca-app-pub-7467116021377002/3001825719",
+          "yandex_banner" : "R-M-1820435-1",
+          "yandex_native" : "R-M-1820435-2",
+          "yandex_int" : "R-M-1820435-3",
+          "max_ban" : "ceda1a6dd62a0502",
+          "max_int" : "3805b3b693717700",
+          "max_native" : "9e27ff985bda79be",
+          "face_banner": "IMG_16_9_APP_INSTALL#5352092381549612_5352094308216086",
+          "face_interstital": "IMG_16_9_APP_INSTALL#5352092381549612_5352095061549344",
+          "face_native": "IMG_16_9_APP_INSTALL#5352092381549612_5352094618216055",
+          "face_mrec": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+          "ironsource_key": "12c959ebd",
+          "cpa_img" : "https://a.poki.com/cdn-cgi/image/quality=78,width=1200,height=600,f=auto/opengraph/3/categories/minecraft.png",
+          "cpa_url" : "https://play.google.com/store/apps/developer?id=Games+Of+Day"
+        }
+    ],
+    
+    "menu" : [
+        {
+            "active" : "true",
+            "name" : "Guide Tips",
+            "ico" : "",
+            "bg" : "#FB923C"
+        },
+        {
+            "active" : "true",
+            "name" : "puzzle",
+            "ico" : "https://img.icons8.com/ios/130/ffffff/puzzle.png",
+            "bg" : "#FBBF24"
+        },
+        {
+            "active" : "false",
+            "name" : "spinner",
+            "ico" : "https://img.icons8.com/ios/130/ffffff/rgb-circle-1.png",
+            "bg" : "#A3E635"
+        },
+        {
+            "active" : "true",
+            "name" : "scratch",
+            "ico" : "https://img.icons8.com/ios/130/ffffff/erase-image.png",
+            "bg" : "#38BDF8"
+        },
+        {
+            "active" : "false",
+            "name" : "questions",
+            "ico" : "https://img.icons8.com/ios/130/ffffff/how-many-quest--v2.png",
+            "bg" : "#2DD4BF"
+        },
+        {
+            "active" : "false",
+            "name" : "quiz",
+            "ico" : "https://img.icons8.com/ios/130/ffffff/what.png",
+            "bg" : "#4ADE80"
+        },
+        {
+            "active" : "false",
+            "name" : "wallpapers",
+            "ico" : "https://img.icons8.com/ios/130/ffffff/tails.png",
+            "bg" : "#2196F3"
+        },
+        {
+            "active" : "true",
+            "name" : "rate",
+            "ico" : "https://img.icons8.com/ios/130/ffffff/star--v1.png",
+            "bg" : "#3F51B5"
+        },
+        {
+            "active" : "true",
+            "name" : "gdpr",
+            "ico" : "https://img.icons8.com/ios/130/ffffff/gdpr.png",
+            "bg" : "#673AB7"
+        }
+
+    ],
+
+    "wallpapers" : [
+        {
+            "name" : "",
+            "img" : "https://wallpapercave.com/dwp1x/wp6696517.jpg"
+        },
+        {
+            "name" : "",
+            "img" : "https://wallpapercave.com/dwp1x/wp6696518.jpg"
+        },
+        {
+            "name" : "",
+            "img" : "https://wallpapercave.com/dwp1x/wp6696524.jpg"
+        },
+        {
+            "name" : "",
+            "img" : "https://wallpapercave.com/dwp1x/wp6696526.jpg"
+        },
+        {
+            "name" : "",
+            "img" : "https://wallpapercave.com/dwp1x/wp6696526.jpg"
+        },
+        {
+            "name" : "",
+            "img" : "https://wallpapercave.com/dwp1x/wp6696531.jpg"
+        },
+        {
+            "name" : "",
+            "img" : "https://wallpapercave.com/dwp1x/wp6696555.jpg"
+        },
+        {
+            "name" : "",
+            "img" : "https://wallpapercave.com/dwp1x/wp6696562.jpg"
+        },
+        {
+            "name" : "",
+            "img" : "https://wallpapercave.com/dwp1x/wp6696572.jpg"
+        },
+        {
+            "name" : "",
+            "img" : "https://wallpapercave.com/dwp1x/wp6696593.jpg"
+        }
+    ],
+    
+    "data" : [
+        {
+            "name" : "What is the IMOBA Bangmamet Injector APK?",
+            "img1" : "https://i0.wp.com/apkalbum.net/wp-content/uploads/Reborn-imoba-2022-logo.jpg?resize=1100%2C618&ssl=1",
+            "img2" : "https://i0.wp.com/apkalbum.net/wp-content/uploads/Reborn-imoba-2022-logo.jpg?resize=1100%2C618&ssl=1",
+            "part1" : "The mobile game Mod IMOBA Bangmamet Injector APK is developed by a team of passionate people who know exactly what it takes to create a truly unique mobile experience that players around the world will crave. You can enjoy an immersive, action-packed experience that can be played on any Android device. Moreover, it will give you access to endless battle effects, excellent drone views, new maps, characters, weapons, and avatar skins. Not only this, but it also brings you battle emotes, analogue devices, ML backgrounds and borders, and custom maps. You’ll be amazed after using it once to discover that the list goes on. We can refer to it as an all-encompassing MLBB application.",
+            "part2" : "So, it is completely free and 100% safe to use, which means there is no chance of getting lost in the MOBA games. Moreover, it also helps you unlock unlimited challenges and levels, through which you can get rewards. These rewards will help you unlock more and more features in the games."
+        },
+        {
+            "name" : "Features of the IMOBA Bangmamet Injector APK:",
+            "img1" : "https://i.ytimg.com/vi/x6UKhhE07yc/maxresdefault.jpg",
+            "img2" : "https://i.ytimg.com/vi/x6UKhhE07yc/maxresdefault.jpg",
+            "part1" : "If you need to play MOBA games, you’ll love this version of IMOBA Bangmamet Injector APK! It has been optimised to deliver the best possible experience on mobile devices. Features include:",
+            "part2" : "You can now view the map from the drone’s point of view. This is great when you are planning attacks and want to know exactly where your opponent is standing and what they are doing."
+        },
+        {
+            "name" : "Battle Emotes:",
+            "img1" : "https://i.ytimg.com/vi/zp4xypAi184/mqdefault.jpg",
+            "img2" : "https://i.ytimg.com/vi/zp4xypAi184/mqdefault.jpg",
+            "part1" : "The new battle emotes in the IMOBA Bangmamet Injector APK are used to convey basic emotions like happiness, sadness, anger, surprise, shock, etc..",
+            "part2" : "The new battle emotes in the IMOBA Bangmamet Injector APK are used to convey basic emotions like happiness, sadness, anger, surprise, shock, etc."
+        },
+        {
+            "name" : "Aim Bot:",
+            "img1" : "https://apkdraft.com/wp-content/uploads/2023/06/IMOBA-Bangmamet-Injector-apk-image.jpg",
+            "img2" : "https://apkdraft.com/wp-content/uploads/2023/06/IMOBA-Bangmamet-Injector-apk-image.jpg",
+            "part1" : "Aim Bot enables you to aim automatically and hit any target at any angle. You can practise at the speed of light using this new technology!",
+            "part2" : "Aim Bot enables you to aim automatically and hit any target at any angle. You can practise at the speed of light using this new technology!"
+        },
+        {
+            "name" : "Aim Lock:",
+            "img1" : "https://apkdraft.com/wp-content/uploads/2023/06/IMOBA-Bangmamet-Injector-apk-image.jpg",
+            "img2" : "https://apkdraft.com/wp-content/uploads/2023/06/IMOBA-Bangmamet-Injector-apk-image.jpg",
+            "part1" : "The Aim Lock feature lets you lock the cursor so you can focus on firing and manoeuvring your hero. This helps you get better aim in fast-paced games.",
+            "part2" : "The Aim Lock feature lets you lock the cursor so you can focus on firing and manoeuvring your hero. This helps you get better aim in fast-paced games."
+        },
+        {
+            "name" : "New MOBA Maps:",
+            "img1" : "https://play-lh.googleusercontent.com/7-z-pjnqJ9rMPIGyv8B_4fQMO9D6xAtQjbRnhBFr1cZ1byL3J5lESEC-QSycEyDeLK8=w1024-h500",
+            "img2" : "https://play-lh.googleusercontent.com/7-z-pjnqJ9rMPIGyv8B_4fQMO9D6xAtQjbRnhBFr1cZ1byL3J5lESEC-QSycEyDeLK8=w1024-h500",
+            "part1" : "There are unlimited new maps. Each of the maps has its specialities. Some are more strategic, while others are more team-oriented.",
+            "part2" : "There are unlimited new maps. Each of the maps has its specialities. Some are more strategic, while others are more team-oriented."
+        },
+        {
+            "name" : "Unlock Characters:",
+            "img1" : "https://play-lh.googleusercontent.com/7-z-pjnqJ9rMPIGyv8B_4fQMO9D6xAtQjbRnhBFr1cZ1byL3J5lESEC-QSycEyDeLK8=w1024-h500",
+            "img2" : "https://play-lh.googleusercontent.com/7-z-pjnqJ9rMPIGyv8B_4fQMO9D6xAtQjbRnhBFr1cZ1byL3J5lESEC-QSycEyDeLK8=w1024-h500",
+            "part1" : "IMOBA Bangmamet Injector APK is just like the MOBA game mod but with a difference. Unlock all characters and create a unique team using this mode.",
+            "part2" : "IMOBA Bangmamet Injector APK is just like the MOBA game mod but with a difference. Unlock all characters and create a unique team using this mode."
+        },
+        {
+            "name" : "How to Download IMOBA Bangmamet Injector APK?",
+            "img1" : "https://nbsreborn.net/wp-content/uploads/2023/03/Reborn-Imoba.webp",
+            "img2" : "https://nbsreborn.net/wp-content/uploads/2023/03/Reborn-Imoba.webp",
+            "part1" : "First, click the download button at the top of the content. Wait for the downloading process. After finishing the downloading process open your download files and search and open the app Go to your mobile setting and allow the Unknown Source option to install third-party apps.",
+            "part2" : "Click on the install button and start the installation process. After the installation, the app’s icon will be shown on your mobile screen click on it and enjoy the latest features Allow all the further asked options."
+        },
+        {
+            "name" : "Conclusion:",
+            "img1" : "https://nbsreborn.net/wp-content/uploads/2023/03/Reborn-Imoba.webp",
+            "img2" : "https://nbsreborn.net/wp-content/uploads/2023/03/Reborn-Imoba.webp",
+            "part1" : "A lot has changed over the years. But there was one thing that always stood true: quality software and tools. The IMOBA Bangmamet Injector is the best in its field. So, you can stop struggling and start cranking out great content. You’ve come to the right place!",
+            "part2" : " A lot has changed over the years. But there was one thing that always stood true: quality software and tools. The IMOBA Bangmamet Injector is the best in its field. So, you can stop struggling and start cranking out great content. You’ve come to the right place!"
+        },
+        {
+            "name" : "What is MOBA Bangmamet Injector APK?",
+            "img1" : "",
+            "img2" : "",
+            "part1" : "The mobile game Mod MOBA Bangmamet Injector APK is developed by a team of passionate people who know exactly what it takes to create a truly unique mobile experience that players around the world will crave.",
+            "part2" : "The mobile game Mod MOBA Bangmamet Injector APK is developed by a team of passionate people who know exactly what it takes to create a truly unique mobile experience that players around the world will crave."
+        },
+        {
+            "name" : "Is it Safe to Install/Download?",
+            "img1" : "https://nbsreborn.net/wp-content/uploads/2023/03/Reborn-Imoba.webp",
+            "img2" : "https://nbsreborn.net/wp-content/uploads/2023/03/Reborn-Imoba.webp",
+            "part1" : "Yes, it is safe and secures to install for all Android users.",
+            "part2" : "Yes, it is safe and secures to install for all Android users."
+        }
+      ]
+}
