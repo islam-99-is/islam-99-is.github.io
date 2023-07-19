@@ -5,10 +5,10 @@
           "activate_steps" : "true",
           "activate_step_email" : "true",
           "network" : "admob",
-          "admob_ban" : "ca-app-pub-7467116021377002/8567087908",
-          "admob_native" : "ca-app-pub-7467116021377002/2117229623",
-          "admob_int" : "ca-app-pub-7467116021377002/4627842895",
-          "admob_open" : "ca-app-pub-7467116021377002/8567087908",
+          "admob_ban" : "ca-app-pub-7467116021377002/2312331086",
+          "admob_native" : "ca-app-pub-7467116021377002/8574487105",
+          "admob_int" : "ca-app-pub-7467116021377002/6890187579",
+          "admob_open" : "ca-app-pub-7467116021377002/6890187579",
           "yandex_banner" : "R-M-1820435-1",
           "yandex_native" : "R-M-1820435-2",
           "yandex_int" : "R-M-1820435-3",
@@ -29,7 +29,7 @@
         {
             "active" : "true",
             "name" : "Guide Tips",
-            "ico" : "https://img.icons8.com/ios/130/ffffff/puzzle.png",
+            "ico" : "",
             "bg" : "#FB923C"
         },
         {
@@ -39,7 +39,7 @@
             "bg" : "#FBBF24"
         },
         {
-            "active" : "true",
+            "active" : "false",
             "name" : "spinner",
             "ico" : "https://img.icons8.com/ios/130/ffffff/rgb-circle-1.png",
             "bg" : "#A3E635"
@@ -51,13 +51,13 @@
             "bg" : "#38BDF8"
         },
         {
-            "active" : "true",
+            "active" : "false",
             "name" : "questions",
             "ico" : "https://img.icons8.com/ios/130/ffffff/how-many-quest--v2.png",
             "bg" : "#2DD4BF"
         },
         {
-            "active" : "true",
+            "active" : "false",
             "name" : "quiz",
             "ico" : "https://img.icons8.com/ios/130/ffffff/what.png",
             "bg" : "#4ADE80"
@@ -86,158 +86,158 @@
     "wallpapers" : [
         {
             "name" : "",
-            "img" : ""
+            "img" : "https://wallpapercave.com/dwp1x/wp6696517.jpg"
         },
         {
             "name" : "",
-            "img" : ""
+            "img" : "https://wallpapercave.com/dwp1x/wp6696518.jpg"
         },
         {
             "name" : "",
-            "img" : ""
+            "img" : "https://wallpapercave.com/dwp1x/wp6696524.jpg"
         },
         {
             "name" : "",
-            "img" : ""
+            "img" : "https://wallpapercave.com/dwp1x/wp6696526.jpg"
         },
         {
             "name" : "",
-            "img" : ""
+            "img" : "https://wallpapercave.com/dwp1x/wp6696526.jpg"
         },
         {
             "name" : "",
-            "img" : ""
+            "img" : "https://wallpapercave.com/dwp1x/wp6696531.jpg"
         },
         {
             "name" : "",
-            "img" : ""
+            "img" : "https://wallpapercave.com/dwp1x/wp6696555.jpg"
         },
         {
             "name" : "",
-            "img" : ""
+            "img" : "https://wallpapercave.com/dwp1x/wp6696562.jpg"
         },
         {
             "name" : "",
-            "img" : ""
+            "img" : "https://wallpapercave.com/dwp1x/wp6696572.jpg"
         },
         {
             "name" : "",
-            "img" : ""
+            "img" : "https://wallpapercave.com/dwp1x/wp6696593.jpg"
         }
     ],
     
     "data" : [
         {
-            "name" : "iBomma Telugu, Tamil Latest Movies Free Download (2022) | iBomma Movies Download",
-            "img1" : "https://i0.wp.com/www.kvsroahmedabad.org/wp-content/uploads/2022/11/iBOMMA-Telugu-Movies.png?fit=2630%2C1472&ssl=1",
-            "img2" : "https://i0.wp.com/www.kvsroahmedabad.org/wp-content/uploads/2022/11/iBOMMA-Telugu-Movies.png?fit=2630%2C1472&ssl=1",
-            "part1" : "It is one of the most famous pirated websites after torrent websites like Tamilblasters, Filmywap, Moviewood, etc. It is most famous for providing new Bollywood movies online for free. In today’s time, there are many free movie download websites on the internet, from where viewers can easily download any movie. one of them iBomma one Telugu Movies",
-            "part2" : "But do you know that these websites from where you download free movies are illegal and the government has banned all these websites? Today we will discuss these topics further in this post. On this website, you will get all the movies in good quality. There are movies on this website in formats like Avi, Mkv, 3gp, Mp4, HD, Full HD, etc."
+            "name" : "Gas Station Simulator Tips",
+            "img1" : "https://wallpapercave.com/dwp1x/wp6696524.jpg",
+            "img2" : "https://wallpapercave.com/dwp1x/wp6696524.jpg",
+            "part1" : "Delivery truck stuck in Gas Station Simulator, or perhaps you want to know the best way to make money? Here's my Gas Station Simulator tips...",
+            "part2" : "The first question you might ask is how to make money in Gas Station Simulator? That’s pretty obvious, but the fastest way is to get a loan, and the biggest earner is repairing cars in the workshop. That said, if you have a lot of variety of stock on your shop floor, there’s potential for that to be a faster way to make money. Though make sure you’re the one on the register. Not that kind of register."
         },
         {
-            "name" : "iBomma Telugu Movies 2022",
-            "img1" : "https://www.newsbugz.com/wp-content/uploads/2022/06/ibomma.jpg",
-            "img2" : "https://www.newsbugz.com/wp-content/uploads/2022/06/ibomma.jpg",
-            "part1" : "If you want to download iBomma Telugu New Movies 2022 released on I bomma, then for your information, let us tell you that the I bomma Movies Download Website is completely banned from the crime of piracy",
-            "part2" : "If you want to watch Telugu New Movies then we are providing you the list of New Telugu Movies below, from there you can watch New Telugu Movies safely and legally."
+            "name" : "Press The Big Red Button",
+            "img1" : "https://vulgarknight.com/wp-content/uploads/2021/09/Gas-Station-Simulator-Tips-Red-button.jpg.webp",
+            "img2" : "https://vulgarknight.com/wp-content/uploads/2021/09/Gas-Station-Simulator-Tips-Red-button.jpg.webp",
+            "part1" : "The most important Gas Station Simulator tip I can give is pushing the big red button next to the open/close switch at the station’s front. I can’t recall if this was pointed out in the tutorial, but Drago Entertainment has since released an update and mentioned the button once more.",
+            "part2" : "Customers aren’t always right, and for some bizarre reason, they’ll randomly flip their cars over, forcing a neverending tailback and subsequent saved games. But before going back to an earlier state, head to the very front sign for the Dust Bowl, and there’s a big red flashing button with a UFO above. PRESS IT! There’s no consequence other than a UFO removing all cars and people on-site (including your employees who don’t understand the concept of opening a door. You won’t be marked down on popularity or lose any money, but it’ll give a bit of breathing space to get everyone set up again."
         },
         {
-            "name" : "Features Of The iBomma Site",
-            "img1" : "https://i.ytimg.com/vi/UJiRXmd7BgQ/maxresdefault.jpg",
-            "img2" : "https://i.ytimg.com/vi/UJiRXmd7BgQ/maxresdefault.jpg",
-            "part1" : "iBomma is a web-based project management website that helps you manage your projects and tasks easily. There is a huge collection of movies and features for your entertainment. Check out this list of Obama features so you can decide if this website is the right tool for your needs.",
-            "part2" : "All categories and classifications like action, love, dream, adventure, and sci-fi are available on this site. iBomma has all the movies available in Telugu, Tamil, Kannada, Malayalam, Hindi, and English.From here you can watch and download movies without spending any money."
+            "name" : "Forget About Dennis",
+            "img1" : "https://wallpapercave.com/dwp1x/wp6696526.jpg",
+            "img2" : "https://wallpapercave.com/dwp1x/wp6696526.jpg",
+            "part1" : "Dennis the pennis is a pain in the arse, but his spraypaint antics aren’t as bad as in Gas Station Simulator Prologue. Sure, it’s ugly having a massive cock painted on the side of your establishment, but it doesn’t affect the customer’s viewpoint. Other than the cosmetic element, his graffitiing the walls can be ignored.",
+            "part2" : "However… make sure to close your warehouse after each delivery as he WILL steal your stock. Even in the late game, he never takes a considerable amount, but it’s frequent. As soon as the delivery driver hops in, wait until the counter shows about 20 as they move away, then shut the door."
         },
         {
-            "name" : "iBomma Movies in Telugu 2022",
-            "img1" : "https://www.diaryexpert.com/wp-content/uploads/2022/08/TrumpIsGoingToJail-4.png",
-            "img2" : "https://www.diaryexpert.com/wp-content/uploads/2022/08/TrumpIsGoingToJail-4.png",
-            "part1" : "Parugo Parugu (2022) Trigger (2022) Nenu meeku baaga kavalsina vaadini (2022)Thiru (2022)",
-            "part2" : "Alluri (2022) Krishna Vrinda Vihari (2022) Dongalunnaru Jagratta (2022)"
+            "name" : "Completing Objectives",
+            "img1" : "https://vulgarknight.com/wp-content/uploads/2021/09/Gas-Station-Simulator-Tips-Objectives.jpg.webp",
+            "img2" : "https://vulgarknight.com/wp-content/uploads/2021/09/Gas-Station-Simulator-Tips-Objectives.jpg.webp",
+            "part1" : "To level up the station, you need to complete tasks such as filling up tanks, serving on the register, fixing cars in the workshop and getting tips. All of these tasks can be automated by employees, but I’d recommend you start with the tills.",
+            "part2" : "This is the fastest way to get the tips, and you’re more likely to get them than your staff. Once completed, focus on fuelling (fastest objective to complete), then the repair work. In the last challenge, you need to serve 250 customers on the register, and this goes much faster if you have staff doing it while you focus elsewhere."
         },
         {
-            "name" : "iBomma New Telugu Movies Free Download",
-            "img1" : "https://i0.wp.com/technogold.in/wp-content/uploads/2022/09/iBomma-Movies-Download-2022.jpg",
-            "img2" : "https://i0.wp.com/technogold.in/wp-content/uploads/2022/09/iBomma-Movies-Download-2022.jpg",
-            "part1" : "iBomma uses a famous torrent site to download new Telugu movies online for free. iBomma is a popular public torrent website, which is famous for leaks of pirated content. The torrent website releases movies in HD quality and provides a variety of new Telugu movie categories.",
-            "part2" : "People who love watching movies can visit the iBomma blog to watch free movies. Torrent site iBomma often leaks the latest Telugu movies online which is illegal and violates the laws. There are different types of domains through this website on which the movies are released. The movies available on the website come in HD format. The piracy website is changing its domain every now and then and leaking new Telugu movies online. You can browse the full range of movies on the ibomma piracy site and ibomma HD Hollywood Movie Download is not a legitimate download platform for movies."
+            "name" : "Upgrade Your Features",
+            "img1" : "https://wallpapercave.com/dwp1x/wp6696526.jpg",
+            "img2" : "https://wallpapercave.com/dwp1x/wp6696526.jpg",
+            "part1" : "Decorations look like for your station, but they aren’t as essential as the feature upgrades. Installing new parking spaces increases the flow of customers, and toilets will fast track popularity as the more customers, the more there is a need for facilities.",
+            "part2" : "The Gas Station Simulator bus stop upgrade is a requirement, but its only function is to bring in an influx of partygoers now and then that boosts your earnings but wreck your joint."
         },
         {
-            "name" : "iBomma.com Telugu Movies 2022",
-            "img1" : "https://clickitornot.com/wp-content/uploads/2022/04/iBOMMA-Movies-Download-and-Watch-Online.jpg",
-            "img2" : "https://clickitornot.com/wp-content/uploads/2022/04/iBOMMA-Movies-Download-and-Watch-Online.jpg",
-            "part1" : "Friends iBomma .com is a torrent website that provides the option to watch and download new Telugu movies online",
-            "part2" : " This domain iBomma.com has now been banned by the government. So you can’t open it. You can now use OTT platforms that are safe for you to watch movies."
+            "name" : "Party People",
+            "img1" : "https://wallpapercave.com/dwp1x/wp6696531.jpg",
+            "img2" : "https://wallpapercave.com/dwp1x/wp6696531.jpg",
+            "part1" : "This is only a tiny tip, but when you hear the beats of the party bus arriving, make sure to fill your shelves with everything you’ve got. These party customers will buy more than anyone else, so an excellent way to earn some dosh.",
+            "part2" : "It’s not so important to serve them yourself, so I recommend keeping an employee on the till and you manually cleaning while they’re in the queue – sweeping and picking up the trash as they continually make a mess while on your premises, which will lower the popularity."
         },
         {
-            "name" : "Telugu Movies Genres List",
-            "img1" : "https://clickitornot.com/wp-content/uploads/2022/04/iBOMMA-Movies-Download-and-Watch-Online.jpg",
-            "img2" : "https://clickitornot.com/wp-content/uploads/2022/04/iBOMMA-Movies-Download-and-Watch-Online.jpg",
-            "part1" : "Action Horror Romantic",
-            "part2" : "Biography Comedy Science Fiction"
+            "name" : "Watch Your Stock",
+            "img1" : "https://vulgarknight.com/wp-content/uploads/2021/09/Gas-Station-Simulator-Tips-Stock-image.jpg.webp",
+            "img2" : "https://vulgarknight.com/wp-content/uploads/2021/09/Gas-Station-Simulator-Tips-Stock-image.jpg.webp",
+            "part1" : "Variety is the spice of life, as it is in retail too. Making sure to buy the relevant helves so you can stock a wide range of goods. It’s not about selling lots of the same product, but the more choice, the more customers will spend.",
+            "part2" : "Start small and purchase all available shelves based on your level, and try to buy one of everything (as long as it’s a green price as they’re cheaper than the red). Keep it frequently stocked, then expand to the larger shelves. "
         },
         {
-            "name" : "Telugu Movies Quality",
-            "img1" : "https://i.ytimg.com/vi/Y1yYMXhXdBI/maxresdefault.jpg",
-            "img2" : "https://i.ytimg.com/vi/Y1yYMXhXdBI/maxresdefault.jpg",
-            "part1" : "360p 480p 720p",
-            "part2" : "1080p 2160p"
+            "name" : "Which To Upgrade First: Workshop or Warehouse?",
+            "img1" : "https://wallpapercave.com/dwp1x/wp6696555.jpg",
+            "img2" : "https://wallpapercave.com/dwp1x/wp6696555.jpg",
+            "part1" : "The workshop consistently provides the best source of income, pending you buy in goods cheap; you can make a good profit. With the warehouse, this will dictate how much stock you can store, hence the variety. ",
+            "part2" : "Both structures can be upgraded up to level 5, as long as you have the money to do so and your station is beefed up. It’s possible to keep the workshop the same for a bit and repair the scratches, wheels and mirrors for a tidy profit, but the final stage allows for two cars to be fixed simultaneously, thus increasing your income."
         },
         {
-            "name" : "iBomma Hindi Movies Download",
-            "img1" : "https://i.ytimg.com/vi/Y1yYMXhXdBI/maxresdefault.jpg",
-            "img2" : "https://i.ytimg.com/vi/Y1yYMXhXdBI/maxresdefault.jpg",
-            "part1" : "Friends, if you like to watch Hindi movies apart from Telugu movies and are searching by typing I bomma Hindi movies on the internet, then you have been given the legal way to watch HD quality Hindi movies in the list below",
-            "part2" : " Whichever movie you want to watch from this list, you can watch that movie by visiting its Official Streaming Partner’s App or Website."
+            "name" : "Fix My Ride",
+            "img1" : "https://wallpapercave.com/dwp1x/wp6696562.jpg",
+            "img2" : "https://wallpapercave.com/dwp1x/wp6696562.jpg",
+            "part1" : "Always try to stock up on car parts when at a profit. It might be worth taking out a loan and buying a dozen tyres as these are the most required parts and give a good return.",
+            "part2" : "Suppose you see a notification that a customer is at the garage, head there straight away and activate the button that raises the ramps. This locks them in, so to speak so that if you don’t have the parts, you can order from the computer, get them delivered, complete the work without them leaving. If you don’t put them on the ramp, they’ll get impatient and leave, and based on the income; it’s not worth losing them. You do have a large window to service them, however."
         },
         {
-            "name" : "iBomma Kannada Movie Download",
-            "img1" : "",
-            "img2" : "",
-            "part1" : "iBomma is also ready to download Kannada movies. This torrent website is a popular website that also leaks Kannada movies illegally",
-            "part2" : " Website users can easily download unlimited movies for free. This torrent website does not require any registration, so people are coming to this torrent website to download unlimited movies.Nowadays people are very interested in watching movies online, so the use of Torrent websites like iBomma is increasing day by day. It is illegal to visit pirated websites like iBomma and people with a tendency to use these torrent websites should never use these torrent websites. People should always use legal platforms like Netflix, and Prime Video to stream or download movies."
+            "name" : "Loan Sharking",
+            "img1" : "https://vulgarknight.com/wp-content/uploads/2021/09/Gas-Station-Simulator-Tips-Loaner.jpg.webp",
+            "img2" : "https://vulgarknight.com/wp-content/uploads/2021/09/Gas-Station-Simulator-Tips-Loaner.jpg.webp",
+            "part1" : "This is clearly an exploit that can’t last long, but if you’re struggling, take out a loan at every opportunity. In return, you’ll get $1000 immediately and about 20 minutes to pay it back. Only… you don’t need to pay it back. Towards the end, you only need to pay back $5000 (not accumulated – you need a full $5k to pay back in one go, but there’s no time limit).",
+            "part2" : "When your time is up, the biker grunt will show up, drop your popularity by 100, take some beer and spray paint up to three times inside the building. As with Dennis, this doesn’t affect popularity, so it’s worth getting in debt for once. "
         },
         {
-            "name" : "Kantara Movie Download in Telugu Ibomma",
-            "img1" : "https://i.ytimg.com/vi/Y1yYMXhXdBI/maxresdefault.jpg",
-            "img2" : "https://i.ytimg.com/vi/Y1yYMXhXdBI/maxresdefault.jpg",
-            "part1" : "Kantara is an Indian Kannada language action thriller film movie. Whose IMBD Rating of 9.0/10 is also excellent. This movie was released in India on 30 September 2022",
-            "part2" : "The budget of Kantara Movie was Rs 16 crores and it did a business of Rs 377 crores at the box office. The main characters of this movie are Rishab Shetty, Kishore, Achyuth Kumar, and Pramod Shetty. This movie was also uploaded on Ibomma shortly after its release."
+            "name" : "Keep An Eye On Fuel",
+            "img1" : "https://wallpapercave.com/dwp1x/wp6696572.jpg",
+            "img2" : "https://wallpapercave.com/dwp1x/wp6696572.jpg",
+            "part1" : "In my opinion, the fuelling sections are the easiest to do, and I’d recommend boosting with the left shift key each time you fill up. The only time you’ll lose your accuracy is when you’re out of fuel.",
+            "part2" : "Fuel can be obtained from the computer, but note your capacity and the cost, as you can only buy in specified units. If you get the notification that fuel is low, order asap. If you have someone working on the pumps and the fuel runs out, they’ll return to their trailer."
         },
         {
-            "name" : "iBomma APK Download 2022",
-            "img1" : "https://i.ytimg.com/vi/Y1yYMXhXdBI/maxresdefault.jpg",
-            "img2" : "https://i.ytimg.com/vi/Y1yYMXhXdBI/maxresdefault.jpg",
-            "part1" : "Friends, Ibomma which is a pirated website, has also made an application of its own. Many people download this application and watch movies online. But friends, let us know for your information that such an application is not safe for you",
-            "part2" : "Dangerous viruses have been found in these which are hacking your mobile and computer. That’s why we do not recommend you download such applications."
+            "name" : "Hire As Much As You Can",
+            "img1" : "https://wallpapercave.com/dwp1x/wp6696593.jpg",
+            "img2" : "https://wallpapercave.com/dwp1x/wp6696593.jpg",
+            "part1" : "I settled with five employees in the end, and despite giving them the same allocated role to raise their stats, they don’t get that much better. Ideally, you need to have people stationed on the register, fuel and at least two cleaning.",
+            "part2" : "The recent update reduced the number of footprints left by customers and upped the efficiency of employees cleaning, but I haven’t noticed the difference. Two staff cleaning keeps your popularity improving, as this is where customers are most impatient."
         },
         {
-            "name" : "iBomma Alternative App & Website",
-            "img1" : "https://i.ytimg.com/vi/Y1yYMXhXdBI/maxresdefault.jpg",
-            "img2" : "https://i.ytimg.com/vi/Y1yYMXhXdBI/maxresdefault.jpg",
-            "part1" : "Friends, there are many legal OTT apps and websites to watch movies online where you can download",
-            "part2" : "and watch new and old movies online in a safe way. We have listed below some famous Indian OTT platforms from where you can watch movies online."
+            "name" : "Gas Station Simulator Employees",
+            "img1" : "https://vulgarknight.com/wp-content/uploads/2021/09/Gas-Station-Simulator-Tips-Employees.jpg.webp",
+            "img2" : "https://vulgarknight.com/wp-content/uploads/2021/09/Gas-Station-Simulator-Tips-Employees.jpg.webp",
+            "part1" : "There are far too many occasions where my staff would get stuck in the warehouse (why they go in there, I don’t know), and as a result, they’d get stuck behind the door and walk on the spot. This could usually be rectified by opening the door from both sides, but you may need to press that big red button…",
+            "part2" : "When on the fuel and register, they’re very reliable, but cleaning is dreadful. They’ll pick up track individually, but I never once saw them empty the bins, and once they’re full and letting out green fumes, your popularity will drop. Once again, two staff cleaning is a good incentive. I never once put anyone on garage duty as I did it myself. They’re supposed to work around 8 hours and then will return to their trailers. They aren’t automated in shifts, so once they leave their duty, they’ll sit by their trailers until you request them. However, they don’t cost a penny when not working. Rather than go to their trailers to speak to them and assign roles, you can do everything from the computer. By default, pay them before giving them work – you can pay a premium to improve their performance, but it’s not worth it.  Ideally, you’ll want to put them in the same role to level up their stats, but it might be worth making them all-rounders should another run out of juice and head home. An additional incentive is that you’ll unlock an achievement if you max out all their stats to 10. If that’s your thing."
         },
         {
-            "name" : "Which Are The New Sites To Download Telugu Movies?",
-            "img1" : "https://biharfeed.com/wp-content/uploads/2022/08/ibomma-min-780x470.jpg",
-            "img2" : "https://biharfeed.com/wp-content/uploads/2022/08/ibomma-min-780x470.jpg",
-            "part1" : "There are many great sites nowadays on the internet to download new Telugu movies, but some of the most popular sites include MoviesRulz. They offer a wide range of content including both new and old movies. Additionally, they offer fast and smooth download speeds so that you can start your movie downloads as soon as possible.",
-            "part2" : "If you are looking for some specific movies, then search through Moviesrulz’s extensive database to find what you are looking for. If there’s a movie you want to watch more than once, don’t forget to upload it to Zippyshare so other users can enjoy it too."
+            "name" : "Rudy, Rudy, Rudy, Rudy!",
+            "img1" : "https://wallpapercave.com/dwp1x/wp6696518.jpg",
+            "img2" : "https://wallpapercave.com/dwp1x/wp6696518.jpg",
+            "part1" : "Rudy is a necessary evil, but fortunately, only a handful of times. You’ll need ‘her’ to clear the dunes on the parking lots before upgrading, but the real use is after sandstorms.",
+            "part2" : "While you can still operate in a sandstorm, it’s best to wait it out then clean up afterwards. New dunes will form, and cars can get stuck. Though you have that big red button, driving Rudy to the spot, you can remove the sand so that the customer can drive off. Just remember to fill up on the gas, and cool her off each time."
         },
         {
-            "name" : "iBomma Domain List 2022",
-            "img1" : "https://biharfeed.com/wp-content/uploads/2022/08/ibomma-min-780x470.jpg",
-            "img2" : "https://biharfeed.com/wp-content/uploads/2022/08/ibomma-min-780x470.jpg",
-            "part1" : "Friends, as we told you that ibomma is a torrent site, so it has been banned by the government. Nevertheless, the domains of this torrent site group keep changing their domain names from time to time",
-            "part2" : "so that they are saved from the eyes of the government. We have given you a list of some domains which have been banned by the government."
+            "name" : "Gas Station Simulator Lockpicking",
+            "img1" : "https://vulgarknight.com/wp-content/uploads/2021/09/Gas-Station-Simulator-Tips-Picker.jpg.webp",
+            "img2" : "https://vulgarknight.com/wp-content/uploads/2021/09/Gas-Station-Simulator-Tips-Picker.jpg.webp",
+            "part1" : "At the start of the game, you’ll be tasked with opening a trunk, but hours later, there’s still no need for it.",
+            "part2" : "Later in the game, The Uncle will set you a goal for lock picking 10 cars in a short (ish) space of time. There are three levels: Beginner, Intermediate and Master, but they really aren’t all that difficult to ace, and you get two lockpicks per attempt (non-refillable).I’d highly recommend using the keyboard and opt for one direction or another, and each time the lock appears to move more, tap one direction and eventually, you’ll unlock it. With the mouse, it’s less accurate, and the more time there’s resistance, the picks will snap. Should you fail, a car alarm will go off, but there are no consequences. You can even pick police cars and those waiting to refuel. The side objective has no real benefit, but each successful pick will give a bit of money, but occasionally decorations you can place in your station, such as a full-sized stuffed bear. Who keeps that in their trunk?"
         },
         {
-            "name" : "Is it Illegal To Watch or Download Movies From ibomma?",
-            "img1" : "https://clickitornot.com/wp-content/uploads/2022/04/iBOMMA-Movies-Download-and-Watch-Online.jpg",
-            "img2" : "https://clickitornot.com/wp-content/uploads/2022/04/iBOMMA-Movies-Download-and-Watch-Online.jpg",
-            "part1" : "iBOMMA publishes pirated movies, TV serials, and web series. Since it is pirated content, the law prohibits a person from visiting such websites",
-            "part2" : "iBOMMA is a public torrent website popular for leaking pirated content. Each country has its own control mechanism to prevent such websites from being loaded in their countries. If we visit such websites illegally, then it is considered a crime. Each country has its own laws and punishments for people viewing copyrighted works on pirated sites."
+            "name" : "Out Of Gas",
+            "img1" : "https://wallpapercave.com/dwp1x/wp6696517.jpg",
+            "img2" : "https://wallpapercave.com/dwp1x/wp6696517.jpg",
+            "part1" : "That’s about it – well, all I can think of. I hope that these tips are helpful for you – perhaps save a bit of time in fart-arsing about.",
+            "part2" : " If anything, the biggest Gas Station Simulator tip is that red button. Once I found it, the experience was so much better, and ironically, once I knew there was a reset button, I’ve not needed it since!"
         }
       ]
 }
