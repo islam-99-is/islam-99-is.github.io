@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Abstract",
+    "preview1": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNTY4MjV8MHwxfHNlYXJjaHwzfHxhYnN0cmFjdHxlbnwwfHx8fDE2NTAxMjE2ODg&ixlib=rb-1.2.1&q=80&w=400",
+    "preview2": "https://images.unsplash.com/photo-1565619624098-cf4168a7cd9d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNTY4MjV8MHwxfHNlYXJjaHwyMnx8cGF0dGVybnxlbnwwfHx8fDE2NDM5NDYzOTI&ixlib=rb-1.2.1&q=80&w=400",
+    "preview3": "https://images.unsplash.com/photo-1642615835477-d303d7dc9ee9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNTY4MjV8MHwxfGNvbGxlY3Rpb258MzV8MzE3MDk5fHx8fHwyfHwxNjQzODA2NTI4&ixlib=rb-1.2.1&q=80&w=400"
+  },
+  {
+    "name": "Adventure",
+    "preview1": "https://images.unsplash.com/photo-1636964204923-ebb7558340b3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNTY4MjV8MHwxfGNvbGxlY3Rpb258MTk1fDMxNzA5OXx8fHx8Mnx8MTY0NTI0ODAyMg&ixlib=rb-1.2.1&q=80&w=400",
+    "preview2": "https://images.unsplash.com/photo-1642509065947-5569edd10854?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNTY4MjV8MHwxfGNvbGxlY3Rpb258MzN8MzE3MDk5fHx8fHwyfHwxNjQzODA2NTI4&ixlib=rb-1.2.1&q=80&w=400",
+    "preview3": "https://images.unsplash.com/photo-1611269035330-13ea6a4c3019?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNTY4MjV8MHwxfGNvbGxlY3Rpb258MTV8MzE3MDk5fHx8fHwyfHwxNjQzODA2NTI4&ixlib=rb-1.2.1&q=80&w=400"
+  },
+  {
+    "name": "r4t4t4",
+    "preview1": "https://images.unsplash.com/photo-1528645944521-c061770de25d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNTY4MjV8MHwxfHNlYXJjaHwxMTd8fGZlc3RpdmFsfGVufDB8fHx8MTY0NTI5MDM4Mg&ixlib=rb-1.2.1&q=80&w=400",
+    "preview2": "https://images.unsplash.com/photo-1516450137517-162bfbeb8dba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNTY4MjV8MHwxfHNlYXJjaHwzOHx8ZmVzdGl2YWx8ZW58MHx8fHwxNjQ1MjkwMzEw&ixlib=rb-1.2.1&q=80&w=400",
+    "preview3": "https://images.unsplash.com/photo-1606029246036-7b352c188652?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNTY4MjV8MHwxfHNlYXJjaHwyMTh8fHdhbGxwYXBlciUyMG1vYmlsZXxlbnwwfHx8fDE2NDM3ODAxMTU&ixlib=rb-1.2.1&q=80&w=400"
+  }
+]
